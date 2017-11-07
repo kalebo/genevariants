@@ -4,7 +4,7 @@ import re
 
 class FindProteinFamilies:
     def create_variant_file_by_family(self, data, family):
-        outfile = open("data/BRC_variants.txt", "w")
+        outfile = open("data/" + family + "_variants.txt", "w")
         for line in data:
             features = re.split(r'\t+', line.rstrip('\t'))
             gene_name = features[1]
