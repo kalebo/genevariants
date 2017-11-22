@@ -77,13 +77,16 @@ class Preprocessor:
 
         #self.conservation = pd.DataFrame(data.strip().split(), column=columns.split()).reshape(-1, 3)
 
+        keyerrors = 0
         conservation_column = []
         for rsnum in self.data["Reference SNP Identifier"]:
             try:
                 conservation_column.append(float(self.conservation["rs"+rsnum]))
             except KeyError:
+                keyerrors += 1
                 conservation_column.append(0)
 
+        print("Imported conservation data with {} KeyErrors".format(keyerrors))
         self.data["Conservation"] = pd.Series(conservation_column)
 
     def preprocess(self, feature_list):
