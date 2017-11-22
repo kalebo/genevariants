@@ -31,6 +31,7 @@ class Preprocessor:
     default_columns = [
         "HGVS Expression",
         "Gene Symbol", 
+        "Reference SNP Identifier",
         "Nucleotide Mutation Location", 
         "Protein Mutation Location", 
         "Unmutated AA", 
@@ -59,9 +60,31 @@ class Preprocessor:
                     pastaa = preaa
             except AttributeError:
                 print(line.split('\t'))
-            data.append([hgvs, symbol, nloc, ploc, preaa, postaa, label])
+            data.append([hgvs, symbol, rsnum, nloc, ploc, preaa, postaa, label])
             self.data = pd.DataFrame(data)
             self.data.columns = self.default_columns
+
+    def add_conservation_data(self, datafile):
+
+        with open(datafile) as f:
+            columns = f.readline()
+            data = f.read()
+        
+        self.conservation = {}
+        for row in data.strip().split("\n"):
+            rsnum, _, conservation = row.split()
+            self.conservation[rsnum] = conservation
+
+        #self.conservation = pd.DataFrame(data.strip().split(), column=columns.split()).reshape(-1, 3)
+
+        conservation_column = []
+        for rsnum in self.data["Reference SNP Identifier"]:
+            try:
+                conservation_column.append(float(self.conservation["rs"+rsnum]))
+            except KeyError:
+                conservation_column.append(0)
+
+        self.data["Conservation"] = pd.Series(conservation_column)
 
     def preprocess(self, feature_list):
         for feature in feature_list:
@@ -100,5 +123,8 @@ if __name__ == '__main__':
         feature_list = get_feature_list("data/features.txt")
 
         pr = Preprocessor(aaindex, "data/BRC_variants.txt")
+        pr.add_conservation_data("data/conservation_data_BRC_family.txt")
         pr.preprocess(feature_list)
+
+
 
