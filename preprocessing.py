@@ -128,6 +128,7 @@ if __name__ == '__main__':
         pr = Preprocessor(aaindex, "data/BRC_variants.txt")
         pr.add_conservation_data("data/conservation_data_BRC_family.txt")
         pr.preprocess(feature_list)
+        pr.data.to_csv("data/BRC_full.csv")
 
 
 
