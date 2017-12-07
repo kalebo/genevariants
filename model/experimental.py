@@ -6,18 +6,31 @@ from keras.optimizers import SGD
 from keras.layers import Dense, Dropout
 from keras.utils import to_categorical
 
-ordered_labels_full = ['Benign', 
+ordered_labels_full = [
+                    'Benign', 
                     'Benign/Likely benign',
                     'Likely benign',
                     'Conflicting interpretations of pathogenicity',
                     'Likely pathogenic',
                     'Pathogenic/Likely pathogenic',
-                    'Pathogenic']
+                    'Pathogenic'
+]
+
+reduced_labels_mapping = {
+                    'Benign': 'Benign',
+                    'Benign/Likely benign': 'Benign',
+                    'Likely benign': 'Benign',
+                    'Conflicting interpretations of pathogenicity': 'Indeterminant',
+                    'Likely pathogenic': 'Pathogenic',
+                    'Pathogenic/Likely pathogenic': 'Pathogenic' ,
+                    'Pathogenic': 'Pathogenic'
+}
 
 ordered_labels_reduced = [
                     'Benign', 
-                    'Indeterminant'
-                    'Pathogenic']
+                    'Indeterminant',
+                    'Pathogenic'
+]
 
 tweak_to_hot = lambda df,col: to_categorical(df[col].astype("category").cat.codes)
 
@@ -34,9 +47,11 @@ mut = (tweak_to_hot(data, "Mutated AA"))
 
 train = np.c_[unmut, inputdata.values, mut]
 
+# Reduce labels (from 7 to 3)
+reduced_labels = data["Clinical Significance"].replace(reduced_labels_mapping)
 
 # Convert label to ordered category
-label_cat = pd.Categorical(data["Clinical Significance"], categories=ordered_labels, ordered=True)
+label_cat = pd.Categorical(reduced_labels, categories=ordered_labels_reduced, ordered=True)
 
 # convert label_cat to one hot encoding
 labels = to_categorical(pd.Series(label_cat).cat.codes)
@@ -47,7 +62,7 @@ model.add(Dropout(0.4, input_shape=(train.shape[1],) ))
 model.add(Dense(100, kernel_initializer='normal', activation='relu'))
 model.add(Dense(60, kernel_initializer='normal', activation='relu'))
 model.add(Dense(30, kernel_initializer='normal', activation='relu'))
-model.add(Dense(7, kernel_initializer='normal', activation='sigmoid'))
+model.add(Dense(labels.shape[1], kernel_initializer='normal', activation='sigmoid'))
 
 sgd = SGD(lr=0.10, momentum=0.9, decay=0.0, nesterov=False)
 #model.compile(loss='binary_crossentropy', optimizer=sgd, metrics=['accuracy'])
