@@ -6,6 +6,8 @@ from keras.optimizers import SGD
 from keras.layers import Dense, Dropout
 from keras.utils import to_categorical
 
+from sklearn.cross_validation import StratifiedKFold
+
 ordered_labels_full = [
                     'Benign', 
                     'Benign/Likely benign',
@@ -20,7 +22,7 @@ reduced_labels_mapping = {
                     'Benign': 'Benign',
                     'Benign/Likely benign': 'Benign',
                     'Likely benign': 'Benign',
-                    'Conflicting interpretations of pathogenicity': 'Indeterminant',
+                    'Conflicting interpretations of pathogenicity': 'Pathogenic',
                     'Likely pathogenic': 'Pathogenic',
                     'Pathogenic/Likely pathogenic': 'Pathogenic' ,
                     'Pathogenic': 'Pathogenic'
@@ -28,13 +30,14 @@ reduced_labels_mapping = {
 
 ordered_labels_reduced = [
                     'Benign', 
-                    'Indeterminant',
                     'Pathogenic'
 ]
 
 tweak_to_hot = lambda df,col: to_categorical(df[col].astype("category").cat.codes)
 
+#def load_and_process(filename):
 data = pd.read_csv("./data/BRC_full.csv")
+
 inputdata = data[['Conservation', 'PALJ810102', 'CHOP780216',
                 'ONEK900102', 'BIOV880101', 'FUKS010108', 'CEDJ970102', 'CHAM820101',
                 'FAUJ880107', 'MAXF760104', 'ZIMJ680104', 'GEIM800109', 'GEOR030106',
@@ -59,14 +62,14 @@ labels = to_categorical(pd.Series(label_cat).cat.codes)
 model = Sequential()
 
 model.add(Dropout(0.4, input_shape=(train.shape[1],) ))
-model.add(Dense(100, kernel_initializer='normal', activation='relu'))
+model.add(Dense(120, kernel_initializer='normal', activation='relu'))
 model.add(Dense(60, kernel_initializer='normal', activation='relu'))
 model.add(Dense(30, kernel_initializer='normal', activation='relu'))
-model.add(Dense(labels.shape[1], kernel_initializer='normal', activation='sigmoid'))
+model.add(Dense(labels.shape[1], kernel_initializer='normal', activation='softmax'))
 
 sgd = SGD(lr=0.10, momentum=0.9, decay=0.0, nesterov=False)
-#model.compile(loss='binary_crossentropy', optimizer=sgd, metrics=['accuracy'])
-model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
+model.compile(loss='binary_crossentropy', optimizer=sgd, metrics=['accuracy'])
+#model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
 
 # Older model
 # model.add(Dense(units=20, activation='relu', input_dim=train.shape[1]))
