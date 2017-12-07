@@ -5,7 +5,7 @@ import re
 class GatherConservationData:
 
     def write_rs_chrom_cons_to_file(self, rs_to_chrom, chrom_to_cons):
-        outfile = open("data/conservation_data_BRCA1.txt", "w")
+        outfile = open("data/conservation_data_TTN.txt", "w")
         outfile.write("#rsNum\tChromStart\tConservation\n")
         count = 0
         for rs, chrom in rs_to_chrom.items():
@@ -17,10 +17,10 @@ class GatherConservationData:
         print("this many keys missing: " + str(count))
 
     def load_files(self):
-        chrm_rs_path_name = os.path.join("data", "chrom_start_with_rs_BRCA1.txt")
+        chrm_rs_path_name = os.path.join("data", "chrom_start_with_rs_TTN.txt")
         chromPos_rsNum_file = open(chrm_rs_path_name, "r")
         
-        chrm_cons_path_name = os.path.join("data", "conservation_by_chrom_pos_BRCA1.txt")
+        chrm_cons_path_name = os.path.join("data", "conservation_by_chrom_pos_TTN.txt")
         chromPos_conservation_file = open(chrm_cons_path_name, "r")
         
         rs_to_chrom = dict()        #key: rs number, value: chromosome start position

@@ -1,0 +1,2278 @@
+NM_001256850.1(TTN):c.100167C>T (p.Asp33389=)	TTN	Conflicting interpretations of pathogenicity	72629789
+NM_001256850.1(TTN):c.100204C>T (p.Arg33402Cys)	TTN	Conflicting interpretations of pathogenicity	200378865
+NM_001256850.1(TTN):c.100289C>G (p.Ser33430Cys)	TTN	Likely benign	3813249
+NM_001256850.1(TTN):c.100413G>A (p.Lys33471=)	TTN	Likely benign	546048021
+NM_001256850.1(TTN):c.10049C>T (p.Pro3350Leu)	TTN	Likely benign	139504522
+NM_001256850.1(TTN):c.100647A>G (p.Ser33549=)	TTN	Benign	377340289
+NM_001256850.1(TTN):c.100831C>T (p.Arg33611Ter)	TTN	Pathogenic/Likely pathogenic	886043924
+NM_001256850.1(TTN):c.101655T>A (p.Ser33885=)	TTN	Conflicting interpretations of pathogenicity	55838839
+NM_001256850.1(TTN):c.10188A>G (p.Glu3396=)	TTN	Benign/Likely benign	183336802
+NM_001256850.1(TTN):c.101897C>T (p.Ala33966Val)	TTN	Conflicting interpretations of pathogenicity	377337528
+NM_001256850.1(TTN):c.101934C>T (p.Asn33978=)	TTN	Benign	116604145
+NM_001256850.1(TTN):c.102211A>C (p.Asn34071His)	TTN	Conflicting interpretations of pathogenicity	727504949
+NM_001256850.1(TTN):c.102238T>C (p.Phe34080Leu)	TTN	Likely benign	794729251
+NM_001256850.1(TTN):c.102441C>T (p.Ser34147=)	TTN	Likely benign	1057521273
+NM_001256850.1(TTN):c.102712C>T (p.Gln34238Ter)	TTN	Conflicting interpretations of pathogenicity	757082154
+NM_001256850.1(TTN):c.102777A>G (p.Glu34259=)	TTN	Benign/Likely benign	55832587
+NM_001256850.1(TTN):c.102877G>T (p.Gly34293Ter)	TTN	Conflicting interpretations of pathogenicity	368277535
+NM_001256850.1(TTN):c.102917T>G (p.Ile34306Ser)	TTN	Likely pathogenic	281864928
+NM_001256850.1(TTN):c.10440A>G (p.Thr3480=)	TTN	Likely benign	373708340
+NM_001256850.1(TTN):c.10524A>G (p.Glu3508=)	TTN	Likely benign	1057523983
+NM_001256850.1(TTN):c.10555G>A (p.Val3519Met)	TTN	Conflicting interpretations of pathogenicity	397517825
+NM_001256850.1(TTN):c.10632C>T (p.Thr3544=)	TTN	Likely benign	11899887
+NM_001256850.1(TTN):c.10721C>T (p.Thr3574Ile)	TTN	Conflicting interpretations of pathogenicity	148164929
+NM_001256850.1(TTN):c.10768C>G (p.Leu3590Val)	TTN	Benign	55853696
+NM_001256850.1(TTN):c.10837G>A (p.Glu3613Lys)	TTN	Likely benign	186624523
+NM_001256850.1(TTN):c.10905G>T (p.Gly3635=)	TTN	Likely benign	1057524094
+NM_001256850.1(TTN):c.11040T>C (p.Ile3680=)	TTN	Benign/Likely benign	565546452
+NM_001256850.1(TTN):c.11166C>T (p.Pro3722=)	TTN	Benign	55895721
+NM_001256850.1(TTN):c.11283C>G (p.Thr3761=)	TTN	Benign/Likely benign	192857526
+NM_001256850.1(TTN):c.11304T>C (p.Ile3768=)	TTN	Benign	2742357
+NM_001256850.1(TTN):c.11356T>C (p.Leu3786=)	TTN	Benign	587780988
+NM_001256850.1(TTN):c.1137A>G (p.Arg379=)	TTN	Conflicting interpretations of pathogenicity	55972547
+NM_001256850.1(TTN):c.11381C>G (p.Ala3794Gly)	TTN	Likely benign	140289517
+NM_001256850.1(TTN):c.11782A>C (p.Asn3928His)	TTN	Likely benign	199652066
+NM_001256850.1(TTN):c.11790G>A (p.Glu3930=)	TTN	Likely benign	879121745
+NM_001256850.1(TTN):c.11829G>A (p.Ala3943=)	TTN	Benign	746578
+NM_001256850.1(TTN):c.1185C>T (p.Ala395=)	TTN	Likely benign	372346898
+NM_001256850.1(TTN):c.11922C>G (p.Val3974=)	TTN	Likely benign	747114179
+NM_001256850.1(TTN):c.12035G>A (p.Arg4012Lys)	TTN	Likely benign	199560188
+NM_001256850.1(TTN):c.12157C>T (p.Gln4053Ter)	TTN	Pathogenic	267607158
+NM_001256850.1(TTN):c.12251G>A (p.Arg4084Gln)	TTN	Benign/Likely benign	200431386
+NM_001256850.1(TTN):c.12262G>A (p.Ala4088Thr)	TTN	Likely benign	794729253
+NM_001256850.1(TTN):c.12267C>T (p.Ala4089=)	TTN	Benign	1883084
+NM_001256850.1(TTN):c.12567A>G (p.Glu4189=)	TTN	Likely benign	764376907
+NM_001256850.1(TTN):c.12633T>C (p.Tyr4211=)	TTN	Likely benign	780863409
+NM_001256850.1(TTN):c.12643A>C (p.Thr4215Pro)	TTN	Benign	2562829
+NM_001256850.1(TTN):c.12667G>A (p.Val4223Met)	TTN	Conflicting interpretations of pathogenicity	201046911
+NM_001256850.1(TTN):c.12849A>C (p.Leu4283Phe)	TTN	Benign	1883085
+NM_001256850.1(TTN):c.13284G>A (p.Lys4428=)	TTN	Likely benign	756868442
+NM_001256850.1(TTN):c.13473G>C (p.Val4491=)	TTN	Conflicting interpretations of pathogenicity	374479775
+NM_001256850.1(TTN):c.13581C>T (p.Ser4527=)	TTN	Likely benign	977012928
+NM_001256850.1(TTN):c.13584C>T (p.Asp4528=)	TTN	Likely benign	184307461
+NM_001256850.1(TTN):c.13833C>A (p.Leu4611=)	TTN	Benign/Likely benign	373875040
+NM_001256850.1(TTN):c.13837C>A (p.Pro4613Thr)	TTN	Likely benign	201744218
+NM_001256850.1(TTN):c.14055T>C (p.His4685=)	TTN	Likely benign	771278620
+NM_001256850.1(TTN):c.14382C>T (p.Asp4794=)	TTN	Likely benign	368695667
+NM_001256850.1(TTN):c.1449C>T (p.Ala483=)	TTN	Likely benign	141617218
+NM_001256850.1(TTN):c.14591G>C (p.Gly4864Ala)	TTN	Likely benign	201185434
+NM_001256850.1(TTN):c.14955C>T (p.Val4985=)	TTN	Benign/Likely benign	375179152
+NM_001256850.1(TTN):c.15005A>C (p.Lys5002Thr)	TTN	Likely benign	779733584
+NM_001256850.1(TTN):c.15021G>A (p.Glu5007=)	TTN	Likely benign	1057522988
+NM_001256850.1(TTN):c.15066G>A (p.Val5022=)	TTN	Benign	587780989
+NM_001256850.1(TTN):c.15206T>C (p.Met5069Thr)	TTN	Conflicting interpretations of pathogenicity	375417155
+NM_001256850.1(TTN):c.15471A>G (p.Gln5157=)	TTN	Benign/Likely benign	371026448
+NM_001256850.1(TTN):c.15630C>T (p.Val5210=)	TTN	Likely benign	373179717
+NM_001256850.1(TTN):c.156C>T (p.Pro52=)	TTN	Benign/Likely benign	72647842
+NM_001256850.1(TTN):c.15839C>T (p.Ser5280Phe)	TTN	Likely benign	754116386
+NM_001256850.1(TTN):c.16005C>T (p.Tyr5335=)	TTN	Likely benign	755186242
+NM_001256850.1(TTN):c.16008T>C (p.Asp5336=)	TTN	Likely benign	770260995
+NM_001256850.1(TTN):c.160G>A (p.Val54Met)	TTN	Pathogenic	139517732
+NM_001256850.1(TTN):c.16164C>T (p.Gly5388=)	TTN	Benign/Likely benign	370036981
+NM_001256850.1(TTN):c.16349G>A (p.Ser5450Asn)	TTN	Likely benign	200692495
+NM_001256850.1(TTN):c.16592G>A (p.Gly5531Glu)	TTN	Conflicting interpretations of pathogenicity	185962498
+NM_001256850.1(TTN):c.16882T>G (p.Ser5628Ala)	TTN	Likely benign	776790387
+NM_001256850.1(TTN):c.16977G>A (p.Leu5659=)	TTN	Conflicting interpretations of pathogenicity	373963067
+NM_001256850.1(TTN):c.17038G>A (p.Ala5680Thr)	TTN	Conflicting interpretations of pathogenicity	72648946
+NM_001256850.1(TTN):c.17298T>C (p.Ile5766=)	TTN	Likely benign	1057522780
+NM_001256850.1(TTN):c.17412G>A (p.Gln5804=)	TTN	Likely benign	375032616
+NM_001256850.1(TTN):c.17428T>G (p.Cys5810Gly)	TTN	Conflicting interpretations of pathogenicity	370812788
+NM_001256850.1(TTN):c.1743G>A (p.Pro581=)	TTN	Conflicting interpretations of pathogenicity	138560523
+NM_001256850.1(TTN):c.17456G>A (p.Arg5819Gln)	TTN	Conflicting interpretations of pathogenicity	117551279
+NM_001256850.1(TTN):c.17580G>C (p.Val5860=)	TTN	Benign/Likely benign	370684491
+NM_001256850.1(TTN):c.17708G>C (p.Cys5903Ser)	TTN	Benign/Likely benign	191692293
+NM_001256850.1(TTN):c.17766T>A (p.Ile5922=)	TTN	Likely benign	765483284
+NM_001256850.1(TTN):c.17942T>C (p.Ile5981Thr)	TTN	Likely benign	375571785
+NM_001256850.1(TTN):c.18010A>G (p.Ile6004Val)	TTN	Conflicting interpretations of pathogenicity	145204073
+NM_001256850.1(TTN):c.18201A>G (p.Pro6067=)	TTN	Likely benign	956813031
+NM_001256850.1(TTN):c.18971C>A (p.Thr6324Asn)	TTN	Conflicting interpretations of pathogenicity	747240394
+NM_001256850.1(TTN):c.189T>C (p.Ala63=)	TTN	Likely benign	1057520389
+NM_001256850.1(TTN):c.189T>G (p.Ala63=)	TTN	Likely benign	1057520389
+NM_001256850.1(TTN):c.19074C>A (p.Ala6358=)	TTN	Benign/Likely benign	373842558
+NM_001256850.1(TTN):c.19218C>T (p.Ala6406=)	TTN	Likely benign	727504776
+NM_001256850.1(TTN):c.1953C>T (p.Ala651=)	TTN	Likely benign	778742098
+NM_001256850.1(TTN):c.19821G>A (p.Lys6607=)	TTN	Benign/Likely benign	369993514
+NM_001256850.1(TTN):c.19973C>T (p.Pro6658Leu)	TTN	Likely benign	374493881
+NM_001256850.1(TTN):c.20051A>G (p.Lys6684Arg)	TTN	Conflicting interpretations of pathogenicity	200594798
+NM_001256850.1(TTN):c.20325C>T (p.Thr6775=)	TTN	Conflicting interpretations of pathogenicity	372264428
+NM_001256850.1(TTN):c.20328A>G (p.Thr6776=)	TTN	Likely benign	727504765
+NM_001256850.1(TTN):c.20381T>C (p.Met6794Thr)	TTN	Conflicting interpretations of pathogenicity	374408615
+NM_001256850.1(TTN):c.20538C>G (p.Thr6846=)	TTN	Benign/Likely benign	376882041
+NM_001256850.1(TTN):c.20691C>T (p.Asn6897=)	TTN	Likely benign	752620885
+NM_001256850.1(TTN):c.20717G>A (p.Arg6906His)	TTN	Conflicting interpretations of pathogenicity	138853909
+NM_001256850.1(TTN):c.20826T>A (p.Ile6942=)	TTN	Likely benign	727505220
+NM_001256850.1(TTN):c.20849G>A (p.Gly6950Asp)	TTN	Conflicting interpretations of pathogenicity	375627540
+NM_001256850.1(TTN):c.21015G>A (p.Pro7005=)	TTN	Likely benign	773546767
+NM_001256850.1(TTN):c.21030G>T (p.Thr7010=)	TTN	Likely benign	775230627
+NM_001256850.1(TTN):c.21489A>G (p.Gln7163=)	TTN	Likely benign	1057521208
+NM_001256850.1(TTN):c.2151C>T (p.Pro717=)	TTN	Benign/Likely benign	374570732
+NM_001256850.1(TTN):c.21741A>T (p.Thr7247=)	TTN	Benign	187182557
+NM_001256850.1(TTN):c.22017C>T (p.Asn7339=)	TTN	Conflicting interpretations of pathogenicity	201904848
+NM_001256850.1(TTN):c.22072G>T (p.Asp7358Tyr)	TTN	Conflicting interpretations of pathogenicity	552951988
+NM_001256850.1(TTN):c.22125C>T (p.Cys7375=)	TTN	Likely benign	769505705
+NM_001256850.1(TTN):c.22134G>T (p.Ala7378=)	TTN	Likely benign	768936623
+NM_001256850.1(TTN):c.2219G>T (p.Arg740Leu)	TTN	Pathogenic	28933405
+NM_001256850.1(TTN):c.22227G>A (p.Ser7409=)	TTN	Conflicting interpretations of pathogenicity	753546095
+NM_001256850.1(TTN):c.2226C>A (p.Ser742=)	TTN	Benign/Likely benign	151025677
+NM_001256850.1(TTN):c.2228C>T (p.Ala743Val)	TTN	Pathogenic	267607157
+NM_001256850.1(TTN):c.2230G>A (p.Ala744Thr)	TTN	Benign	144639994
+NM_001256850.1(TTN):c.22431T>A (p.Pro7477=)	TTN	Likely benign	768874223
+NM_001256850.1(TTN):c.2280C>T (p.Val760=)	TTN	Benign/Likely benign	727505021
+NM_001256850.1(TTN):c.23014C>T (p.Arg7672Cys)	TTN	Conflicting interpretations of pathogenicity	201653851
+NM_001256850.1(TTN):c.23124T>G (p.Ile7708Met)	TTN	Conflicting interpretations of pathogenicity	371496970
+NM_001256850.1(TTN):c.23199C>T (p.Ser7733=)	TTN	Conflicting interpretations of pathogenicity	185062935
+NM_001256850.1(TTN):c.23205A>G (p.Thr7735=)	TTN	Likely benign	749823104
+NM_001256850.1(TTN):c.23244C>T (p.Ser7748=)	TTN	Benign/Likely benign	182425565
+NM_001256850.1(TTN):c.23502C>T (p.Leu7834=)	TTN	Likely benign	772386098
+NM_001256850.1(TTN):c.23637C>A (p.Gly7879=)	TTN	Likely benign	1057523933
+NM_001256850.1(TTN):c.23937T>C (p.Ser7979=)	TTN	Likely benign	535603112
+NM_001256850.1(TTN):c.24006T>C (p.Ala8002=)	TTN	Likely benign	758868965
+NM_001256850.1(TTN):c.24009C>T (p.Ser8003=)	TTN	Likely benign	1057522331
+NM_001256850.1(TTN):c.24090T>C (p.Ser8030=)	TTN	Likely benign	397517512
+NM_001256850.1(TTN):c.24114G>A (p.Ala8038=)	TTN	Likely benign	397517514
+NM_001256850.1(TTN):c.24115C>T (p.Arg8039Cys)	TTN	Conflicting interpretations of pathogenicity	201810836
+NM_001256850.1(TTN):c.24183A>G (p.Ala8061=)	TTN	Benign/Likely benign	371819104
+NM_001256850.1(TTN):c.24618C>T (p.Ala8206=)	TTN	Conflicting interpretations of pathogenicity	375022009
+NM_001256850.1(TTN):c.24858G>A (p.Ser8286=)	TTN	Benign	369099681
+NM_001256850.1(TTN):c.2505C>T (p.Ala835=)	TTN	Likely benign	754725705
+NM_001256850.1(TTN):c.25113G>A (p.Lys8371=)	TTN	Likely benign	1057523745
+NM_001256850.1(TTN):c.25197A>G (p.Lys8399=)	TTN	Likely benign	778772942
+NM_001256850.1(TTN):c.25512C>T (p.Phe8504=)	TTN	Likely benign	551600321
+NM_001256850.1(TTN):c.25721A>G (p.Asn8574Ser)	TTN	Conflicting interpretations of pathogenicity	146057575
+NM_001256850.1(TTN):c.25731G>A (p.Pro8577=)	TTN	Conflicting interpretations of pathogenicity	142812510
+NM_001256850.1(TTN):c.25743G>T (p.Gly8581=)	TTN	Benign/Likely benign	199525540
+NM_001256850.1(TTN):c.26295T>C (p.Asp8765=)	TTN	Likely benign	183503760
+NM_001256850.1(TTN):c.26322C>T (p.Cys8774=)	TTN	Benign	375546576
+NM_001256850.1(TTN):c.26397G>A (p.Lys8799=)	TTN	Likely benign	1057524151
+NM_001256850.1(TTN):c.26547G>T (p.Ser8849=)	TTN	Likely benign	372528823
+NM_001256850.1(TTN):c.26676G>A (p.Lys8892=)	TTN	Likely benign	772596751
+NM_001256850.1(TTN):c.2686G>A (p.Val896Ile)	TTN	Conflicting interpretations of pathogenicity	376768790
+NM_001256850.1(TTN):c.27219C>T (p.Leu9073=)	TTN	Benign	149910892
+NM_001256850.1(TTN):c.27369C>T (p.Gly9123=)	TTN	Conflicting interpretations of pathogenicity	375083775
+NM_001256850.1(TTN):c.27596G>A (p.Arg9199His)	TTN	Conflicting interpretations of pathogenicity	374156904
+NM_001256850.1(TTN):c.2764C>T (p.Arg922Cys)	TTN	Conflicting interpretations of pathogenicity	72647862
+NM_001256850.1(TTN):c.2765G>A (p.Arg922His)	TTN	Benign	56046320
+NM_001256850.1(TTN):c.27726C>T (p.Asn9242=)	TTN	Benign	775065173
+NM_001256850.1(TTN):c.27790A>G (p.Ile9264Val)	TTN	Conflicting interpretations of pathogenicity	371826762
+NM_001256850.1(TTN):c.28019C>T (p.Ser9340Leu)	TTN	Likely benign	200049911
+NM_001256850.1(TTN):c.28218T>C (p.Gly9406=)	TTN	Likely benign	750700619
+NM_001256850.1(TTN):c.28431A>G (p.Gln9477=)	TTN	Likely benign	1057523227
+NM_001256850.1(TTN):c.28590C>T (p.Phe9530=)	TTN	Benign/Likely benign	56812642
+NM_001256850.1(TTN):c.28626A>G (p.Gln9542=)	TTN	Likely benign	368780181
+NM_001256850.1(TTN):c.289G>A (p.Val97Met)	TTN	Conflicting interpretations of pathogenicity	185921345
+NM_001256850.1(TTN):c.29230A>C (p.Lys9744Gln)	TTN	Conflicting interpretations of pathogenicity	184153985
+NM_001256850.1(TTN):c.2926T>C (p.Trp976Arg)	TTN	Pathogenic	267607155
+NM_001256850.1(TTN):c.29280A>G (p.Pro9760=)	TTN	Benign	74324101
+NM_001256850.1(TTN):c.29358T>C (p.Phe9786=)	TTN	Conflicting interpretations of pathogenicity	762141482
+NM_001256850.1(TTN):c.29937A>G (p.Lys9979=)	TTN	Benign/Likely benign	587780978
+NM_001256850.1(TTN):c.30015C>T (p.Asp10005=)	TTN	Benign	587780979
+NM_001256850.1(TTN):c.30083A>G (p.Tyr10028Cys)	TTN	Likely benign	794729236
+NM_001256850.1(TTN):c.30567C>T (p.Pro10189=)	TTN	Conflicting interpretations of pathogenicity	746912694
+NM_001256850.1(TTN):c.30806C>A (p.Pro10269Gln)	TTN	Conflicting interpretations of pathogenicity	200459347
+NM_001256850.1(TTN):c.30856G>A (p.Val10286Ile)	TTN	Conflicting interpretations of pathogenicity	139790668
+NM_001256850.1(TTN):c.30924A>C (p.Thr10308=)	TTN	Conflicting interpretations of pathogenicity	182934463
+NM_001256850.1(TTN):c.31098A>G (p.Lys10366=)	TTN	Benign	375408527
+NM_001256850.1(TTN):c.31235C>T (p.Thr10412Met)	TTN	Conflicting interpretations of pathogenicity	115119858
+NM_001256850.1(TTN):c.31238G>A (p.Arg10413Gln)	TTN	Likely benign	771054923
+NM_001256850.1(TTN):c.31274C>T (p.Ser10425Leu)	TTN	Likely benign	777586144
+NM_001256850.1(TTN):c.31416G>A (p.Lys10472=)	TTN	Benign	79232842
+NM_001256850.1(TTN):c.31642G>C (p.Val10548Leu)	TTN	Conflicting interpretations of pathogenicity	150733188
+NM_001256850.1(TTN):c.31792G>C (p.Ala10598Pro)	TTN	Benign/Likely benign	72650032
+NM_001256850.1(TTN):c.31799C>T (p.Pro10600Leu)	TTN	Benign	73973137
+NM_001256850.1(TTN):c.32175C>T (p.Val10725=)	TTN	Likely benign	72650036
+NM_001256850.1(TTN):c.32214G>A (p.Pro10738=)	TTN	Likely benign	756152512
+NM_001256850.1(TTN):c.32325G>A (p.Glu10775=)	TTN	Likely benign	1057523198
+NM_001256850.1(TTN):c.32622A>G (p.Pro10874=)	TTN	Likely benign	1057520961
+NM_001256850.1(TTN):c.33181C>T (p.Leu11061=)	TTN	Likely benign	960128787
+NM_001256850.1(TTN):c.33479T>C (p.Leu11160Pro)	TTN	Conflicting interpretations of pathogenicity	376836503
+NM_001256850.1(TTN):c.33647A>G (p.Glu11216Gly)	TTN	Benign/Likely benign	201167067
+NM_001256850.1(TTN):c.33723C>T (p.Pro11241=)	TTN	Conflicting interpretations of pathogenicity	368781863
+NM_001256850.1(TTN):c.33915G>A (p.Pro11305=)	TTN	Conflicting interpretations of pathogenicity	369095270
+NM_001256850.1(TTN):c.33961G>A (p.Glu11321Lys)	TTN	Likely benign	376117402
+NM_001256850.1(TTN):c.34170A>G (p.Lys11390=)	TTN	Likely benign	750096348
+NM_001256850.1(TTN):c.34191G>A (p.Pro11397=)	TTN	Likely benign	369739111
+NM_001256850.1(TTN):c.34314G>A (p.Pro11438=)	TTN	Likely benign	777458053
+NM_001256850.1(TTN):c.34564C>A (p.Pro11522Thr)	TTN	Benign/Likely benign	397517553
+NM_001256850.1(TTN):c.34755G>A (p.Pro11585=)	TTN	Conflicting interpretations of pathogenicity	369002632
+NM_001256850.1(TTN):c.35057A>G (p.Glu11686Gly)	TTN	Conflicting interpretations of pathogenicity	190461403
+NM_001256850.1(TTN):c.35076C>A (p.Pro11692=)	TTN	Likely benign	776088323
+NM_001256850.1(TTN):c.35364G>A (p.Pro11788=)	TTN	Likely benign	756518824
+NM_001256850.1(TTN):c.35592G>A (p.Pro11864=)	TTN	Benign/Likely benign	367958537
+NM_001256850.1(TTN):c.35664A>G (p.Glu11888=)	TTN	Benign/Likely benign	370597107
+NM_001256850.1(TTN):c.35672T>C (p.Val11891Ala)	TTN	Likely benign	756446770
+NM_001256850.1(TTN):c.36087T>C (p.Asp12029=)	TTN	Benign	193191368
+NM_001256850.1(TTN):c.36099C>T (p.Phe12033=)	TTN	Likely benign	1057522146
+NM_001256850.1(TTN):c.36243C>T (p.Asp12081=)	TTN	Conflicting interpretations of pathogenicity	143049740
+NM_001256850.1(TTN):c.36387G>A (p.Thr12129=)	TTN	Likely benign	556498170
+NM_001256850.1(TTN):c.36565G>A (p.Val12189Ile)	TTN	Conflicting interpretations of pathogenicity	149059189
+NM_001256850.1(TTN):c.37008T>C (p.Tyr12336=)	TTN	Benign/Likely benign	369128249
+NM_001256850.1(TTN):c.37563T>C (p.Val12521=)	TTN	Likely benign	763151045
+NM_001256850.1(TTN):c.37638A>C (p.Val12546=)	TTN	Likely benign	1057521315
+NM_001256850.1(TTN):c.37764C>T (p.Ala12588=)	TTN	Benign	775889693
+NM_001256850.1(TTN):c.3798A>C (p.Thr1266=)	TTN	Likely benign	527497634
+NM_001256850.1(TTN):c.38079A>C (p.Glu12693Asp)	TTN	Likely benign	794729237
+NM_001256850.1(TTN):c.38223G>A (p.Leu12741=)	TTN	Likely benign	751236287
+NM_001256850.1(TTN):c.38265A>G (p.Lys12755=)	TTN	Likely benign	1057523718
+NM_001256850.1(TTN):c.38337C>T (p.Phe12779=)	TTN	Conflicting interpretations of pathogenicity	372382546
+NM_001256850.1(TTN):c.3835A>T (p.Met1279Leu)	TTN	Conflicting interpretations of pathogenicity	374497665
+NM_001256850.1(TTN):c.38598T>C (p.Thr12866=)	TTN	Likely benign	762655778
+NM_001256850.1(TTN):c.38677C>T (p.Gln12893Ter)	TTN	Conflicting interpretations of pathogenicity	727504499
+NM_001256850.1(TTN):c.38781A>G (p.Val12927=)	TTN	Benign	368783829
+NM_001256850.1(TTN):c.39154C>T (p.Arg13052Cys)	TTN	Conflicting interpretations of pathogenicity	200445568
+NM_001256850.1(TTN):c.39349C>T (p.Arg13117Ter)	TTN	Conflicting interpretations of pathogenicity	140743001
+NM_001256850.1(TTN):c.39358C>T (p.Pro13120Ser)	TTN	Conflicting interpretations of pathogenicity	192766485
+NM_001256850.1(TTN):c.39396C>A (p.Val13132=)	TTN	Likely benign	1057522804
+NM_001256850.1(TTN):c.39666G>A (p.Thr13222=)	TTN	Conflicting interpretations of pathogenicity	369800903
+NM_001256850.1(TTN):c.39910T>C (p.Leu13304=)	TTN	Likely benign	746441554
+NM_001256850.1(TTN):c.40130C>T (p.Ala13377Val)	TTN	Conflicting interpretations of pathogenicity	72677221
+NM_001256850.1(TTN):c.40197T>G (p.Ile13399Met)	TTN	Benign	74580375
+NM_001256850.1(TTN):c.40251C>T (p.Gly13417=)	TTN	Benign	372609980
+NM_001256850.1(TTN):c.40350C>T (p.Asn13450=)	TTN	Conflicting interpretations of pathogenicity	72677223
+NM_001256850.1(TTN):c.40387C>T (p.Leu13463Phe)	TTN	Likely benign	370782950
+NM_001256850.1(TTN):c.40576G>A (p.Val13526Ile)	TTN	Conflicting interpretations of pathogenicity	183245562
+NM_001256850.1(TTN):c.40692T>A (p.Ile13564=)	TTN	Likely benign	570314896
+NM_001256850.1(TTN):c.4142T>C (p.Val1381Ala)	TTN	Likely benign	794729252
+NM_001256850.1(TTN):c.41463C>T (p.Cys13821=)	TTN	Benign/Likely benign	147703145
+NM_001256850.1(TTN):c.41657T>A (p.Met13886Lys)	TTN	Likely benign	77496539
+NM_001256850.1(TTN):c.41754A>G (p.Arg13918=)	TTN	Likely benign	1057522659
+NM_001256850.1(TTN):c.4199G>C (p.Ser1400Thr)	TTN	Benign/Likely benign	138506461
+NM_001256850.1(TTN):c.42210A>G (p.Ala14070=)	TTN	Likely benign	573218266
+NM_001256850.1(TTN):c.42393A>G (p.Arg14131=)	TTN	Likely benign	367818218
+NM_001256850.1(TTN):c.42556C>T (p.Gln14186Ter)	TTN	Pathogenic	794729261
+NM_001256850.1(TTN):c.426C>T (p.Ala142=)	TTN	Conflicting interpretations of pathogenicity	56137037
+NM_001256850.1(TTN):c.43075G>C (p.Asp14359His)	TTN	Likely benign	201388509
+NM_001256850.1(TTN):c.43348G>A (p.Val14450Ile)	TTN	Likely benign	369143612
+NM_001256850.1(TTN):c.43360C>T (p.Arg14454Ter)	TTN	Pathogenic	374140736
+NM_001256850.1(TTN):c.43383G>A (p.Trp14461Ter)	TTN	Pathogenic	771672410
+NM_001256850.1(TTN):c.43539G>A (p.Thr14513=)	TTN	Conflicting interpretations of pathogenicity	202141158
+NM_001256850.1(TTN):c.4359A>T (p.Arg1453Ser)	TTN	Conflicting interpretations of pathogenicity	376857956
+NM_001256850.1(TTN):c.43701T>C (p.Pro14567=)	TTN	Conflicting interpretations of pathogenicity	72677240
+NM_001256850.1(TTN):c.43992T>A (p.Ile14664=)	TTN	Likely benign	752761527
+NM_001256850.1(TTN):c.44037T>C (p.Asp14679=)	TTN	Likely benign	1057523898
+NM_001256850.1(TTN):c.44109G>A (p.Val14703=)	TTN	Conflicting interpretations of pathogenicity	587780980
+NM_001256850.1(TTN):c.44177C>A (p.Ser14726Ter)	TTN	Pathogenic	794729262
+NM_001256850.1(TTN):c.44355T>C (p.Ala14785=)	TTN	Conflicting interpretations of pathogenicity	372633280
+NM_001256850.1(TTN):c.44364C>T (p.Asn14788=)	TTN	Likely benign	763809932
+NM_001256850.1(TTN):c.44490G>A (p.Trp14830Ter)	TTN	Pathogenic	202094100
+NM_001256850.1(TTN):c.44889G>T (p.Gly14963=)	TTN	Likely benign	760032120
+NM_001256850.1(TTN):c.45035C>G (p.Ser15012Ter)	TTN	Pathogenic	746669146
+NM_001256850.1(TTN):c.45075T>C (p.Asn15025=)	TTN	Benign/Likely benign	376917681
+NM_001256850.1(TTN):c.45160C>T (p.Arg15054Ter)	TTN	Pathogenic	751502842
+NM_001256850.1(TTN):c.45234T>C (p.Ser15078=)	TTN	Likely benign	566449160
+NM_001256850.1(TTN):c.45247C>T (p.Arg15083Ter)	TTN	Likely pathogenic	794729265
+NM_001256850.1(TTN):c.45262A>G (p.Asn15088Asp)	TTN	Likely benign	794729238
+NM_001256850.1(TTN):c.45440T>C (p.Ile15147Thr)	TTN	Conflicting interpretations of pathogenicity	397517599
+NM_001256850.1(TTN):c.45467G>A (p.Arg15156His)	TTN	Conflicting interpretations of pathogenicity	200835354
+NM_001256850.1(TTN):c.45477A>T (p.Lys15159Asn)	TTN	Likely benign	794729239
+NM_001256850.1(TTN):c.45696G>A (p.Trp15232Ter)	TTN	Likely pathogenic	-1
+NM_001256850.1(TTN):c.45746A>C (p.Glu15249Ala)	TTN	Conflicting interpretations of pathogenicity	752204728
+NM_001256850.1(TTN):c.45898G>T (p.Glu15300Ter)	TTN	Pathogenic	794729267
+NM_001256850.1(TTN):c.45937A>T (p.Lys15313Ter)	TTN	Pathogenic	794729268
+NM_001256850.1(TTN):c.4602C>T (p.Asn1534=)	TTN	Likely benign	546385657
+NM_001256850.1(TTN):c.46092T>C (p.Asn15364=)	TTN	Likely benign	752077995
+NM_001256850.1(TTN):c.46204A>T (p.Lys15402Ter)	TTN	Pathogenic	794729269
+NM_001256850.1(TTN):c.46683A>G (p.Val15561=)	TTN	Likely benign	375685343
+NM_001256850.1(TTN):c.4671G>A (p.Met1557Ile)	TTN	Likely benign	139192633
+NM_001256850.1(TTN):c.46731C>G (p.Tyr15577Ter)	TTN	Pathogenic	1131691655
+NM_001256850.1(TTN):c.46781G>A (p.Arg15594Gln)	TTN	Likely benign	573695008
+NM_001256850.1(TTN):c.46859G>A (p.Arg15620Gln)	TTN	Conflicting interpretations of pathogenicity	201825412
+NM_001256850.1(TTN):c.46886G>T (p.Ser15629Ile)	TTN	Conflicting interpretations of pathogenicity	200650668
+NM_001256850.1(TTN):c.46898C>A (p.Ser15633Ter)	TTN	Pathogenic	794729270
+NM_001256850.1(TTN):c.47163T>C (p.Cys15721=)	TTN	Likely benign	1057523625
+NM_001256850.1(TTN):c.47187G>A (p.Pro15729=)	TTN	Benign/Likely benign	139789997
+NM_001256850.1(TTN):c.4740G>A (p.Thr1580=)	TTN	Likely benign	765087240
+NM_001256850.1(TTN):c.47451T>C (p.Val15817=)	TTN	Conflicting interpretations of pathogenicity	752571545
+NM_001256850.1(TTN):c.47486C>A (p.Pro15829Gln)	TTN	Benign	372618781
+NM_001256850.1(TTN):c.47550G>A (p.Trp15850Ter)	TTN	Pathogenic	794729271
+NM_001256850.1(TTN):c.47934C>A (p.Cys15978Ter)	TTN	Pathogenic	1057520724
+NM_001256850.1(TTN):c.47967C>T (p.Thr15989=)	TTN	Likely benign	374228930
+NM_001256850.1(TTN):c.48039G>A (p.Pro16013=)	TTN	Benign	773148195
+NM_001256850.1(TTN):c.48076C>T (p.Gln16026Ter)	TTN	Likely pathogenic	794729272
+NM_001256850.1(TTN):c.48132G>A (p.Met16044Ile)	TTN	Conflicting interpretations of pathogenicity	200387466
+NM_001256850.1(TTN):c.48177T>G (p.Pro16059=)	TTN	Benign	373140387
+NM_001256850.1(TTN):c.48219T>C (p.Asp16073=)	TTN	Conflicting interpretations of pathogenicity	373316165
+NM_001256850.1(TTN):c.48243C>T (p.Asn16081=)	TTN	Benign/Likely benign	371730757
+NM_001256850.1(TTN):c.48303T>C (p.Tyr16101=)	TTN	Conflicting interpretations of pathogenicity	202200861
+NM_001256850.1(TTN):c.48337T>C (p.Phe16113Leu)	TTN	Conflicting interpretations of pathogenicity	397517612
+NM_001256850.1(TTN):c.48372T>C (p.Pro16124=)	TTN	Likely benign	771792080
+NM_001256850.1(TTN):c.48432G>A (p.Trp16144Ter)	TTN	Pathogenic	794729273
+NM_001256850.1(TTN):c.4851C>T (p.Ile1617=)	TTN	Likely benign	756286153
+NM_001256850.1(TTN):c.48669A>G (p.Thr16223=)	TTN	Likely benign	397517613
+NM_001256850.1(TTN):c.48676G>T (p.Glu16226Ter)	TTN	Likely pathogenic	1131691381
+NM_001256850.1(TTN):c.48730G>T (p.Glu16244Ter)	TTN	Pathogenic/Likely pathogenic	727503607
+NM_001256850.1(TTN):c.48807A>G (p.Glu16269=)	TTN	Likely benign	1057523995
+NM_001256850.1(TTN):c.49182G>A (p.Ala16394=)	TTN	Benign/Likely benign	371155050
+NM_001256850.1(TTN):c.49225C>T (p.Arg16409Cys)	TTN	Conflicting interpretations of pathogenicity	55734111
+NM_001256850.1(TTN):c.49243C>T (p.Arg16415Ter)	TTN	Conflicting interpretations of pathogenicity	768431507
+NM_001256850.1(TTN):c.49266T>C (p.Tyr16422=)	TTN	Benign	2303834
+NM_001256850.1(TTN):c.49398A>G (p.Ala16466=)	TTN	Conflicting interpretations of pathogenicity	368021072
+NM_001256850.1(TTN):c.49566T>G (p.Pro16522=)	TTN	Likely benign	1010205941
+NM_001256850.1(TTN):c.49637G>A (p.Trp16546Ter)	TTN	Likely pathogenic	794729274
+NM_001256850.1(TTN):c.49848C>T (p.Pro16616=)	TTN	Likely benign	190716158
+NM_001256850.1(TTN):c.4998A>T (p.Thr1666=)	TTN	Benign	139054950
+NM_001256850.1(TTN):c.50082G>A (p.Val16694=)	TTN	Likely benign	1057522129
+NM_001256850.1(TTN):c.50156C>T (p.Pro16719Leu)	TTN	Conflicting interpretations of pathogenicity	192788942
+NM_001256850.1(TTN):c.50220C>T (p.Asp16740=)	TTN	Likely benign	1057522461
+NM_001256850.1(TTN):c.5022C>G (p.Ala1674=)	TTN	Likely benign	753444772
+NM_001256850.1(TTN):c.50283C>A (p.Ile16761=)	TTN	Likely benign	368272978
+NM_001256850.1(TTN):c.50510A>C (p.Asp16837Ala)	TTN	Likely benign	794729240
+NM_001256850.1(TTN):c.50526C>T (p.Pro16842=)	TTN	Conflicting interpretations of pathogenicity	187366691
+NM_001256850.1(TTN):c.50589C>T (p.Asp16863=)	TTN	Benign/Likely benign	377164046
+NM_001256850.1(TTN):c.50886G>A (p.Pro16962=)	TTN	Benign/Likely benign	750472100
+NM_001256850.1(TTN):c.51009T>C (p.Phe17003=)	TTN	Benign/Likely benign	755839294
+NM_001256850.1(TTN):c.51453A>G (p.Ile17151Met)	TTN	Likely benign	794729241
+NM_001256850.1(TTN):c.51831G>T (p.Gly17277=)	TTN	Likely benign	1057523877
+NM_001256850.1(TTN):c.51883C>T (p.Arg17295Ter)	TTN	Likely pathogenic	72646828
+NM_001256850.1(TTN):c.52019C>T (p.Ala17340Val)	TTN	Conflicting interpretations of pathogenicity	397517627
+NM_001256850.1(TTN):c.52047T>C (p.Pro17349=)	TTN	Benign/Likely benign	372019333
+NM_001256850.1(TTN):c.52539G>A (p.Gln17513=)	TTN	Benign/Likely benign	72646832
+NM_001256850.1(TTN):c.52662C>T (p.Asn17554=)	TTN	Likely benign	1057523577
+NM_001256850.1(TTN):c.52723A>G (p.Ile17575Val)	TTN	Conflicting interpretations of pathogenicity	374058726
+NM_001256850.1(TTN):c.52760G>A (p.Arg17587His)	TTN	Benign/Likely benign	114711705
+NM_001256850.1(TTN):c.5295C>T (p.Gly1765=)	TTN	Likely benign	145999395
+NM_001256850.1(TTN):c.53010T>C (p.Asp17670=)	TTN	Likely benign	554555894
+NM_001256850.1(TTN):c.53199C>G (p.Thr17733=)	TTN	Likely benign	189818369
+NM_001256850.1(TTN):c.53272C>T (p.Arg17758Ter)	TTN	Likely pathogenic	768073446
+NM_001256850.1(TTN):c.53347G>T (p.Glu17783Ter)	TTN	Pathogenic	72646837
+NM_001256850.1(TTN):c.53376T>G (p.Thr17792=)	TTN	Likely benign	778334134
+NM_001256850.1(TTN):c.53503G>A (p.Val17835Ile)	TTN	Conflicting interpretations of pathogenicity	397517636
+NM_001256850.1(TTN):c.53689A>G (p.Thr17897Ala)	TTN	Benign/Likely benign	200017524
+NM_001256850.1(TTN):c.53713G>C (p.Glu17905Gln)	TTN	Benign	201840554
+NM_001256850.1(TTN):c.5388T>C (p.Asp1796=)	TTN	Benign	72647878
+NM_001256850.1(TTN):c.53944A>G (p.Lys17982Glu)	TTN	Likely benign	794729242
+NM_001256850.1(TTN):c.54169G>C (p.Asp18057His)	TTN	Likely benign	397517642
+NM_001256850.1(TTN):c.54190C>T (p.Arg18064Cys)	TTN	Conflicting interpretations of pathogenicity	72646839
+NM_001256850.1(TTN):c.54359A>G (p.Asn18120Ser)	TTN	Conflicting interpretations of pathogenicity	563969986
+NM_001256850.1(TTN):c.54392C>T (p.Pro18131Leu)	TTN	Benign/Likely benign	72646840
+NM_001256850.1(TTN):c.54393G>A (p.Pro18131=)	TTN	Conflicting interpretations of pathogenicity	377180286
+NM_001256850.1(TTN):c.54430G>T (p.Glu18144Ter)	TTN	Pathogenic	794729276
+NM_001256850.1(TTN):c.55054G>T (p.Glu18352Ter)	TTN	Likely pathogenic	1085307825
+NM_001256850.1(TTN):c.55198C>T (p.Gln18400Ter)	TTN	Pathogenic	794729277
+NM_001256850.1(TTN):c.55275G>A (p.Pro18425=)	TTN	Benign/Likely benign	767152563
+NM_001256850.1(TTN):c.55452C>A (p.Tyr18484Ter)	TTN	Likely pathogenic	1064796977
+NM_001256850.1(TTN):c.55548C>T (p.Ala18516=)	TTN	Likely benign	397517645
+NM_001256850.1(TTN):c.55698T>C (p.Tyr18566=)	TTN	Benign	376959563
+NM_001256850.1(TTN):c.55731G>A (p.Thr18577=)	TTN	Likely benign	776141268
+NM_001256850.1(TTN):c.55810C>T (p.Arg18604Ter)	TTN	Likely pathogenic	1057522256
+NM_001256850.1(TTN):c.55898C>T (p.Pro18633Leu)	TTN	Conflicting interpretations of pathogenicity	72646845
+NM_001256850.1(TTN):c.56215C>A (p.Leu18739Met)	TTN	Benign/Likely benign	201167216
+NM_001256850.1(TTN):c.56301G>A (p.Val18767=)	TTN	Benign/Likely benign	566188777
+NM_001256850.1(TTN):c.56577C>A (p.Val18859=)	TTN	Likely benign	1057522407
+NM_001256850.1(TTN):c.56953C>T (p.Arg18985Ter)	TTN	Pathogenic/Likely pathogenic	72646846
+NM_001256850.1(TTN):c.5697C>T (p.Ile1899=)	TTN	Conflicting interpretations of pathogenicity	148434577
+NM_001256850.1(TTN):c.57224A>T (p.Glu19075Val)	TTN	Likely benign	794729243
+NM_001256850.1(TTN):c.57255T>C (p.Thr19085=)	TTN	Benign	72646847
+NM_001256850.1(TTN):c.57294T>A (p.Tyr19098Ter)	TTN	Pathogenic/Likely pathogenic	727503586
+NM_001256850.1(TTN):c.57394C>A (p.Leu19132Met)	TTN	Likely benign	375173874
+NM_001256850.1(TTN):c.57968C>A (p.Pro19323His)	TTN	Likely benign	548460016
+NM_001256850.1(TTN):c.58102C>T (p.Arg19368Ter)	TTN	Pathogenic/Likely pathogenic	368452607
+NM_001256850.1(TTN):c.5823A>G (p.Arg1941=)	TTN	Benign/Likely benign	149668487
+NM_001256850.1(TTN):c.58257C>T (p.Asp19419=)	TTN	Likely benign	778030754
+NM_001256850.1(TTN):c.58350T>C (p.Asp19450=)	TTN	Conflicting interpretations of pathogenicity	374168580
+NM_001256850.1(TTN):c.5850C>T (p.His1950=)	TTN	Likely benign	1057523471
+NM_001256850.1(TTN):c.58516G>A (p.Ala19506Thr)	TTN	Conflicting interpretations of pathogenicity	72646853
+NM_001256850.1(TTN):c.58560A>G (p.Glu19520=)	TTN	Likely benign	747885095
+NM_001256850.1(TTN):c.58702C>T (p.Arg19568Ter)	TTN	Pathogenic	794729279
+NM_001256850.1(TTN):c.5875T>A (p.Phe1959Ile)	TTN	Benign	562856820
+NM_001256850.1(TTN):c.58820T>C (p.Leu19607Pro)	TTN	Likely benign	745323281
+NM_001256850.1(TTN):c.59136T>C (p.Asp19712=)	TTN	Likely benign	377184630
+NM_001256850.1(TTN):c.59283C>T (p.Ile19761=)	TTN	Likely benign	752270069
+NM_001256850.1(TTN):c.59520G>A (p.Gly19840=)	TTN	Likely benign	747850027
+NM_001256850.1(TTN):c.595G>A (p.Val199Ile)	TTN	Likely benign	794729254
+NM_001256850.1(TTN):c.59731A>G (p.Ile19911Val)	TTN	Conflicting interpretations of pathogenicity	201247592
+NM_001256850.1(TTN):c.59819G>A (p.Trp19940Ter)	TTN	Likely pathogenic	1057523344
+NM_001256850.1(TTN):c.59839G>A (p.Gly19947Arg)	TTN	Conflicting interpretations of pathogenicity	181717727
+NM_001256850.1(TTN):c.60076C>T (p.Arg20026Ter)	TTN	Pathogenic	794729280
+NM_001256850.1(TTN):c.60456C>T (p.Phe20152=)	TTN	Likely benign	377017745
+NM_001256850.1(TTN):c.60651T>C (p.Asn20217=)	TTN	Conflicting interpretations of pathogenicity	374858668
+NM_001256850.1(TTN):c.60681T>C (p.Ala20227=)	TTN	Benign/Likely benign	200825430
+NM_001256850.1(TTN):c.60806T>C (p.Ile20269Thr)	TTN	Conflicting interpretations of pathogenicity	146941600
+NM_001256850.1(TTN):c.60824G>A (p.Arg20275Gln)	TTN	Conflicting interpretations of pathogenicity	148849567
+NM_001256850.1(TTN):c.60853G>A (p.Val20285Met)	TTN	Likely benign	145527033
+NM_001256850.1(TTN):c.60948G>A (p.Pro20316=)	TTN	Likely benign	771651842
+NM_001256850.1(TTN):c.61200A>G (p.Pro20400=)	TTN	Conflicting interpretations of pathogenicity	727504190
+NM_001256850.1(TTN):c.61237G>T (p.Asp20413Tyr)	TTN	Likely pathogenic	1057523177
+NM_001256850.1(TTN):c.61305G>A (p.Trp20435Ter)	TTN	Likely pathogenic	1131692031
+NM_001256850.1(TTN):c.61365A>G (p.Glu20455=)	TTN	Likely benign	368297582
+NM_001256850.1(TTN):c.61449C>A (p.Thr20483=)	TTN	Likely benign	756981729
+NM_001256850.1(TTN):c.61750G>A (p.Asp20584Asn)	TTN	Conflicting interpretations of pathogenicity	72646870
+NM_001256850.1(TTN):c.61769G>A (p.Arg20590His)	TTN	Benign/Likely benign	200971254
+NM_001256850.1(TTN):c.61844T>G (p.Leu20615Ter)	TTN	Likely pathogenic	1064794716
+NM_001256850.1(TTN):c.62054A>G (p.Lys20685Arg)	TTN	Conflicting interpretations of pathogenicity	202125813
+NM_001256850.1(TTN):c.62195T>A (p.Val20732Asp)	TTN	Likely benign	774568339
+NM_001256850.1(TTN):c.62349C>A (p.Tyr20783Ter)	TTN	Pathogenic	747377194
+NM_001256850.1(TTN):c.62664T>C (p.Asn20888=)	TTN	Likely benign	1057523544
+NM_001256850.1(TTN):c.62713G>A (p.Val20905Met)	TTN	Likely benign	794729244
+NM_001256850.1(TTN):c.63159C>T (p.Cys21053=)	TTN	Conflicting interpretations of pathogenicity	79406408
+NM_001256850.1(TTN):c.63237C>T (p.Ala21079=)	TTN	Benign/Likely benign	397517673
+NM_001256850.1(TTN):c.63526C>A (p.Arg21176=)	TTN	Likely benign	371678190
+NM_001256850.1(TTN):c.63526C>T (p.Arg21176Ter)	TTN	Pathogenic/Likely pathogenic	371678190
+NM_001256850.1(TTN):c.63535G>C (p.Ala21179Pro)	TTN	Conflicting interpretations of pathogenicity	72646880
+NM_001256850.1(TTN):c.63575C>G (p.Ser21192Ter)	TTN	Pathogenic	876658077
+NM_001256850.1(TTN):c.63681C>T (p.Asp21227=)	TTN	Likely benign	750368181
+NM_001256850.1(TTN):c.63805G>A (p.Gly21269Arg)	TTN	Likely benign	794729245
+NM_001256850.1(TTN):c.64207C>T (p.Pro21403Ser)	TTN	Conflicting interpretations of pathogenicity	55980498
+NM_001256850.1(TTN):c.64327C>T (p.Arg21443Ter)	TTN	Pathogenic	794729281
+NM_001256850.1(TTN):c.64444G>T (p.Gly21482Ter)	TTN	Likely pathogenic	-1
+NM_001256850.1(TTN):c.64460C>A (p.Ser21487Tyr)	TTN	Benign	72646882
+NM_001256850.1(TTN):c.64707C>T (p.Tyr21569=)	TTN	Likely benign	777602537
+NM_001256850.1(TTN):c.64818G>A (p.Pro21606=)	TTN	Likely benign	566393354
+NM_001256850.1(TTN):c.64898G>A (p.Gly21633Asp)	TTN	Conflicting interpretations of pathogenicity	201043950
+NM_001256850.1(TTN):c.64959C>T (p.Thr21653=)	TTN	Likely benign	376056197
+NM_001256850.1(TTN):c.64980C>A (p.Phe21660Leu)	TTN	Conflicting interpretations of pathogenicity	372799151
+NM_001256850.1(TTN):c.65061G>A (p.Ala21687=)	TTN	Conflicting interpretations of pathogenicity	56052239
+NM_001256850.1(TTN):c.65133A>G (p.Arg21711=)	TTN	Conflicting interpretations of pathogenicity	75948012
+NM_001256850.1(TTN):c.65239C>T (p.Arg21747Ter)	TTN	Pathogenic	781540455
+NM_001256850.1(TTN):c.65327T>C (p.Ile21776Thr)	TTN	Likely benign	201836227
+NM_001256850.1(TTN):c.65382G>A (p.Thr21794=)	TTN	Likely benign	397517684
+NM_001256850.1(TTN):c.65457G>A (p.Leu21819=)	TTN	Likely benign	185660043
+NM_001256850.1(TTN):c.65568C>T (p.Thr21856=)	TTN	Conflicting interpretations of pathogenicity	372382315
+NM_001256850.1(TTN):c.65613G>A (p.Glu21871=)	TTN	Likely benign	1057523375
+NM_001256850.1(TTN):c.658C>T (p.Arg220Ter)	TTN	Likely pathogenic	748313513
+NM_001256850.1(TTN):c.66029T>G (p.Ile22010Ser)	TTN	Benign/Likely benign	149075285
+NM_001256850.1(TTN):c.66336C>T (p.Asn22112=)	TTN	Likely benign	367685557
+NM_001256850.1(TTN):c.66398G>A (p.Trp22133Ter)	TTN	Pathogenic/Likely pathogenic	727503567
+NM_001256850.1(TTN):c.66640G>T (p.Gly22214Ter)	TTN	Pathogenic	794729381
+NM_001256850.1(TTN):c.66685G>A (p.Gly22229Ser)	TTN	Likely benign	727503564
+NM_001256850.1(TTN):c.66744T>C (p.Ser22248=)	TTN	Likely benign	756824434
+NM_001256850.1(TTN):c.66C>T (p.Thr22=)	TTN	Likely benign	143623862
+NM_001256850.1(TTN):c.67018G>A (p.Glu22340Lys)	TTN	Likely benign	794729246
+NM_001256850.1(TTN):c.67078G>A (p.Ala22360Thr)	TTN	Likely benign	180828370
+NM_001256850.1(TTN):c.67141G>A (p.Asp22381Asn)	TTN	Likely benign	767886519
+NM_001256850.1(TTN):c.67456G>A (p.Glu22486Lys)	TTN	Conflicting interpretations of pathogenicity	149763294
+NM_001256850.1(TTN):c.67664G>A (p.Arg22555His)	TTN	Conflicting interpretations of pathogenicity	200317412
+NM_001256850.1(TTN):c.67800C>G (p.Val22600=)	TTN	Conflicting interpretations of pathogenicity	372701206
+NM_001256850.1(TTN):c.67843A>G (p.Asn22615Asp)	TTN	Conflicting interpretations of pathogenicity	187868672
+NM_001256850.1(TTN):c.67941A>G (p.Thr22647=)	TTN	Likely benign	879070035
+NM_001256850.1(TTN):c.67983T>A (p.Ala22661=)	TTN	Benign/Likely benign	773886758
+NM_001256850.1(TTN):c.68413C>T (p.Leu22805=)	TTN	Benign/Likely benign	189768015
+NM_001256850.1(TTN):c.68520C>A (p.Tyr22840Ter)	TTN	Likely pathogenic	1057523460
+NM_001256850.1(TTN):c.68581G>T (p.Glu22861Ter)	TTN	Pathogenic	1131691543
+NM_001256850.1(TTN):c.68787A>C (p.Ala22929=)	TTN	Likely benign	1057523794
+NM_001256850.1(TTN):c.687T>C (p.Phe229=)	TTN	Benign/Likely benign	376527094
+NM_001256850.1(TTN):c.68902G>C (p.Glu22968Gln)	TTN	Conflicting interpretations of pathogenicity	55762754
+NM_001256850.1(TTN):c.68923C>T (p.Arg22975Ter)	TTN	Pathogenic	794729284
+NM_001256850.1(TTN):c.69415C>T (p.Arg23139Ter)	TTN	Pathogenic/Likely pathogenic	794729285
+NM_001256850.1(TTN):c.69590G>C (p.Gly23197Ala)	TTN	Likely benign	200723435
+NM_001256850.1(TTN):c.69673A>G (p.Thr23225Ala)	TTN	Conflicting interpretations of pathogenicity	199784966
+NM_001256850.1(TTN):c.69968C>T (p.Pro23323Leu)	TTN	Conflicting interpretations of pathogenicity	72646899
+NM_001256850.1(TTN):c.69972A>C (p.Gln23324His)	TTN	Conflicting interpretations of pathogenicity	201512527
+NM_001256850.1(TTN):c.70042G>A (p.Val23348Met)	TTN	Conflicting interpretations of pathogenicity	567800207
+NM_001256850.1(TTN):c.70046G>T (p.Gly23349Val)	TTN	Likely benign	794729247
+NM_001256850.1(TTN):c.70111C>T (p.Arg23371Trp)	TTN	Conflicting interpretations of pathogenicity	368914555
+NM_001256850.1(TTN):c.70152T>C (p.Leu23384=)	TTN	Likely benign	1057523530
+NM_001256850.1(TTN):c.70158G>A (p.Trp23386Ter)	TTN	Likely pathogenic	1064794930
+NM_001256850.1(TTN):c.7020C>T (p.Ile2340=)	TTN	Conflicting interpretations of pathogenicity	587780986
+NM_001256850.1(TTN):c.70327C>T (p.Arg23443Ter)	TTN	Pathogenic	794729286
+NM_001256850.1(TTN):c.70405C>T (p.Arg23469Ter)	TTN	Likely pathogenic	794729382
+NM_001256850.1(TTN):c.70438A>G (p.Ile23480Val)	TTN	Likely benign	199508062
+NM_001256850.1(TTN):c.70518A>G (p.Lys23506=)	TTN	Benign/Likely benign	56151652
+NM_001256850.1(TTN):c.70546C>T (p.Arg23516Ter)	TTN	Likely pathogenic	-1
+NM_001256850.1(TTN):c.7061G>A (p.Arg2354His)	TTN	Benign/Likely benign	75031300
+NM_001256850.1(TTN):c.70815A>G (p.Glu23605=)	TTN	Benign/Likely benign	371344165
+NM_001256850.1(TTN):c.70839G>T (p.Val23613=)	TTN	Benign/Likely benign	374003257
+NM_001256850.1(TTN):c.71094T>C (p.Tyr23698=)	TTN	Likely benign	1057523937
+NM_001256850.1(TTN):c.71096T>A (p.Val23699Asp)	TTN	Likely benign	200287703
+NM_001256850.1(TTN):c.71355G>A (p.Trp23785Ter)	TTN	Pathogenic	1064794060
+NM_001256850.1(TTN):c.71451A>T (p.Pro23817=)	TTN	Likely benign	891629905
+NM_001256850.1(TTN):c.71708G>A (p.Trp23903Ter)	TTN	Likely pathogenic	794729383
+NM_001256850.1(TTN):c.7173C>T (p.Asp2391=)	TTN	Conflicting interpretations of pathogenicity	374509926
+NM_001256850.1(TTN):c.71942G>A (p.Trp23981Ter)	TTN	Pathogenic	756552975
+NM_001256850.1(TTN):c.71999G>A (p.Arg24000His)	TTN	Conflicting interpretations of pathogenicity	369707906
+NM_001256850.1(TTN):c.72120T>C (p.Tyr24040=)	TTN	Benign	370810609
+NM_001256850.1(TTN):c.72129C>T (p.Gly24043=)	TTN	Conflicting interpretations of pathogenicity	372543652
+NM_001256850.1(TTN):c.72289C>T (p.Gln24097Ter)	TTN	Likely pathogenic	1057523502
+NM_001256850.1(TTN):c.72514C>T (p.Gln24172Ter)	TTN	Pathogenic	794729287
+NM_001256850.1(TTN):c.72537A>C (p.Pro24179=)	TTN	Likely benign	576663532
+NM_001256850.1(TTN):c.72618C>T (p.Thr24206=)	TTN	Likely benign	556181023
+NM_001256850.1(TTN):c.72876A>T (p.Thr24292=)	TTN	Likely benign	727505210
+NM_001256850.1(TTN):c.72890G>C (p.Trp24297Ser)	TTN	Conflicting interpretations of pathogenicity	186681106
+NM_001256850.1(TTN):c.72984C>T (p.Asn24328=)	TTN	Conflicting interpretations of pathogenicity	375903820
+NM_001256850.1(TTN):c.73140C>T (p.Pro24380=)	TTN	Likely benign	72648204
+NM_001256850.1(TTN):c.7316G>A (p.Arg2439His)	TTN	Conflicting interpretations of pathogenicity	142129359
+NM_001256850.1(TTN):c.73207A>G (p.Ile24403Val)	TTN	Likely benign	755172743
+NM_001256850.1(TTN):c.73224A>G (p.Gln24408=)	TTN	Benign/Likely benign	149127072
+NM_001256850.1(TTN):c.73255G>T (p.Glu24419Ter)	TTN	Pathogenic/Likely pathogenic	794729289
+NM_001256850.1(TTN):c.73481G>A (p.Trp24494Ter)	TTN	Pathogenic	1064793668
+NM_001256850.1(TTN):c.73774G>T (p.Glu24592Ter)	TTN	Likely pathogenic	267599036
+NM_001256850.1(TTN):c.73914A>G (p.Val24638=)	TTN	Likely benign	777343548
+NM_001256850.1(TTN):c.74019T>C (p.Asp24673=)	TTN	Likely benign	560223850
+NM_001256850.1(TTN):c.74178T>C (p.Tyr24726=)	TTN	Likely benign	1057522307
+NM_001256850.1(TTN):c.74218A>T (p.Lys24740Ter)	TTN	Likely pathogenic	1131691944
+NM_001256850.1(TTN):c.74421G>T (p.Val24807=)	TTN	Conflicting interpretations of pathogenicity	369875680
+NM_001256850.1(TTN):c.74680C>T (p.Gln24894Ter)	TTN	Pathogenic	1064793911
+NM_001256850.1(TTN):c.74777A>G (p.Asn24926Ser)	TTN	Benign/Likely benign	183844833
+NM_001256850.1(TTN):c.74870T>G (p.Leu24957Ter)	TTN	Pathogenic	1064794023
+NM_001256850.1(TTN):c.74933G>A (p.Arg24978His)	TTN	Conflicting interpretations of pathogenicity	530507211
+NM_001256850.1(TTN):c.74940G>A (p.Thr24980=)	TTN	Conflicting interpretations of pathogenicity	186402008
+NM_001256850.1(TTN):c.7516C>T (p.Arg2506Ter)	TTN	Likely pathogenic	780415493
+NM_001256850.1(TTN):c.7523A>G (p.His2508Arg)	TTN	Conflicting interpretations of pathogenicity	146970027
+NM_001256850.1(TTN):c.75571G>T (p.Glu25191Ter)	TTN	Likely pathogenic	780512337
+NM_001256850.1(TTN):c.75738C>T (p.Asn25246=)	TTN	Benign/Likely benign	201069672
+NM_001256850.1(TTN):c.75793C>T (p.Arg25265Ter)	TTN	Pathogenic/Likely pathogenic	727505284
+NM_001256850.1(TTN):c.75799A>C (p.Arg25267=)	TTN	Benign/Likely benign	573877174
+NM_001256850.1(TTN):c.75927C>G (p.Tyr25309Ter)	TTN	Likely pathogenic	794729291
+NM_001256850.1(TTN):c.76114C>T (p.Arg25372Ter)	TTN	Pathogenic/Likely pathogenic	869038795
+NM_001256850.1(TTN):c.7628C>G (p.Thr2543Ser)	TTN	Likely benign	765136135
+NM_001256850.1(TTN):c.76324T>C (p.Ser25442Pro)	TTN	Conflicting interpretations of pathogenicity	186273940
+NM_001256850.1(TTN):c.76414G>T (p.Glu25472Ter)	TTN	Pathogenic	794729292
+NM_001256850.1(TTN):c.76635T>C (p.Asn25545=)	TTN	Benign/Likely benign	56181243
+NM_001256850.1(TTN):c.76642C>T (p.Leu25548=)	TTN	Likely benign	142391957
+NM_001256850.1(TTN):c.76835A>G (p.Asn25612Ser)	TTN	Conflicting interpretations of pathogenicity	529055709
+NM_001256850.1(TTN):c.76976G>A (p.Arg25659His)	TTN	Conflicting interpretations of pathogenicity	55850344
+NM_001256850.1(TTN):c.77015G>A (p.Gly25672Glu)	TTN	Conflicting interpretations of pathogenicity	199670463
+NM_001256850.1(TTN):c.77041A>T (p.Arg25681Ter)	TTN	Pathogenic	794729293
+NM_001256850.1(TTN):c.77113C>T (p.Gln25705Ter)	TTN	Pathogenic/Likely pathogenic	886042331
+NM_001256850.1(TTN):c.77180A>G (p.Asp25727Gly)	TTN	Conflicting interpretations of pathogenicity	145373396
+NM_001256850.1(TTN):c.77317C>T (p.Arg25773Ter)	TTN	Likely pathogenic	766840243
+NM_001256850.1(TTN):c.77566G>A (p.Gly25856Arg)	TTN	Benign/Likely benign	201158906
+NM_001256850.1(TTN):c.77716G>T (p.Glu25906Ter)	TTN	Pathogenic	779874042
+NM_001256850.1(TTN):c.78010C>T (p.Arg26004Cys)	TTN	Likely benign	751318609
+NM_001256850.1(TTN):c.78126G>A (p.Lys26042=)	TTN	Likely benign	373522006
+NM_001256850.1(TTN):c.7818G>A (p.Ala2606=)	TTN	Likely benign	935809232
+NM_001256850.1(TTN):c.78210G>A (p.Lys26070=)	TTN	Benign	369223412
+NM_001256850.1(TTN):c.78358G>A (p.Val26120Ile)	TTN	Conflicting interpretations of pathogenicity	371788070
+NM_001256850.1(TTN):c.78392A>T (p.Asn26131Ile)	TTN	Conflicting interpretations of pathogenicity	578191491
+NM_001256850.1(TTN):c.78593G>A (p.Arg26198Gln)	TTN	Conflicting interpretations of pathogenicity	376820301
+NM_001256850.1(TTN):c.78730G>T (p.Glu26244Ter)	TTN	Likely pathogenic	794729295
+NM_001256850.1(TTN):c.79118C>G (p.Ser26373Ter)	TTN	Pathogenic	1057524838
+NM_001256850.1(TTN):c.79133C>A (p.Ser26378Ter)	TTN	Likely pathogenic	769665204
+NM_001256850.1(TTN):c.79332C>A (p.Cys26444Ter)	TTN	Likely pathogenic	772842119
+NM_001256850.1(TTN):c.79491C>T (p.Ser26497=)	TTN	Likely benign	965406205
+NM_001256850.1(TTN):c.79538C>T (p.Pro26513Leu)	TTN	Benign/Likely benign	200350579
+NM_001256850.1(TTN):c.79728C>T (p.Ser26576=)	TTN	Likely benign	377667809
+NM_001256850.1(TTN):c.79974G>A (p.Trp26658Ter)	TTN	Pathogenic	794729296
+NM_001256850.1(TTN):c.80000A>C (p.Gln26667Pro)	TTN	Conflicting interpretations of pathogenicity	201674674
+NM_001256850.1(TTN):c.80145A>G (p.Arg26715=)	TTN	Likely benign	759660682
+NM_001256850.1(TTN):c.80315C>A (p.Thr26772Asn)	TTN	Likely benign	794729248
+NM_001256850.1(TTN):c.80325A>T (p.Thr26775=)	TTN	Benign	187180708
+NM_001256850.1(TTN):c.80483C>G (p.Ser26828Cys)	TTN	Conflicting interpretations of pathogenicity	202040332
+NM_001256850.1(TTN):c.80591T>G (p.Leu26864Ter)	TTN	Likely pathogenic	1057520803
+NM_001256850.1(TTN):c.80593C>A (p.Gln26865Lys)	TTN	Likely benign	201272728
+NM_001256850.1(TTN):c.80621T>G (p.Leu26874Ter)	TTN	Pathogenic	886041441
+NM_001256850.1(TTN):c.8069C>T (p.Thr2690Ile)	TTN	Conflicting interpretations of pathogenicity	374620001
+NM_001256850.1(TTN):c.80768A>T (p.Lys26923Ile)	TTN	Conflicting interpretations of pathogenicity	199859344
+NM_001256850.1(TTN):c.80904A>G (p.Arg26968=)	TTN	Likely benign	371952669
+NM_001256850.1(TTN):c.81028C>T (p.Leu27010=)	TTN	Likely benign	190729405
+NM_001256850.1(TTN):c.81129T>C (p.Thr27043=)	TTN	Conflicting interpretations of pathogenicity	76928874
+NM_001256850.1(TTN):c.81193C>T (p.Arg27065Ter)	TTN	Pathogenic	794729384
+NM_001256850.1(TTN):c.81216C>T (p.Ser27072=)	TTN	Likely benign	750163793
+NM_001256850.1(TTN):c.81378G>A (p.Lys27126=)	TTN	Benign/Likely benign	56310931
+NM_001256850.1(TTN):c.81440G>A (p.Trp27147Ter)	TTN	Pathogenic	1064793814
+NM_001256850.1(TTN):c.81514G>T (p.Glu27172Ter)	TTN	Pathogenic/Likely pathogenic	868494032
+NM_001256850.1(TTN):c.81551T>G (p.Leu27184Ter)	TTN	Pathogenic	794729297
+NM_001256850.1(TTN):c.81612C>T (p.Thr27204=)	TTN	Likely benign	767091592
+NM_001256850.1(TTN):c.81717C>G (p.Tyr27239Ter)	TTN	Likely pathogenic	794729298
+NM_001256850.1(TTN):c.8184C>T (p.Val2728=)	TTN	Likely benign	753356474
+NM_001256850.1(TTN):c.82026A>G (p.Glu27342=)	TTN	Conflicting interpretations of pathogenicity	375565646
+NM_001256850.1(TTN):c.82117C>T (p.Arg27373Ter)	TTN	Pathogenic	776065839
+NM_001256850.1(TTN):c.82188G>A (p.Glu27396=)	TTN	Benign/Likely benign	374902148
+NM_001256850.1(TTN):c.82313C>G (p.Ser27438Ter)	TTN	Pathogenic	1057520580
+NM_001256850.1(TTN):c.82572C>T (p.Asp27524=)	TTN	Likely benign	371763584
+NM_001256850.1(TTN):c.82631G>A (p.Trp27544Ter)	TTN	Likely pathogenic	1057518275
+NM_001256850.1(TTN):c.82700A>T (p.Tyr27567Phe)	TTN	Conflicting interpretations of pathogenicity	201831707
+NM_001256850.1(TTN):c.82709G>A (p.Arg27570His)	TTN	Conflicting interpretations of pathogenicity	370948914
+NM_001256850.1(TTN):c.82828C>T (p.Arg27610Ter)	TTN	Pathogenic	794729299
+NM_001256850.1(TTN):c.82848C>A (p.Gly27616=)	TTN	Benign	72648230
+NM_001256850.1(TTN):c.82890C>T (p.Gly27630=)	TTN	Likely benign	751701021
+NM_001256850.1(TTN):c.83374G>A (p.Asp27792Asn)	TTN	Benign/Likely benign	189202799
+NM_001256850.1(TTN):c.83417C>G (p.Thr27806Arg)	TTN	Likely benign	140201636
+NM_001256850.1(TTN):c.83553C>G (p.Thr27851=)	TTN	Benign	190406444
+NM_001256850.1(TTN):c.83562C>T (p.Leu27854=)	TTN	Benign	371612136
+NM_001256850.1(TTN):c.835C>T (p.Arg279Trp)	TTN	Conflicting interpretations of pathogenicity	138060032
+NM_001256850.1(TTN):c.83798G>A (p.Arg27933His)	TTN	Conflicting interpretations of pathogenicity	111727915
+NM_001256850.1(TTN):c.83914A>T (p.Lys27972Ter)	TTN	Pathogenic	794729300
+NM_001256850.1(TTN):c.83928C>G (p.Gly27976=)	TTN	Benign	201241167
+NM_001256850.1(TTN):c.84061G>A (p.Gly28021Ser)	TTN	Conflicting interpretations of pathogenicity	187460377
+NM_001256850.1(TTN):c.8418C>T (p.Ala2806=)	TTN	Likely benign	766197743
+NM_001256850.1(TTN):c.84357T>A (p.Tyr28119Ter)	TTN	Pathogenic	794729385
+NM_001256850.1(TTN):c.84852T>C (p.Thr28284=)	TTN	Likely benign	1057523600
+NM_001256850.1(TTN):c.84969A>T (p.Pro28323=)	TTN	Likely benign	1057523342
+NM_001256850.1(TTN):c.85066T>A (p.Leu28356Met)	TTN	Conflicting interpretations of pathogenicity	369855092
+NM_001256850.1(TTN):c.85167A>G (p.Val28389=)	TTN	Likely benign	1057522830
+NM_001256850.1(TTN):c.86061A>T (p.Pro28687=)	TTN	Likely benign	1057522917
+NM_001256850.1(TTN):c.86142A>G (p.Glu28714=)	TTN	Likely benign	1057520905
+NM_001256850.1(TTN):c.86301C>T (p.Ser28767=)	TTN	Likely benign	1057522835
+NM_001256850.1(TTN):c.86334T>C (p.Ala28778=)	TTN	Likely benign	1057523889
+NM_001256850.1(TTN):c.8641A>C (p.Thr2881Pro)	TTN	Likely benign	546667760
+NM_001256850.1(TTN):c.86634T>C (p.Asp28878=)	TTN	Conflicting interpretations of pathogenicity	202185465
+NM_001256850.1(TTN):c.86666C>T (p.Pro28889Leu)	TTN	Likely benign	200875379
+NM_001256850.1(TTN):c.86678A>T (p.Asp28893Val)	TTN	Conflicting interpretations of pathogenicity	182549226
+NM_001256850.1(TTN):c.86720C>T (p.Ala28907Val)	TTN	Conflicting interpretations of pathogenicity	553668520
+NM_001256850.1(TTN):c.87014A>G (p.Asn29005Ser)	TTN	Benign/Likely benign	72648245
+NM_001256850.1(TTN):c.87318T>C (p.Gly29106=)	TTN	Benign	373311745
+NM_001256850.1(TTN):c.87394C>T (p.Arg29132Ter)	TTN	Pathogenic/Likely pathogenic	794729301
+NM_001256850.1(TTN):c.8770A>C (p.Ser2924Arg)	TTN	Likely benign	1057523066
+NM_001256850.1(TTN):c.87776A>G (p.Asn29259Ser)	TTN	Conflicting interpretations of pathogenicity	186234393
+NM_001256850.1(TTN):c.88011C>T (p.Phe29337=)	TTN	Likely benign	769177976
+NM_001256850.1(TTN):c.88521C>T (p.Tyr29507=)	TTN	Benign/Likely benign	561739832
+NM_001256850.1(TTN):c.88802G>A (p.Arg29601His)	TTN	Conflicting interpretations of pathogenicity	369899675
+NM_001256850.1(TTN):c.88858C>T (p.Arg29620Ter)	TTN	Likely pathogenic	-1
+NM_001256850.1(TTN):c.88945C>T (p.Leu29649=)	TTN	Likely benign	557737090
+NM_001256850.1(TTN):c.89239A>T (p.Arg29747Ter)	TTN	Pathogenic	794729302
+NM_001256850.1(TTN):c.89360G>A (p.Arg29787His)	TTN	Conflicting interpretations of pathogenicity	149375775
+NM_001256850.1(TTN):c.89541T>C (p.Ala29847=)	TTN	Likely benign	138888307
+NM_001256850.1(TTN):c.8955T>G (p.Thr2985=)	TTN	Likely benign	774980824
+NM_001256850.1(TTN):c.89670G>A (p.Ala29890=)	TTN	Likely benign	373301015
+NM_001256850.1(TTN):c.89700C>T (p.Tyr29900=)	TTN	Conflicting interpretations of pathogenicity	376539252
+NM_001256850.1(TTN):c.90109T>G (p.Cys30037Gly)	TTN	Likely pathogenic	2555818
+NM_001256850.1(TTN):c.90171C>T (p.Ala30057=)	TTN	Benign	373509153
+NM_001256850.1(TTN):c.90203C>G (p.Pro30068Arg)	TTN	Conflicting interpretations of pathogenicity	869320739
+NM_001256850.1(TTN):c.90211T>C (p.Cys30071Arg)	TTN	Pathogenic	869320740
+NM_001256850.1(TTN):c.90264G>C (p.Trp30088Cys)	TTN	Pathogenic	869320742
+NM_001256850.1(TTN):c.90282C>T (p.Asp30094=)	TTN	Benign/Likely benign	373182578
+NM_001256850.1(TTN):c.90492C>A (p.Phe30164Leu)	TTN	Conflicting interpretations of pathogenicity	587780983
+NM_001256850.1(TTN):c.9077A>T (p.Asn3026Ile)	TTN	Benign/Likely benign	11900987
+NM_001256850.1(TTN):c.9093C>T (p.His3031=)	TTN	Likely benign	1057521950
+NM_001256850.1(TTN):c.91093G>A (p.Val30365Met)	TTN	Conflicting interpretations of pathogenicity	191786700
+NM_001256850.1(TTN):c.91128A>G (p.Ala30376=)	TTN	Likely benign	367805587
+NM_001256850.1(TTN):c.9112T>C (p.Tyr3038His)	TTN	Likely pathogenic	886037909
+NM_001256850.1(TTN):c.91175G>A (p.Arg30392His)	TTN	Conflicting interpretations of pathogenicity	200648462
+NM_001256850.1(TTN):c.91185G>A (p.Val30395=)	TTN	Benign	372773283
+NM_001256850.1(TTN):c.91257T>C (p.Ile30419=)	TTN	Benign/Likely benign	572401798
+NM_001256850.1(TTN):c.91302T>A (p.Val30434=)	TTN	Likely benign	752745266
+NM_001256850.1(TTN):c.91498A>G (p.Ile30500Val)	TTN	Likely benign	794729249
+NM_001256850.1(TTN):c.9150A>G (p.Thr3050=)	TTN	Benign/Likely benign	72647886
+NM_001256850.1(TTN):c.91626T>C (p.Asn30542=)	TTN	Likely benign	1057522601
+NM_001256850.1(TTN):c.91761C>T (p.Tyr30587=)	TTN	Benign/Likely benign	368423941
+NM_001256850.1(TTN):c.91774C>T (p.Arg30592Ter)	TTN	Pathogenic	781171206
+NM_001256850.1(TTN):c.918C>T (p.Ser306=)	TTN	Likely benign	773898647
+NM_001256850.1(TTN):c.92037T>C (p.Ala30679=)	TTN	Benign/Likely benign	141431591
+NM_001256850.1(TTN):c.92075G>A (p.Arg30692His)	TTN	Conflicting interpretations of pathogenicity	138846756
+NM_001256850.1(TTN):c.92176C>T (p.Arg30726Cys)	TTN	Conflicting interpretations of pathogenicity	202064385
+NM_001256850.1(TTN):c.92229T>C (p.Val30743=)	TTN	Likely benign	368018568
+NM_001256850.1(TTN):c.92319T>C (p.Ala30773=)	TTN	Likely benign	776580922
+NM_001256850.1(TTN):c.92334T>C (p.Ile30778=)	TTN	Benign/Likely benign	373206096
+NM_001256850.1(TTN):c.92472C>T (p.Thr30824=)	TTN	Likely benign	755328785
+NM_001256850.1(TTN):c.92541T>C (p.Ser30847=)	TTN	Benign/Likely benign	571147766
+NM_001256850.1(TTN):c.92689C>T (p.Arg30897Cys)	TTN	Likely benign	761050391
+NM_001256850.1(TTN):c.93003A>T (p.Val31001=)	TTN	Likely benign	766450778
+NM_001256850.1(TTN):c.93069C>T (p.His31023=)	TTN	Likely benign	794729549
+NM_001256850.1(TTN):c.93098G>A (p.Arg31033His)	TTN	Conflicting interpretations of pathogenicity	750969198
+NM_001256850.1(TTN):c.93099C>T (p.Arg31033=)	TTN	Likely benign	372825562
+NM_001256850.1(TTN):c.93195T>C (p.Leu31065=)	TTN	Likely benign	72648269
+NM_001256850.1(TTN):c.93444G>A (p.Lys31148=)	TTN	Benign	72648274
+NM_001256850.1(TTN):c.93516G>A (p.Val31172=)	TTN	Benign	368487246
+NM_001256850.1(TTN):c.93793G>A (p.Val31265Ile)	TTN	Conflicting interpretations of pathogenicity	182683829
+NM_001256850.1(TTN):c.9402C>T (p.Asn3134=)	TTN	Conflicting interpretations of pathogenicity	587780987
+NM_001256850.1(TTN):c.94108T>A (p.Ser31370Thr)	TTN	Benign/Likely benign	78814506
+NM_001256850.1(TTN):c.94179G>C (p.Trp31393Cys)	TTN	Conflicting interpretations of pathogenicity	397517778
+NM_001256850.1(TTN):c.94422T>G (p.Gly31474=)	TTN	Benign	56398525
+NM_001256850.1(TTN):c.94579G>T (p.Glu31527Ter)	TTN	Likely pathogenic	1064794982
+NM_001256850.1(TTN):c.94789C>T (p.Gln31597Ter)	TTN	Pathogenic	1131691383
+NM_001256850.1(TTN):c.94887C>T (p.Val31629=)	TTN	Benign/Likely benign	564536939
+NM_001256850.1(TTN):c.94907G>A (p.Gly31636Glu)	TTN	Conflicting interpretations of pathogenicity	397517781
+NM_001256850.1(TTN):c.95023G>A (p.Ala31675Thr)	TTN	Likely benign	374295768
+NM_001256850.1(TTN):c.95046C>T (p.Ile31682=)	TTN	Benign/Likely benign	375403439
+NM_001256850.1(TTN):c.95068T>C (p.Cys31690Arg)	TTN	Conflicting interpretations of pathogenicity	56061641
+NM_001256850.1(TTN):c.95664G>A (p.Trp31888Ter)	TTN	Likely pathogenic	1064793560
+NM_001256850.1(TTN):c.95902C>T (p.Arg31968Ter)	TTN	Pathogenic	1057518195
+NM_001256850.1(TTN):c.96004C>T (p.Gln32002Ter)	TTN	Likely pathogenic	-1
+NM_001256850.1(TTN):c.96141T>C (p.Asp32047=)	TTN	Benign	368168812
+NM_001256850.1(TTN):c.96304C>T (p.Arg32102Ter)	TTN	Pathogenic	794729305
+NM_001256850.1(TTN):c.96322G>A (p.Val32108Met)	TTN	Benign/Likely benign	201554140
+NM_001256850.1(TTN):c.96339A>G (p.Gly32113=)	TTN	Conflicting interpretations of pathogenicity	374878689
+NM_001256850.1(TTN):c.96714T>C (p.His32238=)	TTN	Likely benign	373461875
+NM_001256850.1(TTN):c.97013C>G (p.Pro32338Arg)	TTN	Conflicting interpretations of pathogenicity	200238877
+NM_001256850.1(TTN):c.97348C>T (p.Arg32450Trp)	TTN	Conflicting interpretations of pathogenicity	140319117
+NM_001256850.1(TTN):c.9762G>A (p.Lys3254=)	TTN	Likely benign	1057524449
+NM_001256850.1(TTN):c.97638C>T (p.Tyr32546=)	TTN	Conflicting interpretations of pathogenicity	375625664
+NM_001256850.1(TTN):c.97773C>T (p.Val32591=)	TTN	Benign/Likely benign	202180775
+NM_001256850.1(TTN):c.97828A>G (p.Met32610Val)	TTN	Conflicting interpretations of pathogenicity	56173891
+NM_001256850.1(TTN):c.9789C>T (p.Ser3263=)	TTN	Benign/Likely benign	138313387
+NM_001256850.1(TTN):c.97959A>G (p.Ser32653=)	TTN	Likely benign	373384005
+NM_001256850.1(TTN):c.9827A>G (p.Glu3276Gly)	TTN	Conflicting interpretations of pathogenicity	377049518
+NM_001256850.1(TTN):c.98313C>T (p.Ile32771=)	TTN	Likely benign	745465328
+NM_001256850.1(TTN):c.98340G>A (p.Leu32780=)	TTN	Likely benign	1057521288
+NM_001256850.1(TTN):c.98369C>T (p.Thr32790Met)	TTN	Conflicting interpretations of pathogenicity	192001910
+NM_001256850.1(TTN):c.98442C>T (p.Arg32814=)	TTN	Likely benign	398124462
+NM_001256850.1(TTN):c.98601C>T (p.Val32867=)	TTN	Benign/Likely benign	587780985
+NM_001256850.1(TTN):c.98653G>C (p.Glu32885Gln)	TTN	Conflicting interpretations of pathogenicity	770742837
+NM_001256850.1(TTN):c.98763C>T (p.Phe32921=)	TTN	Likely benign	777864853
+NM_001256850.1(TTN):c.98765T>C (p.Val32922Ala)	TTN	Conflicting interpretations of pathogenicity	55945684
+NM_001256850.1(TTN):c.98790T>C (p.Tyr32930=)	TTN	Likely benign	1057523313
+NM_001256850.1(TTN):c.99045G>C (p.Gly33015=)	TTN	Likely benign	1057523617
+NM_001256850.1(TTN):c.99411G>A (p.Thr33137=)	TTN	Likely benign	550108694
+NM_001256850.1(TTN):c.99442G>A (p.Glu33148Lys)	TTN	Conflicting interpretations of pathogenicity	190565627
+NM_001256850.1(TTN):c.99534C>T (p.Tyr33178=)	TTN	Benign	548677252
+NM_001256850.1(TTN):c.99669G>A (p.Pro33223=)	TTN	Benign/Likely benign	144094650
+NM_001256850.1(TTN):c.99717G>A (p.Glu33239=)	TTN	Conflicting interpretations of pathogenicity	373134178
+NM_001256850.1(TTN):c.99730C>T (p.Arg33244Ter)	TTN	Likely pathogenic	1057518003
+NM_001256850.1(TTN):c.99768G>A (p.Ser33256=)	TTN	Benign/Likely benign	369619711
+NM_001256850.1(TTN):c.99846A>C (p.Thr33282=)	TTN	Benign/Likely benign	56375087
+NM_001267550.2(TTN):c.100059T>A (p.Ile33353=)	TTN	Conflicting interpretations of pathogenicity	56026369
+NM_001267550.2(TTN):c.100257T>C (p.Asp33419=)	TTN	Likely benign	727505046
+NM_001267550.2(TTN):c.1002C>T (p.Thr334=)	TTN	Conflicting interpretations of pathogenicity	148094198
+NM_001267550.2(TTN):c.100389C>T (p.Tyr33463=)	TTN	Likely benign	368984050
+NM_001267550.2(TTN):c.100445C>A (p.Ser33482Ter)	TTN	Likely pathogenic	869312086
+NM_001267550.2(TTN):c.10104T>G (p.Val3368=)	TTN	Benign/Likely benign	142460433
+NM_001267550.2(TTN):c.101055T>C (p.Asp33685=)	TTN	Likely benign	372788551
+NM_001267550.2(TTN):c.101136G>A (p.Glu33712=)	TTN	Likely benign	1060503937
+NM_001267550.2(TTN):c.10120A>T (p.Lys3374Ter)	TTN	Likely pathogenic	770029258
+NM_001267550.2(TTN):c.101214T>C (p.Arg33738=)	TTN	Likely benign	876657617
+NM_001267550.2(TTN):c.101214T>G (p.Arg33738=)	TTN	Likely benign	876657617
+NM_001267550.2(TTN):c.10128G>A (p.Ser3376=)	TTN	Conflicting interpretations of pathogenicity	755262343
+NM_001267550.2(TTN):c.101376T>C (p.Tyr33792=)	TTN	Conflicting interpretations of pathogenicity	367732133
+NM_001267550.2(TTN):c.101406C>G (p.Val33802=)	TTN	Conflicting interpretations of pathogenicity	55802460
+NM_001267550.2(TTN):c.101580A>G (p.Val33860=)	TTN	Likely benign	1060503929
+NM_001267550.2(TTN):c.10163G>A (p.Arg3388Gln)	TTN	Conflicting interpretations of pathogenicity	187703540
+NM_001267550.2(TTN):c.101697C>T (p.Asp33899=)	TTN	Benign	114267234
+NM_001267550.2(TTN):c.101996G>A (p.Trp33999Ter)	TTN	Likely pathogenic	869312068
+NM_001267550.2(TTN):c.102061C>T (p.Gln34021Ter)	TTN	Likely pathogenic	1060500471
+NM_001267550.2(TTN):c.102102C>T (p.Phe34034=)	TTN	Likely benign	377354934
+NM_001267550.2(TTN):c.102214T>C (p.Trp34072Arg)	TTN	Conflicting interpretations of pathogenicity	375159973
+NM_001267550.2(TTN):c.1023G>T (p.Val341=)	TTN	Likely benign	1060503956
+NM_001267550.2(TTN):c.102688A>C (p.Arg34230=)	TTN	Likely benign	745836095
+NM_001267550.2(TTN):c.102737G>A (p.Arg34246His)	TTN	Conflicting interpretations of pathogenicity	372716177
+NM_001267550.2(TTN):c.102846T>A (p.Thr34282=)	TTN	Likely benign	876657618
+NM_001267550.2(TTN):c.103104A>G (p.Leu34368=)	TTN	Conflicting interpretations of pathogenicity	371535721
+NM_001267550.2(TTN):c.103374C>A (p.Tyr34458Ter)	TTN	Likely pathogenic	1060500505
+NM_001267550.2(TTN):c.10378C>G (p.Pro3460Ala)	TTN	Benign/Likely benign	201735487
+NM_001267550.2(TTN):c.104010C>A (p.Tyr34670Ter)	TTN	Likely pathogenic	751039219
+NM_001267550.2(TTN):c.104092C>T (p.Arg34698Ter)	TTN	Conflicting interpretations of pathogenicity	727504184
+NM_001267550.2(TTN):c.104229T>C (p.Tyr34743=)	TTN	Likely benign	762295035
+NM_001267550.2(TTN):c.104347C>T (p.Leu34783Phe)	TTN	Benign	539735520
+NM_001267550.2(TTN):c.104413C>T (p.Arg34805Ter)	TTN	Likely pathogenic	750519430
+NM_001267550.2(TTN):c.10458G>A (p.Ala3486=)	TTN	Likely benign	759465333
+NM_001267550.2(TTN):c.104901T>G (p.Ser34967=)	TTN	Likely benign	367610925
+NM_001267550.2(TTN):c.1050C>T (p.Tyr350=)	TTN	Conflicting interpretations of pathogenicity	375448572
+NM_001267550.2(TTN):c.1051G>A (p.Val351Met)	TTN	Benign	772889673
+NM_001267550.2(TTN):c.105468G>A (p.Pro35156=)	TTN	Conflicting interpretations of pathogenicity	55806007
+NM_001267550.2(TTN):c.105653T>C (p.Ile35218Thr)	TTN	Conflicting interpretations of pathogenicity	143499441
+NM_001267550.2(TTN):c.105719G>A (p.Arg35240Gln)	TTN	Conflicting interpretations of pathogenicity	530537991
+NM_001267550.2(TTN):c.105843A>T (p.Pro35281=)	TTN	Likely benign	876657619
+NM_001267550.2(TTN):c.105876G>A (p.Leu35292=)	TTN	Conflicting interpretations of pathogenicity	372521529
+NM_001267550.2(TTN):c.10608G>A (p.Gln3536=)	TTN	Benign	371651343
+NM_001267550.2(TTN):c.106154A>C (p.Lys35385Thr)	TTN	-	768296130
+NM_001267550.2(TTN):c.106476T>C (p.Cys35492=)	TTN	Benign/Likely benign	6725673
+NM_001267550.2(TTN):c.10659A>G (p.Thr3553=)	TTN	Likely benign	748958021
+NM_001267550.2(TTN):c.106638G>A (p.Arg35546=)	TTN	Conflicting interpretations of pathogenicity	56324602
+NM_001267550.2(TTN):c.106788A>T (p.Thr35596=)	TTN	Benign/Likely benign	369896045
+NM_001267550.2(TTN):c.106827T>G (p.Ile35609Met)	TTN	Conflicting interpretations of pathogenicity	727504540
+NM_001267550.2(TTN):c.106920G>A (p.Leu35640=)	TTN	Conflicting interpretations of pathogenicity	183923129
+NM_001267550.2(TTN):c.107205G>A (p.Trp35735Ter)	TTN	Likely pathogenic	886044505
+NM_001267550.2(TTN):c.107255G>A (p.Arg35752His)	TTN	Likely pathogenic	760107623
+NM_001267550.2(TTN):c.10726A>G (p.Thr3576Ala)	TTN	Likely benign	6433728
+NM_001267550.2(TTN):c.107559C>G (p.Ala35853=)	TTN	Likely benign	1060503952
+NM_001267550.2(TTN):c.107605A>G (p.Ser35869Gly)	TTN	Conflicting interpretations of pathogenicity	201835888
+NM_001267550.2(TTN):c.107634A>G (p.Thr35878=)	TTN	Likely benign	878854285
+NM_001267550.2(TTN):c.107688G>A (p.Pro35896=)	TTN	Benign/Likely benign	542575761
+NM_001267550.2(TTN):c.10770G>A (p.Glu3590=)	TTN	Likely benign	377401997
+NM_001267550.2(TTN):c.107840T>C (p.Ile35947Thr)	TTN	Likely pathogenic	281864928
+NM_001267550.2(TTN):c.107961T>C (p.His35987=)	TTN	Conflicting interpretations of pathogenicity	377439315
+NM_001267550.2(TTN):c.10854A>C (p.Gln3618His)	TTN	Benign	79466278
+NM_001267550.2(TTN):c.11019C>T (p.Cys3673=)	TTN	Benign	72955212
+NM_001267550.2(TTN):c.11063T>C (p.Phe3688Ser)	TTN	Likely benign	377296133
+NM_001267550.2(TTN):c.11103G>A (p.Glu3701=)	TTN	Likely benign	762913656
+NM_001267550.2(TTN):c.11370A>G (p.Gln3790=)	TTN	Benign/Likely benign	72648918
+NM_001267550.2(TTN):c.11415A>G (p.Pro3805=)	TTN	Likely benign	561157636
+NM_001267550.2(TTN):c.11502G>A (p.Gly3834=)	TTN	Likely benign	777420658
+NM_001267550.2(TTN):c.11613C>T (p.Asp3871=)	TTN	Likely benign	781329648
+NM_001267550.2(TTN):c.11712T>C (p.Ser3904=)	TTN	Likely benign	553478382
+NM_001267550.2(TTN):c.11912G>A (p.Trp3971Ter)	TTN	Likely pathogenic	869312102
+NM_001267550.2(TTN):c.11969C>T (p.Pro3990Leu)	TTN	Benign	33971253
+NM_001267550.2(TTN):c.1212C>T (p.Tyr404=)	TTN	Likely benign	139187345
+NM_001267550.2(TTN):c.1213G>A (p.Ala405Thr)	TTN	Conflicting interpretations of pathogenicity	112266780
+NM_001267550.2(TTN):c.12195T>C (p.Leu4065=)	TTN	Likely benign	201129413
+NM_001267550.2(TTN):c.12324T>C (p.Pro4108=)	TTN	Likely benign	537284713
+NM_001267550.2(TTN):c.12387G>A (p.Arg4129=)	TTN	Conflicting interpretations of pathogenicity	199546417
+NM_001267550.2(TTN):c.12757C>T (p.Gln4253Ter)	TTN	Likely pathogenic	869312039
+NM_001267550.2(TTN):c.12780G>T (p.Ala4260=)	TTN	Benign	746578
+NM_001267550.2(TTN):c.13086G>A (p.Glu4362=)	TTN	Likely benign	753471578
+NM_001267550.2(TTN):c.13282G>A (p.Glu4428Lys)	TTN	Conflicting interpretations of pathogenicity	528766978
+NM_001267550.2(TTN):c.1332C>T (p.Ser444=)	TTN	Likely benign	759520186
+NM_001267550.2(TTN):c.13900G>T (p.Glu4634Ter)	TTN	Likely pathogenic	869312103
+NM_001267550.2(TTN):c.14004C>T (p.Thr4668=)	TTN	Benign/Likely benign	201200682
+NM_001267550.2(TTN):c.14217A>C (p.Glu4739Asp)	TTN	-	878854393
+NM_001267550.2(TTN):c.14343C>T (p.Val4781=)	TTN	Likely benign	570400005
+NM_001267550.2(TTN):c.14451A>G (p.Thr4817=)	TTN	Likely benign	370621465
+NM_001267550.2(TTN):c.15354T>C (p.Ser5118=)	TTN	Likely benign	964395276
+NM_001267550.2(TTN):c.15600A>G (p.Thr5200=)	TTN	Likely benign	369464051
+NM_001267550.2(TTN):c.15860C>T (p.Thr5287Met)	TTN	Likely benign	148551876
+NM_001267550.2(TTN):c.15922C>T (p.Arg5308Ter)	TTN	Conflicting interpretations of pathogenicity	886042995
+NM_001267550.2(TTN):c.16515T>C (p.Ser5505=)	TTN	Conflicting interpretations of pathogenicity	201625116
+NM_001267550.2(TTN):c.16551G>A (p.Ser5517=)	TTN	Conflicting interpretations of pathogenicity	376037792
+NM_001267550.2(TTN):c.16557G>A (p.Thr5519=)	TTN	Likely benign	753480595
+NM_001267550.2(TTN):c.17082G>T (p.Leu5694=)	TTN	Conflicting interpretations of pathogenicity	750996600
+NM_001267550.2(TTN):c.17228G>A (p.Arg5743Gln)	TTN	Likely benign	753892271
+NM_001267550.2(TTN):c.17259G>A (p.Leu5753=)	TTN	Likely benign	1060503934
+NM_001267550.2(TTN):c.17312C>G (p.Thr5771Ser)	TTN	Benign	16866477
+NM_001267550.2(TTN):c.1742C>T (p.Pro581Leu)	TTN	Likely benign	199778910
+NM_001267550.2(TTN):c.177C>T (p.Ser59=)	TTN	Benign	191057824
+NM_001267550.2(TTN):c.180T>C (p.Asp60=)	TTN	Likely benign	144750850
+NM_001267550.2(TTN):c.18231C>T (p.Thr6077=)	TTN	Likely benign	377639910
+NM_001267550.2(TTN):c.18456T>C (p.His6152=)	TTN	Likely benign	756540833
+NM_001267550.2(TTN):c.18510A>G (p.Val6170=)	TTN	Likely benign	761425332
+NM_001267550.2(TTN):c.18528T>C (p.Tyr6176=)	TTN	Likely benign	375408819
+NM_001267550.2(TTN):c.18549C>T (p.Asp6183=)	TTN	Conflicting interpretations of pathogenicity	200549353
+NM_001267550.2(TTN):c.18561G>A (p.Ala6187=)	TTN	Conflicting interpretations of pathogenicity	377556808
+NM_001267550.2(TTN):c.185G>A (p.Arg62His)	TTN	Likely benign	758169489
+NM_001267550.2(TTN):c.18609A>G (p.Arg6203=)	TTN	Likely benign	777227340
+NM_001267550.2(TTN):c.1869A>G (p.Gln623=)	TTN	Likely benign	750034931
+NM_001267550.2(TTN):c.186C>T (p.Arg62=)	TTN	Conflicting interpretations of pathogenicity	528853682
+NM_001267550.2(TTN):c.18856G>A (p.Val6286Ile)	TTN	Conflicting interpretations of pathogenicity	149131555
+NM_001267550.2(TTN):c.19063G>T (p.Asp6355Tyr)	TTN	Conflicting interpretations of pathogenicity	188878341
+NM_001267550.2(TTN):c.19191G>A (p.Thr6397=)	TTN	Conflicting interpretations of pathogenicity	140495148
+NM_001267550.2(TTN):c.19317G>C (p.Val6439=)	TTN	Likely benign	878854289
+NM_001267550.2(TTN):c.19389C>T (p.Phe6463=)	TTN	Likely benign	267599062
+NM_001267550.2(TTN):c.19728C>T (p.Phe6576=)	TTN	Conflicting interpretations of pathogenicity	751902051
+NM_001267550.2(TTN):c.19738C>T (p.Pro6580Ser)	TTN	Conflicting interpretations of pathogenicity	116572520
+NM_001267550.2(TTN):c.19818A>G (p.Lys6606=)	TTN	Likely benign	397517492
+NM_001267550.2(TTN):c.19977G>T (p.Thr6659=)	TTN	Likely benign	1060503954
+NM_001267550.2(TTN):c.20236G>A (p.Ala6746Thr)	TTN	Likely benign	202108224
+NM_001267550.2(TTN):c.20263G>C (p.Val6755Leu)	TTN	Likely benign	876657599
+NM_001267550.2(TTN):c.20736A>G (p.Leu6912=)	TTN	Likely benign	876657600
+NM_001267550.2(TTN):c.21148C>T (p.Leu7050=)	TTN	Conflicting interpretations of pathogenicity	202089818
+NM_001267550.2(TTN):c.21555C>A (p.Ile7185=)	TTN	Conflicting interpretations of pathogenicity	201155967
+NM_001267550.2(TTN):c.21993T>C (p.Pro7331=)	TTN	Likely benign	373223049
+NM_001267550.2(TTN):c.2226C>T (p.Ser742=)	TTN	Likely benign	151025677
+NM_001267550.2(TTN):c.22569T>C (p.Ser7523=)	TTN	Likely benign	761651834
+NM_001267550.2(TTN):c.22682A>G (p.Tyr7561Cys)	TTN	Likely pathogenic	786205544
+NM_001267550.2(TTN):c.23121G>A (p.Lys7707=)	TTN	Benign/Likely benign	72648971
+NM_001267550.2(TTN):c.23250C>T (p.Ile7750=)	TTN	Likely benign	1060503967
+NM_001267550.2(TTN):c.23853C>A (p.Ala7951=)	TTN	Benign/Likely benign	201766927
+NM_001267550.2(TTN):c.2391A>G (p.Leu797=)	TTN	Likely benign	147124267
+NM_001267550.2(TTN):c.23925C>T (p.Ser7975=)	TTN	Likely benign	374879942
+NM_001267550.2(TTN):c.2397G>A (p.Thr799=)	TTN	Likely benign	369313128
+NM_001267550.2(TTN):c.24045A>T (p.Ser8015=)	TTN	Likely benign	1060503946
+NM_001267550.2(TTN):c.24168G>A (p.Thr8056=)	TTN	Likely benign	563766812
+NM_001267550.2(TTN):c.24207A>G (p.Ser8069=)	TTN	Likely benign	370099448
+NM_001267550.2(TTN):c.24345C>T (p.Ser8115=)	TTN	Conflicting interpretations of pathogenicity	72648977
+NM_001267550.2(TTN):c.24546T>A (p.Val8182=)	TTN	Conflicting interpretations of pathogenicity	397517508
+NM_001267550.2(TTN):c.24579A>G (p.Thr8193=)	TTN	Conflicting interpretations of pathogenicity	72648979
+NM_001267550.2(TTN):c.24756T>G (p.Asp8252Glu)	TTN	Likely benign	764248656
+NM_001267550.2(TTN):c.24795C>T (p.Tyr8265=)	TTN	Likely benign	776344275
+NM_001267550.2(TTN):c.25008C>T (p.Cys8336=)	TTN	Benign	116378128
+NM_001267550.2(TTN):c.25223C>T (p.Thr8408Ile)	TTN	Likely benign	201432372
+NM_001267550.2(TTN):c.25563C>T (p.Gly8521=)	TTN	Conflicting interpretations of pathogenicity	556205722
+NM_001267550.2(TTN):c.25626G>A (p.Gln8542=)	TTN	Benign	2562832
+NM_001267550.2(TTN):c.2607T>C (p.Thr869=)	TTN	Likely benign	143969192
+NM_001267550.2(TTN):c.26157T>C (p.Asn8719=)	TTN	Likely benign	878854294
+NM_001267550.2(TTN):c.26439C>T (p.Asn8813=)	TTN	Benign/Likely benign	200088963
+NM_001267550.2(TTN):c.26466C>G (p.Ala8822=)	TTN	Conflicting interpretations of pathogenicity	140003804
+NM_001267550.2(TTN):c.26652A>G (p.Val8884=)	TTN	Likely benign	746179492
+NM_001267550.2(TTN):c.26754G>A (p.Gln8918=)	TTN	Likely benign	1060503939
+NM_001267550.2(TTN):c.26916C>T (p.Tyr8972=)	TTN	Likely benign	762329439
+NM_001267550.2(TTN):c.26928G>A (p.Leu8976=)	TTN	Conflicting interpretations of pathogenicity	370973715
+NM_001267550.2(TTN):c.26940T>A (p.Thr8980=)	TTN	Likely benign	1060503948
+NM_001267550.2(TTN):c.27045G>A (p.Val9015=)	TTN	Likely benign	769752606
+NM_001267550.2(TTN):c.27261A>G (p.Gly9087=)	TTN	Likely benign	878854295
+NM_001267550.2(TTN):c.2731G>A (p.Val911Ile)	TTN	Conflicting interpretations of pathogenicity	141961878
+NM_001267550.2(TTN):c.2744G>A (p.Arg915His)	TTN	Conflicting interpretations of pathogenicity	376922544
+NM_001267550.2(TTN):c.2761G>A (p.Gly921Arg)	TTN	Likely benign	774924294
+NM_001267550.2(TTN):c.27677G>A (p.Cys9226Tyr)	TTN	Likely pathogenic	369108107
+NM_001267550.2(TTN):c.27711C>T (p.Ser9237=)	TTN	Likely benign	727504749
+NM_001267550.2(TTN):c.27825T>C (p.Tyr9275=)	TTN	Likely benign	375790254
+NM_001267550.2(TTN):c.27846C>T (p.Ser9282=)	TTN	Benign/Likely benign	182355009
+NM_001267550.2(TTN):c.27G>A (p.Thr9=)	TTN	Likely benign	760305568
+NM_001267550.2(TTN):c.28001G>A (p.Trp9334Ter)	TTN	Likely pathogenic	1057519160
+NM_001267550.2(TTN):c.28070C>T (p.Thr9357Ile)	TTN	Conflicting interpretations of pathogenicity	144930507
+NM_001267550.2(TTN):c.2807T>C (p.Val936Ala)	TTN	Likely benign	139567470
+NM_001267550.2(TTN):c.28131C>T (p.Asn9377=)	TTN	Conflicting interpretations of pathogenicity	72648997
+NM_001267550.2(TTN):c.28425G>T (p.Val9475=)	TTN	Likely benign	727503642
+NM_001267550.2(TTN):c.28509A>G (p.Val9503=)	TTN	Likely benign	756229382
+NM_001267550.2(TTN):c.28644G>A (p.Thr9548=)	TTN	Likely benign	376744914
+NM_001267550.2(TTN):c.28653G>C (p.Leu9551=)	TTN	Likely benign	876657601
+NM_001267550.2(TTN):c.28726C>T (p.Leu9576=)	TTN	Likely benign	780753483
+NM_001267550.2(TTN):c.28818C>T (p.Tyr9606=)	TTN	Likely benign	374117152
+NM_001267550.2(TTN):c.29230C>T (p.Arg9744Cys)	TTN	Conflicting interpretations of pathogenicity	375266859
+NM_001267550.2(TTN):c.2940C>T (p.Asp980=)	TTN	Likely benign	201395853
+NM_001267550.2(TTN):c.29637C>T (p.Asp9879=)	TTN	Likely benign	375591605
+NM_001267550.2(TTN):c.29943C>T (p.Ser9981=)	TTN	Likely benign	543490348
+NM_001267550.2(TTN):c.30030C>T (p.Cys10010=)	TTN	Likely benign	372290430
+NM_001267550.2(TTN):c.30129T>C (p.His10043=)	TTN	Likely benign	764724866
+NM_001267550.2(TTN):c.30253C>T (p.Gln10085Ter)	TTN	Likely pathogenic	1057519237
+NM_001267550.2(TTN):c.30282T>G (p.Ser10094=)	TTN	Conflicting interpretations of pathogenicity	886042543
+NM_001267550.2(TTN):c.30384T>C (p.Asp10128=)	TTN	Conflicting interpretations of pathogenicity	188584219
+NM_001267550.2(TTN):c.3069C>T (p.Thr1023=)	TTN	Likely benign	371447978
+NM_001267550.2(TTN):c.31014T>C (p.Tyr10338=)	TTN	Likely benign	397517536
+NM_001267550.2(TTN):c.31071C>T (p.His10357=)	TTN	Conflicting interpretations of pathogenicity	368973334
+NM_001267550.2(TTN):c.31227T>G (p.Val10409=)	TTN	Likely benign	748539440
+NM_001267550.2(TTN):c.3138T>A (p.Thr1046=)	TTN	Likely benign	1060503945
+NM_001267550.2(TTN):c.31533A>G (p.Glu10511=)	TTN	Likely benign	757499228
+NM_001267550.2(TTN):c.31542T>C (p.Thr10514=)	TTN	Likely benign	876657602
+NM_001267550.2(TTN):c.31806C>T (p.Pro10602=)	TTN	Conflicting interpretations of pathogenicity	370080995
+NM_001267550.2(TTN):c.3201T>C (p.Thr1067=)	TTN	Likely benign	876657603
+NM_001267550.2(TTN):c.32020C>G (p.Leu10674Val)	TTN	Conflicting interpretations of pathogenicity	766003250
+NM_001267550.2(TTN):c.32025T>C (p.Pro10675=)	TTN	Likely benign	369365087
+NM_001267550.2(TTN):c.32071G>A (p.Ala10691Thr)	TTN	Conflicting interpretations of pathogenicity	371452173
+NM_001267550.2(TTN):c.32199A>T (p.Val10733=)	TTN	Likely benign	769008912
+NM_001267550.2(TTN):c.3228T>C (p.Pro1076=)	TTN	Likely benign	876657604
+NM_001267550.2(TTN):c.32462C>T (p.Pro10821Leu)	TTN;TTN-AS1	Conflicting interpretations of pathogenicity	146400809
+NM_001267550.2(TTN):c.32557C>T (p.Pro10853Ser)	TTN	Conflicting interpretations of pathogenicity	201738153
+NM_001267550.2(TTN):c.32706G>A (p.Ala10902=)	TTN	Conflicting interpretations of pathogenicity	372124201
+NM_001267550.2(TTN):c.3318C>T (p.Gly1106=)	TTN	Likely benign	141768043
+NM_001267550.2(TTN):c.33366C>T (p.Val11122=)	TTN	Likely benign	878915517
+NM_001267550.2(TTN):c.33657G>A (p.Pro11219=)	TTN	Likely benign	754038093
+NM_001267550.2(TTN):c.33762A>G (p.Lys11254=)	TTN	Likely benign	749466171
+NM_001267550.2(TTN):c.33966G>A (p.Pro11322=)	TTN	Likely benign	373083865
+NM_001267550.2(TTN):c.34341C>T (p.Pro11447=)	TTN	Likely benign	369715093
+NM_001267550.2(TTN):c.34474C>A (p.Pro11492Thr)	TTN	Benign	182428755
+NM_001267550.2(TTN):c.34695G>A (p.Val11565=)	TTN	Likely benign	372341590
+NM_001267550.2(TTN):c.35079A>G (p.Glu11693=)	TTN	Likely benign	779550415
+NM_001267550.2(TTN):c.3523G>A (p.Ala1175Thr)	TTN	Conflicting interpretations of pathogenicity	397517570
+NM_001267550.2(TTN):c.36126A>C (p.Glu12042Asp)	TTN	Benign	113231696
+NM_001267550.2(TTN):c.36285C>T (p.His12095=)	TTN	Benign	201184203
+NM_001267550.2(TTN):c.36318A>G (p.Lys12106=)	TTN	Benign	2115557
+NM_001267550.2(TTN):c.36405G>A (p.Val12135=)	TTN	Likely benign	373815877
+NM_001267550.2(TTN):c.36489G>A (p.Ala12163=)	TTN	Benign	115493456
+NM_001267550.2(TTN):c.36655T>G (p.Leu12219Val)	TTN	Conflicting interpretations of pathogenicity	12994774
+NM_001267550.2(TTN):c.36855G>A (p.Pro12285=)	TTN	Likely benign	535294541
+NM_001267550.2(TTN):c.37009C>T (p.Pro12337Ser)	TTN	Benign	201474544
+NM_001267550.2(TTN):c.37473G>C (p.Pro12491=)	TTN	Likely benign	556414069
+NM_001267550.2(TTN):c.37705G>A (p.Val12569Ile)	TTN	Benign	568086259
+NM_001267550.2(TTN):c.37722T>C (p.Val12574=)	TTN	Benign	377422414
+NM_001267550.2(TTN):c.37788C>T (p.Val12596=)	TTN	Likely benign	1060503943
+NM_001267550.2(TTN):c.37956G>T (p.Val12652=)	TTN	Likely benign	541757326
+NM_001267550.2(TTN):c.38031T>C (p.Pro12677=)	TTN	Likely benign	1060503972
+NM_001267550.2(TTN):c.38226G>T (p.Pro12742=)	TTN	Likely benign	965565085
+NM_001267550.2(TTN):c.38311A>G (p.Lys12771Glu)	TTN	Likely benign	551811137
+NM_001267550.2(TTN):c.38323C>T (p.Leu12775Phe)	TTN	Benign	186232617
+NM_001267550.2(TTN):c.38336T>C (p.Val12779Ala)	TTN	Benign	2099130
+NM_001267550.2(TTN):c.38378A>G (p.Lys12793Arg)	TTN	Benign	189389531
+NM_001267550.2(TTN):c.38505C>T (p.Pro12835=)	TTN	Likely benign	745664297
+NM_001267550.2(TTN):c.3864T>G (p.Ala1288=)	TTN	Benign/Likely benign	368702156
+NM_001267550.2(TTN):c.38880A>G (p.Pro12960=)	TTN	Benign	2742354
+NM_001267550.2(TTN):c.38902C>T (p.Pro12968Ser)	TTN	Conflicting interpretations of pathogenicity	192528655
+NM_001267550.2(TTN):c.38929C>T (p.Pro12977Ser)	TTN	Benign	150223722
+NM_001267550.2(TTN):c.39006G>T (p.Ser13002=)	TTN	Benign	548745743
+NM_001267550.2(TTN):c.39045G>C (p.Val13015=)	TTN	Benign/Likely benign	192464868
+NM_001267550.2(TTN):c.39057G>A (p.Pro13019=)	TTN	Benign/Likely benign	371945519
+NM_001267550.2(TTN):c.39606A>G (p.Pro13202=)	TTN	Likely benign	372356060
+NM_001267550.2(TTN):c.39786A>G (p.Glu13262=)	TTN	Conflicting interpretations of pathogenicity	398124450
+NM_001267550.2(TTN):c.39813A>G (p.Pro13271=)	TTN	Conflicting interpretations of pathogenicity	373429851
+NM_001267550.2(TTN):c.40773A>G (p.Pro13591=)	TTN	Likely benign	368521608
+NM_001267550.2(TTN):c.40812T>C (p.Pro13604=)	TTN	Likely benign	879235662
+NM_001267550.2(TTN):c.40963G>T (p.Glu13655Ter)	TTN	Conflicting interpretations of pathogenicity	727504198
+NM_001267550.2(TTN):c.41253C>T (p.Ser13751=)	TTN	Likely benign	772643931
+NM_001267550.2(TTN):c.41473C>T (p.Arg13825Ter)	TTN	Likely pathogenic	869312043
+NM_001267550.2(TTN):c.41835T>G (p.Tyr13945Ter)	TTN	Likely pathogenic	869312105
+NM_001267550.2(TTN):c.41982T>C (p.Pro13994=)	TTN	Likely benign	777609108
+NM_001267550.2(TTN):c.42056G>A (p.Arg14019His)	TTN	Conflicting interpretations of pathogenicity	374683153
+NM_001267550.2(TTN):c.42219C>T (p.Phe14073=)	TTN	Benign/Likely benign	150612172
+NM_001267550.2(TTN):c.42304G>A (p.Ala14102Thr)	TTN	Likely benign	72650080
+NM_001267550.2(TTN):c.42978C>T (p.Tyr14326=)	TTN	Benign/Likely benign	369959066
+NM_001267550.2(TTN):c.42C>T (p.Ser14=)	TTN	Likely benign	925948430
+NM_001267550.2(TTN):c.43044C>T (p.His14348=)	TTN	Likely benign	1060503970
+NM_001267550.2(TTN):c.43167C>T (p.Ser14389=)	TTN	Likely benign	375780439
+NM_001267550.2(TTN):c.44076A>T (p.Ala14692=)	TTN	Likely benign	535734890
+NM_001267550.2(TTN):c.44269C>G (p.Leu14757Val)	TTN	Likely pathogenic	786205542
+NM_001267550.2(TTN):c.44284C>T (p.Arg14762Ter)	TTN	Likely pathogenic	770767998
+NM_001267550.2(TTN):c.44490T>C (p.Ala14830=)	TTN	Likely benign	1060503932
+NM_001267550.2(TTN):c.44916T>A (p.Val14972=)	TTN	Likely benign	373390402
+NM_001267550.2(TTN):c.45120T>C (p.Ile15040=)	TTN	Likely benign	74580375
+NM_001267550.2(TTN):c.45779T>C (p.Leu15260Pro)	TTN	Likely benign	552053581
+NM_001267550.2(TTN):c.45812T>G (p.Leu15271Ter)	TTN	Likely pathogenic	869312046
+NM_001267550.2(TTN):c.46142T>C (p.Val15381Ala)	TTN	Likely benign	369269320
+NM_001267550.2(TTN):c.46659C>G (p.Ala15553=)	TTN	Likely benign	876657606
+NM_001267550.2(TTN):c.47271T>C (p.Asp15757=)	TTN	Conflicting interpretations of pathogenicity	76081119
+NM_001267550.2(TTN):c.47379C>T (p.Tyr15793=)	TTN	Likely benign	374281025
+NM_001267550.2(TTN):c.474C>G (p.Leu158=)	TTN	Likely benign	149574119
+NM_001267550.2(TTN):c.47629C>T (p.Gln15877Ter)	TTN	Likely pathogenic	886044009
+NM_001267550.2(TTN):c.47692C>T (p.Arg15898Ter)	TTN	Likely pathogenic	775186117
+NM_001267550.2(TTN):c.47697C>A (p.Cys15899Ter)	TTN	Likely pathogenic	373040154
+NM_001267550.2(TTN):c.47737C>T (p.Leu15913Phe)	TTN	Conflicting interpretations of pathogenicity	138576504
+NM_001267550.2(TTN):c.48021C>T (p.Asp16007=)	TTN	Likely benign	368404578
+NM_001267550.2(TTN):c.48143T>C (p.Ile16048Thr)	TTN	Likely benign	749678590
+NM_001267550.2(TTN):c.48432T>C (p.Asp16144=)	TTN	Likely benign	776643336
+NM_001267550.2(TTN):c.48527G>A (p.Trp16176Ter)	TTN	Likely pathogenic	869312048
+NM_001267550.2(TTN):c.49008G>A (p.Val16336=)	TTN	Likely benign	781078888
+NM_001267550.2(TTN):c.49357C>A (p.Pro16453Thr)	TTN	Likely benign	200121902
+NM_001267550.2(TTN):c.49371A>T (p.Leu16457=)	TTN	Benign	146163169
+NM_001267550.2(TTN):c.49406T>A (p.Leu16469His)	TTN	Likely benign	72677245
+NM_001267550.2(TTN):c.49443A>C (p.Pro16481=)	TTN	Benign/Likely benign	74321406
+NM_001267550.2(TTN):c.49458G>A (p.Trp16486Ter)	TTN	Likely pathogenic	869312108
+NM_001267550.2(TTN):c.49656A>G (p.Pro16552=)	TTN	Likely benign	982034509
+NM_001267550.2(TTN):c.49701A>G (p.Ser16567=)	TTN	Likely benign	369646977
+NM_001267550.2(TTN):c.49758T>C (p.Tyr16586=)	TTN	Conflicting interpretations of pathogenicity	72677247
+NM_001267550.2(TTN):c.49812G>A (p.Gly16604=)	TTN	Likely benign	760032120
+NM_001267550.2(TTN):c.4989A>T (p.Pro1663=)	TTN	Likely benign	756408474
+NM_001267550.2(TTN):c.50048T>A (p.Ile16683Asn)	TTN;TTN-AS1	Pathogenic	1057520148
+NM_001267550.2(TTN):c.50244C>T (p.Thr16748=)	TTN	Likely benign	778337707
+NM_001267550.2(TTN):c.50385T>C (p.Gly16795=)	TTN	Benign/Likely benign	374672630
+NM_001267550.2(TTN):c.50430C>T (p.Asn16810=)	TTN	Likely benign	878854313
+NM_001267550.2(TTN):c.51037G>T (p.Glu17013Ter)	TTN	Likely pathogenic	1060500500
+NM_001267550.2(TTN):c.51273G>A (p.Arg17091=)	TTN	Likely benign	532589236
+NM_001267550.2(TTN):c.51310C>T (p.Leu17104=)	TTN	Likely benign	1060503959
+NM_001267550.2(TTN):c.51570T>G (p.Gly17190=)	TTN	Likely benign	876657607
+NM_001267550.2(TTN):c.51870A>G (p.Pro17290=)	TTN	Likely benign	1060503957
+NM_001267550.2(TTN):c.51991G>C (p.Glu17331Gln)	TTN	Likely benign	547986881
+NM_001267550.2(TTN):c.52021C>T (p.Arg17341Ter)	TTN	Likely pathogenic	926741242
+NM_001267550.2(TTN):c.52022G>A (p.Arg17341Gln)	TTN	Conflicting interpretations of pathogenicity	370390570
+NM_001267550.2(TTN):c.52305G>A (p.Leu17435=)	TTN	Likely benign	759498383
+NM_001267550.2(TTN):c.5231C>T (p.Pro1744Leu)	TTN	Benign/Likely benign	75686037
+NM_001267550.2(TTN):c.52553G>A (p.Arg17518His)	TTN	Conflicting interpretations of pathogenicity	559590585
+NM_001267550.2(TTN):c.53261T>C (p.Phe17754Ser)	TTN	Likely benign	749312983
+NM_001267550.2(TTN):c.53292C>T (p.Val17764=)	TTN	Likely benign	1060503942
+NM_001267550.2(TTN):c.53488G>T (p.Gly17830Ter)	TTN	Likely pathogenic	759231562
+NM_001267550.2(TTN):c.53995G>T (p.Glu17999Ter)	TTN	Likely pathogenic	794727387
+NM_001267550.2(TTN):c.54208A>C (p.Arg18070=)	TTN	Benign	138240658
+NM_001267550.2(TTN):c.543C>T (p.Ser181=)	TTN	Likely benign	758598014
+NM_001267550.2(TTN):c.54517C>T (p.Pro18173Ser)	TTN	Conflicting interpretations of pathogenicity	766074604
+NM_001267550.2(TTN):c.54636T>C (p.Tyr18212=)	TTN	Likely benign	397517620
+NM_001267550.2(TTN):c.54638G>A (p.Trp18213Ter)	TTN	Likely pathogenic	727503602
+NM_001267550.2(TTN):c.54903C>G (p.Gly18301=)	TTN	Benign/Likely benign	190830121
+NM_001267550.2(TTN):c.54947C>G (p.Thr18316Ser)	TTN	Benign/Likely benign	758527900
+NM_001267550.2(TTN):c.55059T>C (p.Asn18353=)	TTN	Likely benign	553295928
+NM_001267550.2(TTN):c.55278T>C (p.Val18426=)	TTN	Likely benign	368013796
+NM_001267550.2(TTN):c.55435G>A (p.Val18479Ile)	TTN	Likely benign	559712998
+NM_001267550.2(TTN):c.55547T>C (p.Ile18516Thr)	TTN	Benign/Likely benign	146608896
+NM_001267550.2(TTN):c.56106T>G (p.Val18702=)	TTN	Likely benign	371043153
+NM_001267550.2(TTN):c.561G>A (p.Ser187=)	TTN	Likely benign	141444282
+NM_001267550.2(TTN):c.56631A>G (p.Thr18877=)	TTN	Likely benign	955370014
+NM_001267550.2(TTN):c.56685C>T (p.Ser18895=)	TTN	Likely benign	375403059
+NM_001267550.2(TTN):c.56792G>A (p.Trp18931Ter)	TTN	Likely pathogenic	1060500526
+NM_001267550.2(TTN):c.56910C>T (p.Gly18970=)	TTN	Benign/Likely benign	148299739
+NM_001267550.2(TTN):c.56997T>C (p.Asp18999=)	TTN	Likely benign	375918771
+NM_001267550.2(TTN):c.57008C>A (p.Ser19003Ter)	TTN	Likely pathogenic	878854318
+NM_001267550.2(TTN):c.57300T>C (p.Asp19100=)	TTN	Likely benign	876658069
+NM_001267550.2(TTN):c.57331C>T (p.Arg19111Ter)	TTN	Conflicting interpretations of pathogenicity	72646831
+NM_001267550.2(TTN):c.57648C>T (p.Ile19216=)	TTN	Conflicting interpretations of pathogenicity	55956577
+NM_001267550.2(TTN):c.57786T>C (p.Asn19262=)	TTN	Likely benign	876657608
+NM_001267550.2(TTN):c.57849T>C (p.Thr19283=)	TTN	Likely benign	989489157
+NM_001267550.2(TTN):c.57864T>G (p.Pro19288=)	TTN	Likely benign	878854320
+NM_001267550.2(TTN):c.58155C>A (p.Pro19385=)	TTN	Benign/Likely benign	373587801
+NM_001267550.2(TTN):c.58259G>A (p.Trp19420Ter)	TTN	Likely pathogenic	869025544
+NM_001267550.2(TTN):c.58329T>C (p.Ala19443=)	TTN	Likely benign	766693145
+NM_001267550.2(TTN):c.58392T>C (p.Ser19464=)	TTN	Likely benign	876657609
+NM_001267550.2(TTN):c.58395A>G (p.Thr19465=)	TTN	Likely benign	375134177
+NM_001267550.2(TTN):c.58653T>C (p.Ile19551=)	TTN	Likely benign	727504980
+NM_001267550.2(TTN):c.58869A>G (p.Lys19623=)	TTN	Benign/Likely benign	191066933
+NM_001267550.2(TTN):c.59073T>C (p.Asp19691=)	TTN	Likely benign	775577598
+NM_001267550.2(TTN):c.59859G>A (p.Ala19953=)	TTN	Likely benign	759120495
+NM_001267550.2(TTN):c.59943C>A (p.Pro19981=)	TTN	Conflicting interpretations of pathogenicity	202017608
+NM_001267550.2(TTN):c.60003G>A (p.Pro20001=)	TTN	Likely benign	753118050
+NM_001267550.2(TTN):c.60055G>A (p.Glu20019Lys)	TTN	Benign	201487340
+NM_001267550.2(TTN):c.60120A>G (p.Leu20040=)	TTN	Likely benign	878854323
+NM_001267550.2(TTN):c.60180C>T (p.Leu20060=)	TTN	Likely benign	876657610
+NM_001267550.2(TTN):c.6030T>C (p.Tyr2010=)	TTN	Likely benign	1000321939
+NM_001267550.2(TTN):c.60756A>G (p.Ile20252Met)	TTN	Likely benign	876657611
+NM_001267550.2(TTN):c.60931C>T (p.Arg20311Ter)	TTN	Likely pathogenic	869312055
+NM_001267550.2(TTN):c.61029T>C (p.Phe20343=)	TTN	Conflicting interpretations of pathogenicity	6706088
+NM_001267550.2(TTN):c.61138C>T (p.Leu20380=)	TTN	Likely benign	201167216
+NM_001267550.2(TTN):c.61495C>T (p.Arg20499Ter)	TTN	Likely pathogenic	869312112
+NM_001267550.2(TTN):c.6162C>T (p.Ala2054=)	TTN	Benign/Likely benign	143265948
+NM_001267550.2(TTN):c.6163G>A (p.Glu2055Lys)	TTN	Likely benign	763733251
+NM_001267550.2(TTN):c.61682C>G (p.Ser20561Ter)	TTN	Likely pathogenic	1114167324
+NM_001267550.2(TTN):c.61921C>T (p.Arg20641Ter)	TTN	Likely pathogenic	878854324
+NM_001267550.2(TTN):c.62330G>A (p.Gly20777Glu)	TTN	Likely pathogenic	786205541
+NM_001267550.2(TTN):c.62722C>T (p.Arg20908Ter)	TTN	Likely pathogenic	543860009
+NM_001267550.2(TTN):c.6292C>G (p.Arg2098Gly)	TTN	Likely pathogenic	763722868
+NM_001267550.2(TTN):c.63165G>A (p.Pro21055=)	TTN	Benign/Likely benign	72646852
+NM_001267550.2(TTN):c.63329C>T (p.Ala21110Val)	TTN	Likely benign	370687831
+NM_001267550.2(TTN):c.63601C>T (p.Arg21201Ter)	TTN	Likely pathogenic	764243269
+NM_001267550.2(TTN):c.64005G>A (p.Glu21335=)	TTN	Likely benign	749889687
+NM_001267550.2(TTN):c.64158C>G (p.Ala21386=)	TTN	Likely benign	1060503926
+NM_001267550.2(TTN):c.64326G>A (p.Ala21442=)	TTN	Likely benign	377109969
+NM_001267550.2(TTN):c.64338T>C (p.Ala21446=)	TTN	Conflicting interpretations of pathogenicity	371514555
+NM_001267550.2(TTN):c.64453C>T (p.Arg21485Ter)	TTN	Likely pathogenic	768345594
+NM_001267550.2(TTN):c.64587G>A (p.Val21529=)	TTN	Likely benign	1060503969
+NM_001267550.2(TTN):c.64698A>G (p.Pro21566=)	TTN	Likely benign	1060503935
+NM_001267550.2(TTN):c.64767C>G (p.Gly21589=)	TTN	Likely benign	1060503955
+NM_001267550.2(TTN):c.64811G>A (p.Arg21604Gln)	TTN	Conflicting interpretations of pathogenicity	188996850
+NM_001267550.2(TTN):c.64968A>G (p.Pro21656=)	TTN	Likely benign	376921740
+NM_001267550.2(TTN):c.64989A>C (p.Pro21663=)	TTN	Likely benign	910020189
+NM_001267550.2(TTN):c.64998A>G (p.Ala21666=)	TTN	Likely benign	876657612
+NM_001267550.2(TTN):c.65001A>C (p.Arg21667=)	TTN	Likely benign	749850905
+NM_001267550.2(TTN):c.65319T>C (p.Thr21773=)	TTN	Conflicting interpretations of pathogenicity	746956869
+NM_001267550.2(TTN):c.65476G>T (p.Glu21826Ter)	TTN	Likely pathogenic	763824247
+NM_001267550.2(TTN):c.65775C>T (p.Ser21925=)	TTN	Conflicting interpretations of pathogenicity	72646867
+NM_001267550.2(TTN):c.65964C>T (p.Ile21988=)	TTN	Likely benign	371954292
+NM_001267550.2(TTN):c.66048C>T (p.Ser22016=)	TTN	Likely benign	997612485
+NM_001267550.2(TTN):c.66051G>A (p.Val22017=)	TTN	Conflicting interpretations of pathogenicity	587780981
+NM_001267550.2(TTN):c.66240A>C (p.Ala22080=)	TTN	Likely benign	375181938
+NM_001267550.2(TTN):c.66283C>T (p.Arg22095Trp)	TTN	Conflicting interpretations of pathogenicity	571093313
+NM_001267550.2(TTN):c.66564C>T (p.Ile22188=)	TTN	Likely benign	1060503940
+NM_001267550.2(TTN):c.66576C>A (p.Leu22192=)	TTN	Benign	187378247
+NM_001267550.2(TTN):c.66804G>A (p.Arg22268=)	TTN	Likely benign	370501197
+NM_001267550.2(TTN):c.66957G>A (p.Leu22319=)	TTN	Likely benign	1060503928
+NM_001267550.2(TTN):c.66984T>C (p.Asp22328=)	TTN	Likely benign	778439748
+NM_001267550.2(TTN):c.67495C>T (p.Arg22499Ter)	TTN	Pathogenic/Likely pathogenic	574660186
+NM_001267550.2(TTN):c.67534G>T (p.Asp22512Tyr)	TTN	Likely benign	786205540
+NM_001267550.2(TTN):c.67542T>G (p.Thr22514=)	TTN	Conflicting interpretations of pathogenicity	72646876
+NM_001267550.2(TTN):c.67809G>A (p.Ala22603=)	TTN	Benign/Likely benign	548223512
+NM_001267550.2(TTN):c.67833C>T (p.Tyr22611=)	TTN	Conflicting interpretations of pathogenicity	375538420
+NM_001267550.2(TTN):c.6783T>A (p.Ile2261=)	TTN	Likely benign	876657614
+NM_001267550.2(TTN):c.68079G>A (p.Thr22693=)	TTN	Conflicting interpretations of pathogenicity	11904444
+NM_001267550.2(TTN):c.68154C>T (p.Val22718=)	TTN	Likely benign	755685437
+NM_001267550.2(TTN):c.68211G>A (p.Ala22737=)	TTN	Likely benign	536824562
+NM_001267550.2(TTN):c.68271C>T (p.His22757=)	TTN	Likely benign	750271244
+NM_001267550.2(TTN):c.68437G>T (p.Glu22813Ter)	TTN	Likely pathogenic	200797552
+NM_001267550.2(TTN):c.68792G>A (p.Ser22931Asn)	TTN	Likely benign	201567815
+NM_001267550.2(TTN):c.68823C>T (p.Tyr22941=)	TTN	Conflicting interpretations of pathogenicity	200717463
+NM_001267550.2(TTN):c.69546A>G (p.Lys23182=)	TTN	Likely benign	876657613
+NM_001267550.2(TTN):c.69553C>T (p.Arg23185Ter)	TTN	Likely pathogenic	878854328
+NM_001267550.2(TTN):c.69579A>G (p.Pro23193=)	TTN	Likely benign	878854329
+NM_001267550.2(TTN):c.6959G>A (p.Arg2320His)	TTN	Conflicting interpretations of pathogenicity	374615369
+NM_001267550.2(TTN):c.69630C>A (p.Tyr23210Ter)	TTN	Likely pathogenic	777602537
+NM_001267550.2(TTN):c.69740C>T (p.Pro23247Leu)	TTN	Benign/Likely benign	115658240
+NM_001267550.2(TTN):c.69768T>C (p.Ser23256=)	TTN	Likely benign	182679164
+NM_001267550.2(TTN):c.69783G>A (p.Trp23261Ter)	TTN	Likely pathogenic	730880241
+NM_001267550.2(TTN):c.69877G>T (p.Gly23293Ter)	TTN	Likely pathogenic	869312114
+NM_001267550.2(TTN):c.70005C>T (p.Ile23335=)	TTN	Likely benign	541680047
+NM_001267550.2(TTN):c.70051C>T (p.Arg23351Ter)	TTN	Likely pathogenic	1060500575
+NM_001267550.2(TTN):c.70651C>T (p.Leu23551=)	TTN	Conflicting interpretations of pathogenicity	72646889
+NM_001267550.2(TTN):c.70677T>C (p.Asp23559=)	TTN	Benign/Likely benign	72646890
+NM_001267550.2(TTN):c.70686C>T (p.Ser23562=)	TTN	Likely benign	371481540
+NM_001267550.2(TTN):c.70815G>A (p.Val23605=)	TTN	Conflicting interpretations of pathogenicity	55847238
+NM_001267550.2(TTN):c.70819G>A (p.Ala23607Thr)	TTN	Conflicting interpretations of pathogenicity	786205539
+NM_001267550.2(TTN):c.70833G>A (p.Ala23611=)	TTN	Likely benign	377220635
+NM_001267550.2(TTN):c.71500C>T (p.Gln23834Ter)	TTN	Likely pathogenic	730880242
+NM_001267550.2(TTN):c.71602C>T (p.Arg23868Ter)	TTN	Pathogenic/Likely pathogenic	397517689
+NM_001267550.2(TTN):c.71613T>C (p.Ile23871=)	TTN	Likely benign	1060503938
+NM_001267550.2(TTN):c.71940G>A (p.Leu23980=)	TTN	Benign/Likely benign	72646893
+NM_001267550.2(TTN):c.72033A>G (p.Pro24011=)	TTN	Benign/Likely benign	72646894
+NM_001267550.2(TTN):c.72105T>C (p.Phe24035=)	TTN	Benign	397517691
+NM_001267550.2(TTN):c.72114G>C (p.Thr24038=)	TTN	Likely benign	768064912
+NM_001267550.2(TTN):c.72132T>C (p.Gly24044=)	TTN	Conflicting interpretations of pathogenicity	56169243
+NM_001267550.2(TTN):c.72624A>G (p.Pro24208=)	TTN	Conflicting interpretations of pathogenicity	56293906
+NM_001267550.2(TTN):c.73026C>T (p.Ile24342=)	TTN	Likely benign	750944951
+NM_001267550.2(TTN):c.73109G>A (p.Trp24370Ter)	TTN	Likely pathogenic	869312115
+NM_001267550.2(TTN):c.73146T>A (p.Thr24382=)	TTN	Likely benign	372092427
+NM_001267550.2(TTN):c.73149G>A (p.Ser24383=)	TTN	Likely benign	564938876
+NM_001267550.2(TTN):c.73770T>C (p.Tyr24590=)	TTN	Likely benign	201380749
+NM_001267550.2(TTN):c.73896T>C (p.Ser24632=)	TTN	Likely benign	553251216
+NM_001267550.2(TTN):c.7392T>C (p.Leu2464=)	TTN	Conflicting interpretations of pathogenicity	565784637
+NM_001267550.2(TTN):c.74487C>T (p.Ser24829=)	TTN	Likely benign	1060503951
+NM_001267550.2(TTN):c.74508T>C (p.Asp24836=)	TTN	Likely benign	1060503924
+NM_001267550.2(TTN):c.74567G>A (p.Trp24856Ter)	TTN	Pathogenic	1057518851
+NM_001267550.2(TTN):c.74655T>C (p.Ala24885=)	TTN	Likely benign	1060503930
+NM_001267550.2(TTN):c.74763C>T (p.Ser24921=)	TTN	Likely benign	371563258
+NM_001267550.2(TTN):c.74840G>A (p.Arg24947His)	TTN	Likely pathogenic	765512476
+NM_001267550.2(TTN):c.74844G>A (p.Lys24948=)	TTN	Likely benign	371884545
+NM_001267550.2(TTN):c.74961C>T (p.Asn24987=)	TTN	Likely benign	754043680
+NM_001267550.2(TTN):c.75050T>C (p.Ile25017Thr)	TTN	-	771941844
+NM_001267550.2(TTN):c.7530A>G (p.Ser2510=)	TTN	Likely benign	189187431
+NM_001267550.2(TTN):c.75438A>C (p.Ile25146=)	TTN	Likely benign	957042580
+NM_001267550.2(TTN):c.75727G>T (p.Glu25243Ter)	TTN	Likely pathogenic	1114167338
+NM_001267550.2(TTN):c.76113A>G (p.Glu25371=)	TTN	Conflicting interpretations of pathogenicity	140350441
+NM_001267550.2(TTN):c.76654C>T (p.Arg25552Ter)	TTN	Likely pathogenic	545954490
+NM_001267550.2(TTN):c.76717C>T (p.Arg25573Ter)	TTN	Likely pathogenic	767450912
+NM_001267550.2(TTN):c.76722T>C (p.Tyr25574=)	TTN	Conflicting interpretations of pathogenicity	55696153
+NM_001267550.2(TTN):c.77073T>C (p.Asp25691=)	TTN	Conflicting interpretations of pathogenicity	375398118
+NM_001267550.2(TTN):c.77205G>A (p.Val25735=)	TTN	Benign/Likely benign	55857909
+NM_001267550.2(TTN):c.77622T>C (p.Asn25874=)	TTN	Likely benign	766227814
+NM_001267550.2(TTN):c.78068T>C (p.Ile26023Thr)	TTN	Likely benign	572384303
+NM_001267550.2(TTN):c.78184G>T (p.Glu26062Ter)	TTN	Likely pathogenic	869312057
+NM_001267550.2(TTN):c.78270C>T (p.Asp26090=)	TTN	Likely benign	1048653371
+NM_001267550.2(TTN):c.78991C>T (p.Arg26331Ter)	TTN	Likely pathogenic	779996703
+NM_001267550.2(TTN):c.79072G>A (p.Val26358Ile)	TTN	Likely benign	774747865
+NM_001267550.2(TTN):c.79162G>T (p.Gly26388Ter)	TTN	Likely pathogenic	763822931
+NM_001267550.2(TTN):c.79212C>T (p.Thr26404=)	TTN	Likely benign	778020953
+NM_001267550.2(TTN):c.79318C>T (p.Arg26440Cys)	TTN	Benign/Likely benign	55861600
+NM_001267550.2(TTN):c.79365T>C (p.His26455=)	TTN	Likely benign	1060503925
+NM_001267550.2(TTN):c.7961G>A (p.Arg2654Lys)	TTN;TTN-AS1	Benign/Likely benign	147207100
+NM_001267550.2(TTN):c.79684C>T (p.Arg26562Ter)	TTN	Likely pathogenic	869025545
+NM_001267550.2(TTN):c.79689C>A (p.Val26563=)	TTN	Benign/Likely benign	10185798
+NM_001267550.2(TTN):c.79941A>G (p.Gln26647=)	TTN	Benign/Likely benign	72648208
+NM_001267550.2(TTN):c.80115G>T (p.Glu26705Asp)	TTN	Conflicting interpretations of pathogenicity	558830502
+NM_001267550.2(TTN):c.80190T>C (p.Tyr26730=)	TTN	Likely benign	1060503950
+NM_001267550.2(TTN):c.80424C>T (p.Gly26808=)	TTN	Likely benign	373341944
+NM_001267550.2(TTN):c.80859G>A (p.Thr26953=)	TTN	Benign	771257647
+NM_001267550.2(TTN):c.80898T>C (p.Ser26966=)	TTN	Likely benign	374042845
+NM_001267550.2(TTN):c.81057T>C (p.Thr27019=)	TTN	Benign	114908705
+NM_001267550.2(TTN):c.81105C>A (p.Thr27035=)	TTN	Benign/Likely benign	72648212
+NM_001267550.2(TTN):c.81432G>A (p.Glu27144=)	TTN	Likely benign	1060503944
+NM_001267550.2(TTN):c.81850G>A (p.Val27284Ile)	TTN	Likely benign	746222222
+NM_001267550.2(TTN):c.82273C>T (p.Gln27425Ter)	TTN	Likely pathogenic	371332011
+NM_001267550.2(TTN):c.82350T>C (p.Tyr27450=)	TTN	Likely benign	1060503941
+NM_001267550.2(TTN):c.82446C>T (p.Thr27482=)	TTN	Likely benign	768861950
+NM_001267550.2(TTN):c.82575G>A (p.Thr27525=)	TTN	Conflicting interpretations of pathogenicity	11896779
+NM_001267550.2(TTN):c.82605C>T (p.Thr27535=)	TTN	Likely benign	772246177
+NM_001267550.2(TTN):c.82692G>A (p.Ala27564=)	TTN	Likely benign	557628408
+NM_001267550.2(TTN):c.83080C>T (p.Arg27694Cys)	TTN	Conflicting interpretations of pathogenicity	192360370
+NM_001267550.2(TTN):c.83115C>T (p.Pro27705=)	TTN	Likely benign	747021593
+NM_001267550.2(TTN):c.83317T>C (p.Leu27773=)	TTN	Likely benign	376683928
+NM_001267550.2(TTN):c.83514C>T (p.Phe27838=)	TTN	Likely benign	779213695
+NM_001267550.2(TTN):c.83515C>T (p.Arg27839Ter)	TTN	Pathogenic/Likely pathogenic	869312118
+NM_001267550.2(TTN):c.83740A>G (p.Thr27914Ala)	TTN	Benign/Likely benign	188370772
+NM_001267550.2(TTN):c.84105A>T (p.Leu28035Phe)	TTN	-	878854394
+NM_001267550.2(TTN):c.84376C>T (p.Gln28126Ter)	TTN	Likely pathogenic	869312119
+NM_001267550.2(TTN):c.84893G>A (p.Arg28298Gln)	TTN	Conflicting interpretations of pathogenicity	187270666
+NM_001267550.2(TTN):c.85040T>C (p.Ile28347Thr)	TTN	Conflicting interpretations of pathogenicity	397517731
+NM_001267550.2(TTN):c.85421G>A (p.Arg28474His)	TTN	Likely benign	754356257
+NM_001267550.2(TTN):c.85446T>C (p.Asp28482=)	TTN	Likely benign	1060503971
+NM_001267550.2(TTN):c.85510G>T (p.Glu28504Ter)	TTN	Likely pathogenic	876657670
+NM_001267550.2(TTN):c.8565C>T (p.Asn2855=)	TTN	Likely benign	878854338
+NM_001267550.2(TTN):c.8589A>G (p.Glu2863=)	TTN	Likely benign	72647883
+NM_001267550.2(TTN):c.86025G>A (p.Pro28675=)	TTN	Conflicting interpretations of pathogenicity	369528150
+NM_001267550.2(TTN):c.86061T>G (p.Thr28687=)	TTN	Likely benign	1060503933
+NM_001267550.2(TTN):c.86085C>T (p.Asp28695=)	TTN	Likely benign	773001228
+NM_001267550.2(TTN):c.86335C>T (p.Arg28779Ter)	TTN	Likely pathogenic	1060500525
+NM_001267550.2(TTN):c.86526T>G (p.Val28842=)	TTN	Conflicting interpretations of pathogenicity	72648226
+NM_001267550.2(TTN):c.86675G>A (p.Trp28892Ter)	TTN	Likely pathogenic	745896785
+NM_001267550.2(TTN):c.86934C>T (p.Val28978=)	TTN	Likely benign	531340219
+NM_001267550.2(TTN):c.86967G>A (p.Trp28989Ter)	TTN	Likely pathogenic	869312062
+NM_001267550.2(TTN):c.87102T>A (p.Leu29034=)	TTN	Likely benign	781200259
+NM_001267550.2(TTN):c.87316G>T (p.Glu29106Ter)	TTN	Likely pathogenic	730880243
+NM_001267550.2(TTN):c.87390T>A (p.Ile29130=)	TTN	Likely benign	876657616
+NM_001267550.2(TTN):c.87453T>A (p.Thr29151=)	TTN	Likely benign	755805590
+NM_001267550.2(TTN):c.87559G>T (p.Glu29187Ter)	TTN	Likely pathogenic	1060500586
+NM_001267550.2(TTN):c.87624C>A (p.Tyr29208Ter)	TTN	Likely pathogenic	772121356
+NM_001267550.2(TTN):c.88005T>C (p.Ala29335=)	TTN	Likely benign	759288771
+NM_001267550.2(TTN):c.88067G>A (p.Trp29356Ter)	TTN	Likely pathogenic	878854428
+NM_001267550.2(TTN):c.88311T>C (p.Gly29437=)	TTN	Likely benign	878854429
+NM_001267550.2(TTN):c.88421G>A (p.Trp29474Ter)	TTN	Likely pathogenic	869025546
+NM_001267550.2(TTN):c.88611T>G (p.Pro29537=)	TTN	Benign	555380931
+NM_001267550.2(TTN):c.88708A>G (p.Ile29570Val)	TTN	Benign/Likely benign	139506970
+NM_001267550.2(TTN):c.8889C>A (p.Thr2963=)	TTN	Likely benign	1060503963
+NM_001267550.2(TTN):c.88972A>G (p.Ile29658Val)	TTN	Conflicting interpretations of pathogenicity	200193877
+NM_001267550.2(TTN):c.89368G>A (p.Val29790Ile)	TTN	Likely benign	775906983
+NM_001267550.2(TTN):c.89861G>A (p.Trp29954Ter)	TTN	Likely pathogenic	1060500457
+NM_001267550.2(TTN):c.89946C>T (p.Val29982=)	TTN	Likely benign	373311459
+NM_001267550.2(TTN):c.89994G>A (p.Ser29998=)	TTN	Benign	142891278
+NM_001267550.2(TTN):c.90223C>T (p.Gln30075Ter)	TTN	Likely pathogenic	786205538
+NM_001267550.2(TTN):c.90309G>A (p.Val30103=)	TTN	Likely benign	1060503968
+NM_001267550.2(TTN):c.90405T>C (p.Asp30135=)	TTN	Likely benign	371945826
+NM_001267550.2(TTN):c.90624T>C (p.Asn30208=)	TTN	Likely benign	370479059
+NM_001267550.2(TTN):c.90760G>T (p.Gly30254Ter)	TTN	Likely pathogenic	1060500495
+NM_001267550.2(TTN):c.90786C>T (p.Ile30262=)	TTN	Likely benign	727504439
+NM_001267550.2(TTN):c.90890T>A (p.Phe30297Tyr)	TTN	Likely pathogenic	786205537
+NM_001267550.2(TTN):c.91311A>G (p.Glu30437=)	TTN	Conflicting interpretations of pathogenicity	374094732
+NM_001267550.2(TTN):c.91326A>G (p.Lys30442=)	TTN	Likely benign	367777281
+NM_001267550.2(TTN):c.91332C>T (p.Asn30444=)	TTN	Likely benign	397517752
+NM_001267550.2(TTN):c.91344T>C (p.Arg30448=)	TTN	Likely benign	1060503927
+NM_001267550.2(TTN):c.91347T>C (p.Asp30449=)	TTN	Benign/Likely benign	193022702
+NM_001267550.2(TTN):c.91728C>T (p.Thr30576=)	TTN	Likely benign	748596900
+NM_001267550.2(TTN):c.91762G>A (p.Asp30588Asn)	TTN	-	878854399
+NM_001267550.2(TTN):c.91935C>G (p.Leu30645=)	TTN	Likely benign	1060503947
+NM_001267550.2(TTN):c.91965C>A (p.Tyr30655Ter)	TTN	Likely pathogenic	1060500402
+NM_001267550.2(TTN):c.92362G>A (p.Gly30788Ser)	TTN	Likely benign	199891245
+NM_001267550.2(TTN):c.92683C>T (p.Arg30895Ter)	TTN	Likely pathogenic	869312065
+NM_001267550.2(TTN):c.92715C>T (p.Gly30905=)	TTN	Benign	140576051
+NM_001267550.2(TTN):c.92813G>C (p.Arg30938Thr)	TTN	Likely pathogenic	786205536
+NM_001267550.2(TTN):c.93166C>T (p.Arg31056Ter)	TTN	Likely pathogenic	72648250
+NM_001267550.2(TTN):c.93215G>A (p.Arg31072His)	TTN	Likely benign	141817409
+NM_001267550.2(TTN):c.93292G>A (p.Val31098Ile)	TTN	Likely benign	760282296
+NM_001267550.2(TTN):c.93375T>C (p.Thr31125=)	TTN	Likely benign	1060503936
+NM_001267550.2(TTN):c.93570T>C (p.Asn31190=)	TTN	Likely benign	746309005
+NM_001267550.2(TTN):c.93585T>C (p.Ser31195=)	TTN	Likely benign	754614591
+NM_001267550.2(TTN):c.9384A>G (p.Thr3128=)	TTN	Likely benign	369520274
+NM_001267550.2(TTN):c.93900C>T (p.Ser31300=)	TTN	Conflicting interpretations of pathogenicity	200173934
+NM_001267550.2(TTN):c.93975G>A (p.Ser31325=)	TTN	Likely benign	752470969
+NM_001267550.2(TTN):c.9420C>G (p.Leu3140=)	TTN	Likely benign	376571708
+NM_001267550.2(TTN):c.94230C>T (p.Ser31410=)	TTN	Likely benign	373502790
+NM_001267550.2(TTN):c.94816C>T (p.Arg31606Ter)	TTN	Likely pathogenic	1060500435
+NM_001267550.2(TTN):c.94846C>T (p.Leu31616=)	TTN	Conflicting interpretations of pathogenicity	72648255
+NM_001267550.2(TTN):c.94855C>T (p.Arg31619Ter)	TTN	Likely pathogenic	869312121
+NM_001267550.2(TTN):c.94980A>G (p.Glu31660=)	TTN	Conflicting interpretations of pathogenicity	370769662
+NM_001267550.2(TTN):c.95148C>T (p.Thr31716=)	TTN	Benign	140663434
+NM_001267550.2(TTN):c.95149G>A (p.Val31717Ile)	TTN	Likely benign	150930737
+NM_001267550.2(TTN):c.95185T>C (p.Trp31729Arg)	TTN	Pathogenic	869320741
+NM_001267550.2(TTN):c.95186G>T (p.Trp31729Leu)	TTN	Pathogenic	786205367
+NM_001267550.2(TTN):c.95195C>T (p.Pro31732Leu)	TTN	Pathogenic	753334568
+NM_001267550.2(TTN):c.95358C>G (p.Asn31786Lys)	TTN	Pathogenic	869320743
+NM_001267550.2(TTN):c.95372G>A (p.Gly31791Asp)	TTN	Conflicting interpretations of pathogenicity	869320744
+NM_001267550.2(TTN):c.95379T>G (p.Pro31793=)	TTN	Likely benign	878854431
+NM_001267550.2(TTN):c.95406A>G (p.Arg31802=)	TTN	Likely benign	199652273
+NM_001267550.2(TTN):c.95805C>A (p.Tyr31935Ter)	TTN	Likely pathogenic	375076970
+NM_001267550.2(TTN):c.95961C>T (p.Ala31987=)	TTN	Likely benign	369405564
+NM_001267550.2(TTN):c.95991C>T (p.Ser31997=)	TTN	Likely benign	375176758
+NM_001267550.2(TTN):c.96268C>T (p.Gln32090Ter)	TTN	Likely pathogenic	876657671
+NM_001267550.2(TTN):c.96501T>C (p.Ser32167=)	TTN	Benign	139223781
+NM_001267550.2(TTN):c.96654T>C (p.Thr32218=)	TTN	Likely benign	774339567
+NM_001267550.2(TTN):c.96918C>T (p.Ile32306=)	TTN	Benign/Likely benign	72648266
+NM_001267550.2(TTN):c.97281C>T (p.Asp32427=)	TTN	Likely benign	879166784
+NM_001267550.2(TTN):c.972A>G (p.Pro324=)	TTN	Likely benign	1060503973
+NM_001267550.2(TTN):c.97315C>T (p.Gln32439Ter)	TTN	Likely pathogenic	767837705
+NM_001267550.2(TTN):c.97386C>T (p.Thr32462=)	TTN	Conflicting interpretations of pathogenicity	376810671
+NM_001267550.2(TTN):c.97490T>C (p.Ile32497Thr)	TTN	Benign	55660660
+NM_001267550.2(TTN):c.97623G>C (p.Val32541=)	TTN	Likely benign	1060503961
+NM_001267550.2(TTN):c.97935T>C (p.His32645=)	TTN	Likely benign	765709195
+NM_001267550.2(TTN):c.98203A>G (p.Ile32735Val)	TTN	Likely benign	761246331
+NM_001267550.2(TTN):c.98292A>G (p.Glu32764=)	TTN	Likely benign	750078230
+NM_001267550.2(TTN):c.98319T>C (p.Tyr32773=)	TTN	Likely benign	183278868
+NM_001267550.2(TTN):c.98499C>T (p.Leu32833=)	TTN	Conflicting interpretations of pathogenicity	138968178
+NM_001267550.2(TTN):c.98721C>T (p.Leu32907=)	TTN	Likely benign	375361462
+NM_001267550.2(TTN):c.99111T>C (p.Tyr33037=)	TTN	Benign	77257306
+NM_001267550.2(TTN):c.99340T>C (p.Leu33114=)	TTN	Conflicting interpretations of pathogenicity	371656672
+NM_001267550.2(TTN):c.99369G>A (p.Gln33123=)	TTN	Likely benign	1060503953
+NM_001267550.2(TTN):c.99582G>A (p.Pro33194=)	TTN	Conflicting interpretations of pathogenicity	777730098
+NM_001267550.2(TTN):c.99719C>G (p.Ser33240Ter)	TTN	Likely pathogenic	794727539
+NM_001267550.2(TTN):c.99765C>T (p.Val33255=)	TTN	Likely benign	1060503965
+NM_001267550.2(TTN):c.99921C>T (p.Ser33307=)	TTN	Likely benign	779347462
+NM_003319.4(TTN):c.13250G>A (p.Ser4417Asn)	TTN	Pathogenic	147879266
+NM_003319.4(TTN):c.13386A>G (p.Glu4462=)	TTN	Conflicting interpretations of pathogenicity	775954427
+NM_003319.4(TTN):c.14508T>C (p.Thr4836=)	TTN	Likely benign	756282138
+NM_003319.4(TTN):c.16086T>C (p.Phe5362=)	TTN	Likely benign	368161055
+NM_003319.4(TTN):c.16641A>G (p.Ala5547=)	TTN	Likely benign	755492644
+NM_003319.4(TTN):c.20022C>T (p.Gly6674=)	TTN	Conflicting interpretations of pathogenicity	373305832
+NM_003319.4(TTN):c.20299C>T (p.Arg6767Ter)	TTN	Likely pathogenic	751746401
+NM_003319.4(TTN):c.21256A>G (p.Thr7086Ala)	TTN	Likely benign	186497293
+NM_003319.4(TTN):c.22888C>A (p.Arg7630=)	TTN	Likely benign	751502842
+NM_003319.4(TTN):c.23563C>G (p.Pro7855Ala)	TTN	Conflicting interpretations of pathogenicity	377289817
+NM_003319.4(TTN):c.29655G>A (p.Val9885=)	TTN	Conflicting interpretations of pathogenicity	368068200
+NM_003319.4(TTN):c.36684C>T (p.Asp12228=)	TTN	Conflicting interpretations of pathogenicity	200463088
+NM_003319.4(TTN):c.46173T>C (p.Pro15391=)	TTN	Likely benign	373361363
+NM_003319.4(TTN):c.48501T>C (p.Asp16167=)	TTN	Likely benign	199935312
+NM_003319.4(TTN):c.5301A>G (p.Leu1767=)	TTN	Likely benign	886039124
+NM_003319.4(TTN):c.54753T>C (p.Leu18251=)	TTN	Likely benign	886039026
+NM_003319.4(TTN):c.55602C>T (p.Gly18534=)	TTN	Benign/Likely benign	72648216
+NM_003319.4(TTN):c.55878T>C (p.Ala18626=)	TTN	Likely benign	569803719
+NM_003319.4(TTN):c.55996T>C (p.Leu18666=)	TTN	Likely benign	886039101
+NM_003319.4(TTN):c.56376C>T (p.Pro18792=)	TTN	Likely benign	368025526
+NM_003319.4(TTN):c.57895C>T (p.Arg19299Ter)	TTN	Pathogenic/Likely pathogenic	770038577
+NM_003319.4(TTN):c.6576G>A (p.Thr2192=)	TTN	Likely benign	774836314
+NM_003319.4(TTN):c.66777A>G (p.Glu22259=)	TTN	Conflicting interpretations of pathogenicity	727504528
+NM_003319.4(TTN):c.68169T>C (p.Tyr22723=)	TTN	Likely benign	752193341
+NM_003319.4(TTN):c.68238C>T (p.Pro22746=)	TTN	Likely benign	780805481
+NM_003319.4(TTN):c.68820C>T (p.Pro22940=)	TTN	Conflicting interpretations of pathogenicity	183620684
+NM_003319.4(TTN):c.71010A>C (p.Ile23670=)	TTN	Likely benign	745468223
+NM_003319.4(TTN):c.71311C>T (p.Arg23771Ter)	TTN	Likely pathogenic	869312085
+NM_003319.4(TTN):c.71349C>G (p.Ser23783=)	TTN	Likely benign	756591209
+NM_003319.4(TTN):c.71967G>A (p.Lys23989=)	TTN	Conflicting interpretations of pathogenicity	368686031
+NM_003319.4(TTN):c.72855C>A (p.Thr24285=)	TTN	Likely benign	760990381
+NM_003319.4(TTN):c.74730A>G (p.Leu24910=)	TTN	Conflicting interpretations of pathogenicity	201246720
+NM_003319.4(TTN):c.75690T>C (p.Gly25230=)	TTN	Conflicting interpretations of pathogenicity	886039175
+NM_003319.4(TTN):c.76245C>T (p.Thr25415=)	TTN	Likely benign	781237159
+NM_003319.4(TTN):c.7819T>C (p.Leu2607=)	TTN	Likely benign	201837864
+NM_003319.4(TTN):c.8514T>A (p.Ile2838=)	TTN	Likely benign	879054552
+NM_133378.4(TTN):c.100062T>C (p.Gly33354=)	TTN	Benign/Likely benign	147293964
+NM_133378.4(TTN):c.100133A>C (p.His33378Pro)	TTN	Pathogenic	281864931
+NM_133378.4(TTN):c.100136T>A (p.Ile33379Asn)	TTN	Pathogenic	281864928
+NM_133378.4(TTN):c.100163T>C (p.Leu33388Pro)	TTN	Pathogenic	267607156
+NM_133378.4(TTN):c.100186C>T (p.Gln33396Ter)	TTN	Pathogenic	281864929
+NM_133378.4(TTN):c.10024G>A (p.Val3342Ile)	TTN	Conflicting interpretations of pathogenicity	727503679
+NM_133378.4(TTN):c.10032A>C (p.Pro3344=)	TTN	Likely benign	757321139
+NM_133378.4(TTN):c.10088G>A (p.Arg3363His)	TTN	Conflicting interpretations of pathogenicity	148169214
+NM_133378.4(TTN):c.10242C>T (p.Tyr3414=)	TTN	Benign/Likely benign	45447891
+NM_133378.4(TTN):c.10256G>A (p.Ser3419Asn)	TTN	Benign/Likely benign	2291310
+NM_133378.4(TTN):c.10437C>T (p.Ile3479=)	TTN	Likely benign	397517479
+NM_133378.4(TTN):c.1068G>A (p.Glu356=)	TTN	Benign/Likely benign	144716589
+NM_133378.4(TTN):c.10793G>A (p.Arg3598Lys)	TTN	Benign/Likely benign	2742347
+NM_133378.4(TTN):c.1079G>C (p.Arg360Thr)	TTN	Benign/Likely benign	56128843
+NM_133378.4(TTN):c.10878C>T (p.Ser3626=)	TTN	Benign/Likely benign	2742348
+NM_133378.4(TTN):c.10965C>T (p.Ser3655=)	TTN	Likely benign	372740215
+NM_133378.4(TTN):c.10966G>A (p.Ala3656Thr)	TTN	Benign/Likely benign	72648923
+NM_133378.4(TTN):c.11033G>A (p.Ser3678Asn)	TTN	Benign/Likely benign	184740744
+NM_133378.4(TTN):c.11118C>G (p.Ala3706=)	TTN	Likely benign	376339761
+NM_133378.4(TTN):c.11138C>G (p.Thr3713Ser)	TTN	Benign/Likely benign	72648925
+NM_133378.4(TTN):c.11166T>C (p.Ala3722=)	TTN	Benign/Likely benign	370105333
+NM_133378.4(TTN):c.11241T>C (p.Tyr3747=)	TTN	Conflicting interpretations of pathogenicity	761666344
+NM_133378.4(TTN):c.11252C>G (p.Pro3751Arg)	TTN	Benign/Likely benign	72648927
+NM_133378.4(TTN):c.11284A>G (p.Lys3762Glu)	TTN	Benign	886038712
+NM_133378.4(TTN):c.11446G>A (p.Val3816Ile)	TTN	Benign/Likely benign	72648929
+NM_133378.4(TTN):c.11446G>C (p.Val3816Leu)	TTN	Conflicting interpretations of pathogenicity	72648929
+NM_133378.4(TTN):c.11768C>A (p.Pro3923His)	TTN	Likely benign	730880237
+NM_133378.4(TTN):c.11820C>T (p.Thr3940=)	TTN	Benign/Likely benign	146353237
+NM_133378.4(TTN):c.11829G>A (p.Leu3943=)	TTN	Benign	779159076
+NM_133378.4(TTN):c.11829G>T (p.Leu3943=)	TTN	Benign	779159076
+NM_133378.4(TTN):c.11831A>C (p.Gln3944Pro)	TTN	Conflicting interpretations of pathogenicity	72648930
+NM_133378.4(TTN):c.11852A>G (p.Glu3951Gly)	TTN	Benign	72648931
+NM_133378.4(TTN):c.12064C>T (p.Arg4022Ter)	TTN	Pathogenic	372277017
+NM_133378.4(TTN):c.1208G>C (p.Ser403Thr)	TTN	Likely benign	727505091
+NM_133378.4(TTN):c.12118G>A (p.Val4040Met)	TTN	Benign/Likely benign	66839174
+NM_133378.4(TTN):c.12129G>A (p.Thr4043=)	TTN	Likely benign	370299812
+NM_133378.4(TTN):c.12169T>C (p.Leu4057=)	TTN	Likely benign	727505349
+NM_133378.4(TTN):c.12246C>T (p.His4082=)	TTN	Likely benign	397517482
+NM_133378.4(TTN):c.12325C>A (p.Arg4109=)	TTN	Likely benign	267599069
+NM_133378.4(TTN):c.12363C>T (p.Asn4121=)	TTN	Benign/Likely benign	72648935
+NM_133378.4(TTN):c.12381T>C (p.Asn4127=)	TTN	Conflicting interpretations of pathogenicity	143845692
+NM_133378.4(TTN):c.12543G>A (p.Gly4181=)	TTN	Conflicting interpretations of pathogenicity	772821743
+NM_133378.4(TTN):c.12556C>T (p.Arg4186Ter)	TTN	Conflicting interpretations of pathogenicity	772235481
+NM_133378.4(TTN):c.12571G>A (p.Val4191Met)	TTN	Conflicting interpretations of pathogenicity	72648937
+NM_133378.4(TTN):c.12581A>G (p.Lys4194Arg)	TTN	Conflicting interpretations of pathogenicity	190636272
+NM_133378.4(TTN):c.12643A>C (p.Lys4215Gln)	TTN	Benign	886038713
+NM_133378.4(TTN):c.12797A>G (p.Tyr4266Cys)	TTN	Benign/Likely benign	72648939
+NM_133378.4(TTN):c.12814G>T (p.Asp4272Tyr)	TTN	Conflicting interpretations of pathogenicity	72648940
+NM_133378.4(TTN):c.13131G>A (p.Glu4377=)	TTN	Likely benign	727504441
+NM_133378.4(TTN):c.13316A>G (p.Tyr4439Cys)	TTN	Conflicting interpretations of pathogenicity	72648942
+NM_133378.4(TTN):c.13452A>G (p.Glu4484=)	TTN	Conflicting interpretations of pathogenicity	200984007
+NM_133378.4(TTN):c.13495C>T (p.Arg4499Trp)	TTN	Conflicting interpretations of pathogenicity	377193479
+NM_133378.4(TTN):c.1365G>A (p.Thr455=)	TTN	Conflicting interpretations of pathogenicity	145211131
+NM_133378.4(TTN):c.14156A>G (p.Glu4719Gly)	TTN	Conflicting interpretations of pathogenicity	146983095
+NM_133378.4(TTN):c.14343C>T (p.Pro4781=)	TTN	Likely benign	557350005
+NM_133378.4(TTN):c.14593A>G (p.Lys4865Glu)	TTN	Likely benign	73973139
+NM_133378.4(TTN):c.14658A>T (p.Thr4886=)	TTN	Benign/Likely benign	66523653
+NM_133378.4(TTN):c.1492G>A (p.Val498Ile)	TTN	Benign/Likely benign	72647851
+NM_133378.4(TTN):c.14988A>G (p.Arg4996=)	TTN	Likely benign	201395913
+NM_133378.4(TTN):c.15013G>A (p.Asp5005Asn)	TTN	Conflicting interpretations of pathogenicity	201263441
+NM_133378.4(TTN):c.15044C>G (p.Thr5015Ser)	TTN	Conflicting interpretations of pathogenicity	72648949
+NM_133378.4(TTN):c.15078G>A (p.Gln5026=)	TTN	Likely benign	727505012
+NM_133378.4(TTN):c.15084T>C (p.Ile5028=)	TTN	Conflicting interpretations of pathogenicity	146219199
+NM_133378.4(TTN):c.15092A>G (p.Asn5031Ser)	TTN	Conflicting interpretations of pathogenicity	184412722
+NM_133378.4(TTN):c.151C>T (p.Leu51=)	TTN	Likely benign	397517489
+NM_133378.4(TTN):c.15272A>G (p.Asp5091Gly)	TTN	Benign/Likely benign	72648951
+NM_133378.4(TTN):c.15418C>A (p.Pro5140Thr)	TTN	Benign/Likely benign	72648953
+NM_133378.4(TTN):c.15569G>A (p.Ser5190Asn)	TTN	Benign/Likely benign	11888217
+NM_133378.4(TTN):c.15624C>T (p.Ser5208=)	TTN	Conflicting interpretations of pathogenicity	369275615
+NM_133378.4(TTN):c.15651T>C (p.Asn5217=)	TTN	Conflicting interpretations of pathogenicity	76771282
+NM_133378.4(TTN):c.1585G>A (p.Ala529Thr)	TTN	Conflicting interpretations of pathogenicity	143030869
+NM_133378.4(TTN):c.16244C>T (p.Thr5415Met)	TTN	Benign/Likely benign	16866475
+NM_133378.4(TTN):c.16410C>T (p.Tyr5470=)	TTN	Likely benign	535793314
+NM_133378.4(TTN):c.16443A>G (p.Ile5481Met)	TTN	Conflicting interpretations of pathogenicity	146627500
+NM_133378.4(TTN):c.16603A>T (p.Ser5535Cys)	TTN	Conflicting interpretations of pathogenicity	149470241
+NM_133378.4(TTN):c.16609G>A (p.Glu5537Lys)	TTN	Conflicting interpretations of pathogenicity	72648958
+NM_133378.4(TTN):c.16635G>A (p.Pro5545=)	TTN	Likely benign	368422028
+NM_133378.4(TTN):c.16665G>A (p.Arg5555=)	TTN	Likely benign	376573256
+NM_133378.4(TTN):c.16870G>A (p.Gly5624Arg)	TTN	Benign	17355460
+NM_133378.4(TTN):c.16898T>C (p.Ile5633Thr)	TTN	Conflicting interpretations of pathogenicity	142794598
+NM_133378.4(TTN):c.17011G>T (p.Ala5671Ser)	TTN	Conflicting interpretations of pathogenicity	201728165
+NM_133378.4(TTN):c.17066G>C (p.Gly5689Ala)	TTN	Conflicting interpretations of pathogenicity	200118743
+NM_133378.4(TTN):c.1709C>T (p.Ala570Val)	TTN	Conflicting interpretations of pathogenicity	146690035
+NM_133378.4(TTN):c.17129C>T (p.Ala5710Val)	TTN	Benign/Likely benign	17355446
+NM_133378.4(TTN):c.17160G>A (p.Thr5720=)	TTN	Likely benign	727504623
+NM_133378.4(TTN):c.17271A>G (p.Lys5757=)	TTN	Conflicting interpretations of pathogenicity	727504579
+NM_133378.4(TTN):c.17287A>T (p.Ile5763Phe)	TTN	Benign	114626713
+NM_133378.4(TTN):c.1728A>G (p.Lys576=)	TTN	Likely benign	727503703
+NM_133378.4(TTN):c.17312C>T (p.Ala5771Val)	TTN	Benign/Likely benign	72648960
+NM_133378.4(TTN):c.17374G>A (p.Asp5792Asn)	TTN	Benign/Likely benign	72648962
+NM_133378.4(TTN):c.17441G>A (p.Gly5814Asp)	TTN	Benign/Likely benign	72648964
+NM_133378.4(TTN):c.17632G>A (p.Ala5878Thr)	TTN	Conflicting interpretations of pathogenicity	201394117
+NM_133378.4(TTN):c.1776T>C (p.Asp592=)	TTN	Likely benign	147081804
+NM_133378.4(TTN):c.17816G>A (p.Cys5939Tyr)	TTN	Conflicting interpretations of pathogenicity	189951108
+NM_133378.4(TTN):c.178G>T (p.Asp60Tyr)	TTN	Benign/Likely benign	35683768
+NM_133378.4(TTN):c.18047C>A (p.Ser6016Tyr)	TTN	Benign/Likely benign	187925021
+NM_133378.4(TTN):c.18248C>T (p.Thr6083Met)	TTN	Likely benign	727504975
+NM_133378.4(TTN):c.18342A>G (p.Lys6114=)	TTN	Benign/Likely benign	34562585
+NM_133378.4(TTN):c.18345A>T (p.Gly6115=)	TTN	Conflicting interpretations of pathogenicity	202102237
+NM_133378.4(TTN):c.18348T>C (p.Asp6116=)	TTN	Benign/Likely benign	16866473
+NM_133378.4(TTN):c.1851A>C (p.Thr617=)	TTN	Likely benign	727504530
+NM_133378.4(TTN):c.18879T>C (p.His6293=)	TTN	Benign/Likely benign	16866469
+NM_133378.4(TTN):c.18902G>A (p.Arg6301Gln)	TTN	Conflicting interpretations of pathogenicity	72648969
+NM_133378.4(TTN):c.18921T>C (p.Asp6307=)	TTN	Likely benign	371736246
+NM_133378.4(TTN):c.19054G>C (p.Asp6352His)	TTN	Benign/Likely benign	72648970
+NM_133378.4(TTN):c.19110A>G (p.Leu6370=)	TTN	Likely benign	727504963
+NM_133378.4(TTN):c.1914A>G (p.Glu638=)	TTN	Likely benign	727504691
+NM_133378.4(TTN):c.19269G>A (p.Thr6423=)	TTN	Benign/Likely benign	16866467
+NM_133378.4(TTN):c.19297G>A (p.Gly6433Arg)	TTN	Conflicting interpretations of pathogenicity	367826445
+NM_133378.4(TTN):c.19335C>T (p.Asp6445=)	TTN	Conflicting interpretations of pathogenicity	191854953
+NM_133378.4(TTN):c.19445C>T (p.Ser6482Leu)	TTN	Benign/Likely benign	17452588
+NM_133378.4(TTN):c.19482T>C (p.Asp6494=)	TTN	Likely benign	727503648
+NM_133378.4(TTN):c.19491G>A (p.Gln6497=)	TTN	Benign/Likely benign	2562831
+NM_133378.4(TTN):c.19500C>G (p.Asn6500Lys)	TTN	Benign/Likely benign	72648972
+NM_133378.4(TTN):c.19570G>A (p.Asp6524Asn)	TTN	Conflicting interpretations of pathogenicity	72648973
+NM_133378.4(TTN):c.19806C>G (p.Phe6602Leu)	TTN	Conflicting interpretations of pathogenicity	149523263
+NM_133378.4(TTN):c.19806C>T (p.Phe6602=)	TTN	Likely benign	149523263
+NM_133378.4(TTN):c.20169T>G (p.Val6723=)	TTN	Likely benign	550995785
+NM_133378.4(TTN):c.20187T>C (p.Thr6729=)	TTN	Likely benign	727504974
+NM_133378.4(TTN):c.20382C>T (p.Asn6794=)	TTN	Likely benign	199576800
+NM_133378.4(TTN):c.204C>T (p.Pro68=)	TTN	Conflicting interpretations of pathogenicity	201089861
+NM_133378.4(TTN):c.20653G>T (p.Glu6885Ter)	TTN	Likely pathogenic	727504843
+NM_133378.4(TTN):c.20784C>T (p.Thr6928=)	TTN	Benign/Likely benign	72648978
+NM_133378.4(TTN):c.2082C>T (p.Asp694=)	TTN	Likely benign	534874686
+NM_133378.4(TTN):c.20877C>T (p.Ser6959=)	TTN	Likely benign	397517509
+NM_133378.4(TTN):c.20920A>G (p.Ser6974Gly)	TTN	Benign/Likely benign	72648980
+NM_133378.4(TTN):c.21088G>A (p.Glu7030Lys)	TTN	Likely benign	72648981
+NM_133378.4(TTN):c.21148A>G (p.Arg7050Gly)	TTN	Benign/Likely benign	72648982
+NM_133378.4(TTN):c.21177G>A (p.Lys7059=)	TTN	Benign/Likely benign	72648983
+NM_133378.4(TTN):c.21220G>A (p.Val7074Ile)	TTN	Conflicting interpretations of pathogenicity	200103997
+NM_133378.4(TTN):c.21232G>T (p.Val7078Leu)	TTN	Conflicting interpretations of pathogenicity	201571580
+NM_133378.4(TTN):c.21241A>G (p.Lys7081Glu)	TTN	Benign	72648984
+NM_133378.4(TTN):c.21270T>C (p.Tyr7090=)	TTN	Likely benign	371334680
+NM_133378.4(TTN):c.21355G>T (p.Ala7119Ser)	TTN	Conflicting interpretations of pathogenicity	200972189
+NM_133378.4(TTN):c.21749G>A (p.Arg7250Gln)	TTN	Conflicting interpretations of pathogenicity	201418615
+NM_133378.4(TTN):c.21758G>A (p.Arg7253His)	TTN	Conflicting interpretations of pathogenicity	149855485
+NM_133378.4(TTN):c.21813T>C (p.Val7271=)	TTN	Likely benign	397517515
+NM_133378.4(TTN):c.21887C>T (p.Ser7296Phe)	TTN	Conflicting interpretations of pathogenicity	201523784
+NM_133378.4(TTN):c.21894G>T (p.Gln7298His)	TTN	Benign/Likely benign	2562832
+NM_133378.4(TTN):c.21972G>A (p.Arg7324=)	TTN	Conflicting interpretations of pathogenicity	150544093
+NM_133378.4(TTN):c.21975T>C (p.Tyr7325=)	TTN	Benign/Likely benign	2742329
+NM_133378.4(TTN):c.22026C>T (p.Asp7342=)	TTN	Conflicting interpretations of pathogenicity	372802604
+NM_133378.4(TTN):c.22204C>T (p.Arg7402Cys)	TTN	Conflicting interpretations of pathogenicity	72648987
+NM_133378.4(TTN):c.22205G>A (p.Arg7402His)	TTN	Likely benign	144587343
+NM_133378.4(TTN):c.22246G>A (p.Val7416Ile)	TTN	Conflicting interpretations of pathogenicity	141856116
+NM_133378.4(TTN):c.22323C>T (p.Ser7441=)	TTN	Likely benign	727505250
+NM_133378.4(TTN):c.22335C>T (p.Tyr7445=)	TTN	Likely benign	377125716
+NM_133378.4(TTN):c.22359A>T (p.Leu7453=)	TTN	Benign/Likely benign	2562836
+NM_133378.4(TTN):c.22384G>A (p.Asp7462Asn)	TTN	Likely benign	377074955
+NM_133378.4(TTN):c.22513G>A (p.Val7505Ile)	TTN	Benign/Likely benign	16866457
+NM_133378.4(TTN):c.22557A>G (p.Glu7519=)	TTN	Benign/Likely benign	2562838
+NM_133378.4(TTN):c.22676A>G (p.Asn7559Ser)	TTN	Benign/Likely benign	12693164
+NM_133378.4(TTN):c.22736C>T (p.Thr7579Met)	TTN	Conflicting interpretations of pathogenicity	368151971
+NM_133378.4(TTN):c.22762A>G (p.Ile7588Val)	TTN	Conflicting interpretations of pathogenicity	72648989
+NM_133378.4(TTN):c.22923C>T (p.Ser7641=)	TTN	Benign/Likely benign	2562839
+NM_133378.4(TTN):c.22949C>T (p.Pro7650Leu)	TTN	Benign/Likely benign	13398235
+NM_133378.4(TTN):c.23086G>A (p.Gly7696Ser)	TTN	Likely benign	201005813
+NM_133378.4(TTN):c.23131A>G (p.Ile7711Val)	TTN	Conflicting interpretations of pathogenicity	72648994
+NM_133378.4(TTN):c.23259A>C (p.Thr7753=)	TTN	Likely benign	61232800
+NM_133378.4(TTN):c.23259A>G (p.Thr7753=)	TTN	Benign/Likely benign	61232800
+NM_133378.4(TTN):c.23283T>C (p.Gly7761=)	TTN	Likely benign	727503643
+NM_133378.4(TTN):c.23634C>T (p.Ser7878=)	TTN	Likely benign	771307666
+NM_133378.4(TTN):c.23766G>A (p.Ser7922=)	TTN	Conflicting interpretations of pathogenicity	372528823
+NM_133378.4(TTN):c.2376G>A (p.Lys792=)	TTN	Likely benign	727504854
+NM_133378.4(TTN):c.23922T>G (p.Val7974=)	TTN	Conflicting interpretations of pathogenicity	780101457
+NM_133378.4(TTN):c.24117G>A (p.Val8039=)	TTN	Likely benign	397517525
+NM_133378.4(TTN):c.24183A>G (p.Arg8061=)	TTN	Likely benign	367900368
+NM_133378.4(TTN):c.24282C>A (p.Gly8094=)	TTN	Likely benign	200655768
+NM_133378.4(TTN):c.2432C>T (p.Thr811Ile)	TTN	Benign/Likely benign	35813871
+NM_133378.4(TTN):c.24775G>A (p.Val8259Ile)	TTN	Conflicting interpretations of pathogenicity	202160275
+NM_133378.4(TTN):c.24909C>T (p.Asn8303=)	TTN	Likely benign	727505185
+NM_133378.4(TTN):c.24930G>A (p.Arg8310=)	TTN	Benign/Likely benign	2742332
+NM_133378.4(TTN):c.24978T>C (p.Asn8326=)	TTN	Likely benign	727504991
+NM_133378.4(TTN):c.25396G>A (p.Val8466Ile)	TTN	Benign/Likely benign	72649002
+NM_133378.4(TTN):c.25421T>C (p.Ile8474Thr)	TTN	Benign/Likely benign	4893852
+NM_133378.4(TTN):c.25446C>A (p.Ile8482=)	TTN	Benign/Likely benign	72650003
+NM_133378.4(TTN):c.25506C>T (p.Phe8502=)	TTN	Likely benign	727503640
+NM_133378.4(TTN):c.25513C>T (p.Gln8505Ter)	TTN	Pathogenic	746721983
+NM_133378.4(TTN):c.25665C>T (p.Gly8555=)	TTN	Conflicting interpretations of pathogenicity	770084292
+NM_133378.4(TTN):c.26031T>C (p.Ile8677=)	TTN	Benign/Likely benign	2742343
+NM_133378.4(TTN):c.26067G>A (p.Ser8689=)	TTN	Benign/Likely benign	2742344
+NM_133378.4(TTN):c.26080A>T (p.Thr8694Ser)	TTN	Benign/Likely benign	72650006
+NM_133378.4(TTN):c.26083G>C (p.Glu8695Gln)	TTN	Likely benign	727503638
+NM_133378.4(TTN):c.26206G>A (p.Ala8736Thr)	TTN	Conflicting interpretations of pathogenicity	189286381
+NM_133378.4(TTN):c.26228T>A (p.Ile8743Asn)	TTN	Likely benign	376644553
+NM_133378.4(TTN):c.26301A>G (p.Gln8767=)	TTN	Likely benign	768497622
+NM_133378.4(TTN):c.26542C>T (p.His8848Tyr)	TTN	Conflicting interpretations of pathogenicity	72650011
+NM_133378.4(TTN):c.26694C>T (p.Asp8898=)	TTN	Benign	147524531
+NM_133378.4(TTN):c.26712G>A (p.Ser8904=)	TTN	Likely benign	367901929
+NM_133378.4(TTN):c.26763G>A (p.Leu8921=)	TTN	Likely benign	-1
+NM_133378.4(TTN):c.2682T>C (p.Ala894=)	TTN	Likely benign	727505299
+NM_133378.4(TTN):c.26856G>A (p.Val8952=)	TTN	Likely benign	727504524
+NM_133378.4(TTN):c.26910A>G (p.Pro8970=)	TTN	Likely benign	397517533
+NM_133378.4(TTN):c.26986G>T (p.Val8996Phe)	TTN	Conflicting interpretations of pathogenicity	111671438
+NM_133378.4(TTN):c.27189C>T (p.His9063=)	TTN	Likely benign	-1
+NM_133378.4(TTN):c.27220G>A (p.Glu9074Lys)	TTN	Benign/Likely benign	73038324
+NM_133378.4(TTN):c.27417G>A (p.Glu9139=)	TTN	Likely benign	727504724
+NM_133378.4(TTN):c.2760C>T (p.His920=)	TTN	Likely benign	138788406
+NM_133378.4(TTN):c.27667G>A (p.Val9223Ile)	TTN	Likely benign	72650019
+NM_133378.4(TTN):c.2778A>G (p.Val926=)	TTN	Likely benign	886038714
+NM_133378.4(TTN):c.27832A>G (p.Ile9278Val)	TTN	Benign/Likely benign	2042995
+NM_133378.4(TTN):c.28059T>G (p.Pro9353=)	TTN	Likely benign	397517539
+NM_133378.4(TTN):c.28132G>A (p.Gly9378Arg)	TTN	Benign/Likely benign	2244492
+NM_133378.4(TTN):c.28618C>G (p.Leu9540Val)	TTN	Conflicting interpretations of pathogenicity	72650029
+NM_133378.4(TTN):c.28748C>T (p.Ala9583Val)	TTN	Likely benign	72650030
+NM_133378.4(TTN):c.2883C>T (p.Thr961=)	TTN	Likely benign	397517541
+NM_133378.4(TTN):c.28892C>T (p.Pro9631Leu)	TTN	Benign/Likely benign	72650031
+NM_133378.4(TTN):c.28916G>A (p.Arg9639Lys)	TTN	Benign/Likely benign	116676813
+NM_133378.4(TTN):c.28971G>A (p.Glu9657=)	TTN	Likely benign	397517542
+NM_133378.4(TTN):c.28999G>A (p.Glu9667Lys)	TTN	Conflicting interpretations of pathogenicity	199620003
+NM_133378.4(TTN):c.29222G>A (p.Arg9741Gln)	TTN	Likely benign	181395238
+NM_133378.4(TTN):c.29222G>C (p.Arg9741Pro)	TTN	Conflicting interpretations of pathogenicity	181395238
+NM_133378.4(TTN):c.29321G>A (p.Arg9774Gln)	TTN	Conflicting interpretations of pathogenicity	72650034
+NM_133378.4(TTN):c.29331A>G (p.Glu9777=)	TTN	Benign/Likely benign	115744476
+NM_133378.4(TTN):c.29555G>A (p.Arg9852His)	TTN	Benign/Likely benign	36051007
+NM_133378.4(TTN):c.29684G>C (p.Arg9895Thr)	TTN	Likely benign	72650040
+NM_133378.4(TTN):c.29766T>C (p.Leu9922=)	TTN	Likely benign	886038884
+NM_133378.4(TTN):c.30102G>A (p.Glu10034=)	TTN	Benign/Likely benign	35112591
+NM_133378.4(TTN):c.30306T>G (p.Pro10102=)	TTN	Likely benign	375714279
+NM_133378.4(TTN):c.30330A>G (p.Glu10110=)	TTN	Conflicting interpretations of pathogenicity	886055281
+NM_133378.4(TTN):c.3034C>T (p.Arg1012Ter)	TTN	Likely pathogenic	397517547
+NM_133378.4(TTN):c.30460G>T (p.Val10154Phe)	TTN	Likely benign	551911856
+NM_133378.4(TTN):c.30484C>A (p.Pro10162Thr)	TTN	Conflicting interpretations of pathogenicity	532102837
+NM_133378.4(TTN):c.30663A>C (p.Glu10221Asp)	TTN	Conflicting interpretations of pathogenicity	140640738
+NM_133378.4(TTN):c.30961G>A (p.Val10321Ile)	TTN	Conflicting interpretations of pathogenicity	202014478
+NM_133378.4(TTN):c.3100G>A (p.Val1034Met)	TTN	Conflicting interpretations of pathogenicity	142951505
+NM_133378.4(TTN):c.31044A>G (p.Glu10348=)	TTN	Likely benign	727504514
+NM_133378.4(TTN):c.31067G>A (p.Arg10356His)	TTN	Benign/Likely benign	59887778
+NM_133378.4(TTN):c.31361A>C (p.Lys10454Thr)	TTN	Conflicting interpretations of pathogenicity	189966800
+NM_133378.4(TTN):c.31471C>T (p.Pro10491Ser)	TTN	Likely benign	727505111
+NM_133378.4(TTN):c.31666G>T (p.Val10556Leu)	TTN	Likely benign	202241329
+NM_133378.4(TTN):c.31780G>A (p.Val10594Met)	TTN	Benign/Likely benign	73038314
+NM_133378.4(TTN):c.31788G>A (p.Ala10596=)	TTN	Conflicting interpretations of pathogenicity	375519815
+NM_133378.4(TTN):c.31881T>A (p.Pro10627=)	TTN	Conflicting interpretations of pathogenicity	12474306
+NM_133378.4(TTN):c.31980T>C (p.Ser10660=)	TTN	Likely benign	773883685
+NM_133378.4(TTN):c.31998C>T (p.Phe10666=)	TTN	Likely benign	569579388
+NM_133378.4(TTN):c.32128G>A (p.Val10710Ile)	TTN	Likely benign	374394719
+NM_133378.4(TTN):c.32164C>A (p.Pro10722Thr)	TTN	Conflicting interpretations of pathogenicity	72650064
+NM_133378.4(TTN):c.32175C>T (p.Pro10725=)	TTN	Likely benign	397517557
+NM_133378.4(TTN):c.32202G>T (p.Val10734=)	TTN	Likely benign	397517558
+NM_133378.4(TTN):c.32314C>T (p.Pro10772Ser)	TTN	Conflicting interpretations of pathogenicity	186404793
+NM_133378.4(TTN):c.32350T>C (p.Leu10784=)	TTN	Likely benign	727505145
+NM_133378.4(TTN):c.32387C>T (p.Ala10796Val)	TTN	Conflicting interpretations of pathogenicity	148140756
+NM_133378.4(TTN):c.32402C>G (p.Pro10801Arg)	TTN	Benign/Likely benign	72650066
+NM_133378.4(TTN):c.3241G>A (p.Ala1081Thr)	TTN	Conflicting interpretations of pathogenicity	55914517
+NM_133378.4(TTN):c.32631C>T (p.Leu10877=)	TTN	Likely benign	727504696
+NM_133378.4(TTN):c.32794G>T (p.Val10932Phe)	TTN	Conflicting interpretations of pathogenicity	201944202
+NM_133378.4(TTN):c.32853C>T (p.Ser10951=)	TTN	Likely benign	371178429
+NM_133378.4(TTN):c.32854G>C (p.Val10952Leu)	TTN	Conflicting interpretations of pathogenicity	587780488
+NM_133378.4(TTN):c.3295G>A (p.Val1099Met)	TTN	Conflicting interpretations of pathogenicity	368282893
+NM_133378.4(TTN):c.33786C>T (p.Val11262=)	TTN	Likely benign	397517564
+NM_133378.4(TTN):c.33804T>C (p.Ala11268=)	TTN	Benign/Likely benign	55847232
+NM_133378.4(TTN):c.33G>A (p.Pro11=)	TTN	Conflicting interpretations of pathogenicity	138331646
+NM_133378.4(TTN):c.3409G>C (p.Gly1137Arg)	TTN	Conflicting interpretations of pathogenicity	72647870
+NM_133378.4(TTN):c.34106C>T (p.Ala11369Val)	TTN	Likely benign	545806408
+NM_133378.4(TTN):c.34367A>G (p.His11456Arg)	TTN	Benign/Likely benign	2288563
+NM_133378.4(TTN):c.34625T>C (p.Val11542Ala)	TTN	Conflicting interpretations of pathogenicity	34706299
+NM_133378.4(TTN):c.35079A>G (p.Lys11693=)	TTN	Benign/Likely benign	16866425
+NM_133378.4(TTN):c.35187C>T (p.Gly11729=)	TTN	Conflicting interpretations of pathogenicity	550471556
+NM_133378.4(TTN):c.35254A>G (p.Lys11752Glu)	TTN	Benign/Likely benign	6723526
+NM_133378.4(TTN):c.3577G>A (p.Val1193Met)	TTN	Likely benign	727503699
+NM_133378.4(TTN):c.35784G>A (p.Arg11928=)	TTN	Benign/Likely benign	56034831
+NM_133378.4(TTN):c.35892T>C (p.Asn11964=)	TTN	Benign/Likely benign	16866423
+NM_133378.4(TTN):c.35899C>T (p.Arg11967Cys)	TTN	Benign/Likely benign	12471771
+NM_133378.4(TTN):c.3601A>G (p.Lys1201Glu)	TTN	Benign/Likely benign	10497520
+NM_133378.4(TTN):c.36057T>C (p.Tyr12019=)	TTN	Likely benign	397517574
+NM_133378.4(TTN):c.3605T>C (p.Val1202Ala)	TTN	Conflicting interpretations of pathogenicity	150667217
+NM_133378.4(TTN):c.36336C>A (p.Pro12112=)	TTN	Likely benign	397517575
+NM_133378.4(TTN):c.36888C>T (p.Val12296=)	TTN	Likely benign	397517578
+NM_133378.4(TTN):c.37080T>C (p.Asp12360=)	TTN	Likely benign	186105748
+NM_133378.4(TTN):c.37274G>A (p.Gly12425Glu)	TTN	Conflicting interpretations of pathogenicity	200931793
+NM_133378.4(TTN):c.37299C>T (p.Asn12433=)	TTN	Likely benign	727505079
+NM_133378.4(TTN):c.37350G>A (p.Ala12450=)	TTN	Conflicting interpretations of pathogenicity	781392140
+NM_133378.4(TTN):c.37471G>A (p.Ala12491Thr)	TTN	Benign/Likely benign	144668626
+NM_133378.4(TTN):c.37502A>T (p.Glu12501Val)	TTN	Benign/Likely benign	114331773
+NM_133378.4(TTN):c.37603C>T (p.Arg12535Ter)	TTN	Likely pathogenic	397517580
+NM_133378.4(TTN):c.37624G>A (p.Asp12542Asn)	TTN	Benign/Likely benign	17354992
+NM_133378.4(TTN):c.37704G>T (p.Lys12568Asn)	TTN	Conflicting interpretations of pathogenicity	72677225
+NM_133378.4(TTN):c.37822C>T (p.Leu12608=)	TTN	Benign/Likely benign	61004744
+NM_133378.4(TTN):c.37881C>T (p.Ala12627=)	TTN	Likely benign	780415755
+NM_133378.4(TTN):c.37895C>G (p.Ala12632Gly)	TTN	Conflicting interpretations of pathogenicity	201057307
+NM_133378.4(TTN):c.37902G>A (p.Leu12634=)	TTN	Likely benign	397517581
+NM_133378.4(TTN):c.38034T>C (p.Ala12678=)	TTN	Benign/Likely benign	2303829
+NM_133378.4(TTN):c.38532C>A (p.Cys12844Ter)	TTN	Likely pathogenic	368200299
+NM_133378.4(TTN):c.3884C>T (p.Ser1295Leu)	TTN	Benign/Likely benign	1552280
+NM_133378.4(TTN):c.38853T>G (p.Val12951=)	TTN	Likely benign	727503626
+NM_133378.4(TTN):c.38989G>T (p.Ala12997Ser)	TTN	Benign/Likely benign	145520397
+NM_133378.4(TTN):c.39042C>A (p.Gly13014=)	TTN	Likely benign	759938870
+NM_133378.4(TTN):c.39069T>A (p.Tyr13023Ter)	TTN	Likely pathogenic	397517586
+NM_133378.4(TTN):c.39078C>A (p.Tyr13026Ter)	TTN	Likely pathogenic	397517587
+NM_133378.4(TTN):c.39096A>G (p.Glu13032=)	TTN	Conflicting interpretations of pathogenicity	190058852
+NM_133378.4(TTN):c.39176C>T (p.Ala13059Val)	TTN	Conflicting interpretations of pathogenicity	115813214
+NM_133378.4(TTN):c.39373G>A (p.Val13125Ile)	TTN	Conflicting interpretations of pathogenicity	201717871
+NM_133378.4(TTN):c.39487C>T (p.Arg13163Cys)	TTN	Conflicting interpretations of pathogenicity	72677231
+NM_133378.4(TTN):c.39492G>C (p.Val13164=)	TTN	Likely benign	369979598
+NM_133378.4(TTN):c.39544G>A (p.Val13182Ile)	TTN	Conflicting interpretations of pathogenicity	72677232
+NM_133378.4(TTN):c.39611G>A (p.Arg13204Gln)	TTN	Conflicting interpretations of pathogenicity	72677233
+NM_133378.4(TTN):c.39676G>A (p.Val13226Ile)	TTN	Likely benign	727504878
+NM_133378.4(TTN):c.39696G>A (p.Lys13232=)	TTN	Benign/Likely benign	114145817
+NM_133378.4(TTN):c.39802C>T (p.Gln13268Ter)	TTN	Likely pathogenic	397517589
+NM_133378.4(TTN):c.39841C>A (p.Pro13281Thr)	TTN	Conflicting interpretations of pathogenicity	146181477
+NM_133378.4(TTN):c.40019G>A (p.Arg13340His)	TTN	Conflicting interpretations of pathogenicity	72677237
+NM_133378.4(TTN):c.40251A>G (p.Pro13417=)	TTN	Benign	192953152
+NM_133378.4(TTN):c.4027C>T (p.Gln1343Ter)	TTN	Likely pathogenic	727503697
+NM_133378.4(TTN):c.4034G>A (p.Gly1345Asp)	TTN	Benign/Likely benign	36021856
+NM_133378.4(TTN):c.40350C>T (p.Ala13450=)	TTN	Conflicting interpretations of pathogenicity	779940754
+NM_133378.4(TTN):c.40566C>T (p.Tyr13522=)	TTN	Likely benign	397517592
+NM_133378.4(TTN):c.40649A>G (p.Asp13550Gly)	TTN	Conflicting interpretations of pathogenicity	376273101
+NM_133378.4(TTN):c.41023C>T (p.Pro13675Ser)	TTN	Conflicting interpretations of pathogenicity	72677242
+NM_133378.4(TTN):c.41139C>T (p.Thr13713=)	TTN	Likely benign	547682223
+NM_133378.4(TTN):c.41249T>C (p.Ile13750Thr)	TTN	Conflicting interpretations of pathogenicity	72677243
+NM_133378.4(TTN):c.41292G>A (p.Glu13764=)	TTN	Benign/Likely benign	72677244
+NM_133378.4(TTN):c.41691C>T (p.Asp13897=)	TTN	Likely benign	749308557
+NM_133378.4(TTN):c.4177A>G (p.Ile1393Val)	TTN	Benign/Likely benign	16866531
+NM_133378.4(TTN):c.41823A>G (p.Thr13941=)	TTN	Conflicting interpretations of pathogenicity	727505248
+NM_133378.4(TTN):c.41871G>A (p.Val13957=)	TTN	Likely benign	886038826
+NM_133378.4(TTN):c.42027T>C (p.His14009=)	TTN	Benign/Likely benign	2115558
+NM_133378.4(TTN):c.42215G>C (p.Ser14072Thr)	TTN	Conflicting interpretations of pathogenicity	55663050
+NM_133378.4(TTN):c.42240G>A (p.Lys14080=)	TTN	Benign	190021597
+NM_133378.4(TTN):c.42281A>C (p.Asn14094Thr)	TTN	Benign/Likely benign	36043230
+NM_133378.4(TTN):c.42324G>A (p.Glu14108=)	TTN	Likely benign	727503621
+NM_133378.4(TTN):c.42372C>T (p.Asp14124=)	TTN	Likely benign	397517598
+NM_133378.4(TTN):c.42914G>A (p.Trp14305Ter)	TTN	Likely pathogenic	397517601
+NM_133378.4(TTN):c.43010G>A (p.Arg14337His)	TTN	Conflicting interpretations of pathogenicity	191539637
+NM_133378.4(TTN):c.4322G>C (p.Arg1441Pro)	TTN	Benign/Likely benign	72647876
+NM_133378.4(TTN):c.4328T>C (p.Leu1443Pro)	TTN	Benign/Likely benign	142317580
+NM_133378.4(TTN):c.43414A>G (p.Ile14472Val)	TTN	Likely benign	727505039
+NM_133378.4(TTN):c.43778C>T (p.Ala14593Val)	TTN	Benign/Likely benign	16866412
+NM_133378.4(TTN):c.43779G>A (p.Ala14593=)	TTN	Likely benign	397517604
+NM_133378.4(TTN):c.4396T>C (p.Phe1466Leu)	TTN	Conflicting interpretations of pathogenicity	151310601
+NM_133378.4(TTN):c.43974C>T (p.Asn14658=)	TTN	Conflicting interpretations of pathogenicity	372635204
+NM_133378.4(TTN):c.43980G>A (p.Ala14660=)	TTN	Benign/Likely benign	2288566
+NM_133378.4(TTN):c.43G>A (p.Val15Ile)	TTN	Conflicting interpretations of pathogenicity	201857541
+NM_133378.4(TTN):c.44302G>A (p.Val14768Ile)	TTN	Conflicting interpretations of pathogenicity	567781604
+NM_133378.4(TTN):c.44304C>G (p.Val14768=)	TTN	Benign	144507270
+NM_133378.4(TTN):c.44394G>A (p.Val14798=)	TTN	Likely benign	727503617
+NM_133378.4(TTN):c.44526C>T (p.Asp14842=)	TTN	Likely benign	397517608
+NM_133378.4(TTN):c.4452T>C (p.Pro1484=)	TTN	Likely benign	727503695
+NM_133378.4(TTN):c.44613A>G (p.Lys14871=)	TTN	Likely benign	370450339
+NM_133378.4(TTN):c.44627G>A (p.Arg14876His)	TTN	Likely benign	376080116
+NM_133378.4(TTN):c.44853C>T (p.Val14951=)	TTN	Likely benign	397517610
+NM_133378.4(TTN):c.45117T>C (p.Asp15039=)	TTN	Benign/Likely benign	2303831
+NM_133378.4(TTN):c.45148C>T (p.Arg15050Cys)	TTN	Conflicting interpretations of pathogenicity	201213901
+NM_133378.4(TTN):c.45156A>G (p.Thr15052=)	TTN	Likely benign	397517611
+NM_133378.4(TTN):c.45213T>C (p.Asp15071=)	TTN	Benign/Likely benign	73036398
+NM_133378.4(TTN):c.45246A>G (p.Ala15082=)	TTN	Likely benign	774191524
+NM_133378.4(TTN):c.45392G>A (p.Arg15131His)	TTN	Conflicting interpretations of pathogenicity	72646808
+NM_133378.4(TTN):c.45418A>G (p.Lys15140Glu)	TTN	Conflicting interpretations of pathogenicity	185913848
+NM_133378.4(TTN):c.45419A>T (p.Lys15140Ile)	TTN	Benign/Likely benign	2303832
+NM_133378.4(TTN):c.45488T>C (p.Ile15163Thr)	TTN	Benign/Likely benign	72646809
+NM_133378.4(TTN):c.45803G>A (p.Arg15268His)	TTN	Conflicting interpretations of pathogenicity	373526624
+NM_133378.4(TTN):c.4630A>G (p.Ile1544Val)	TTN	Benign/Likely benign	72647877
+NM_133378.4(TTN):c.46497C>T (p.Ser15499=)	TTN	Likely benign	397517618
+NM_133378.4(TTN):c.46503A>G (p.Pro15501=)	TTN	Conflicting interpretations of pathogenicity	372686070
+NM_133378.4(TTN):c.46620T>C (p.Ser15540=)	TTN	Likely benign	397517619
+NM_133378.4(TTN):c.46656T>C (p.Thr15552=)	TTN	Likely benign	749248039
+NM_133378.4(TTN):c.4668G>A (p.Pro1556=)	TTN	Conflicting interpretations of pathogenicity	145709534
+NM_133378.4(TTN):c.46932T>G (p.Tyr15644Ter)	TTN	Likely pathogenic	397517620
+NM_133378.4(TTN):c.47006T>C (p.Leu15669Pro)	TTN	Conflicting interpretations of pathogenicity	201412693
+NM_133378.4(TTN):c.47036T>C (p.Met15679Thr)	TTN	Conflicting interpretations of pathogenicity	200585270
+NM_133378.4(TTN):c.47089G>A (p.Val15697Ile)	TTN	Likely benign	397517621
+NM_133378.4(TTN):c.47114C>T (p.Pro15705Leu)	TTN	Conflicting interpretations of pathogenicity	201035511
+NM_133378.4(TTN):c.47151G>A (p.Thr15717=)	TTN	Conflicting interpretations of pathogenicity	200410212
+NM_133378.4(TTN):c.47325G>A (p.Arg15775=)	TTN	Conflicting interpretations of pathogenicity	62178963
+NM_133378.4(TTN):c.4739C>T (p.Thr1580Met)	TTN	Conflicting interpretations of pathogenicity	73973147
+NM_133378.4(TTN):c.47670C>G (p.Ser15890Arg)	TTN	Conflicting interpretations of pathogenicity	200550947
+NM_133378.4(TTN):c.47849A>G (p.Lys15950Arg)	TTN	Conflicting interpretations of pathogenicity	72646823
+NM_133378.4(TTN):c.47955G>A (p.Val15985=)	TTN	Benign/Likely benign	368450420
+NM_133378.4(TTN):c.47988T>A (p.Pro15996=)	TTN	Conflicting interpretations of pathogenicity	200864020
+NM_133378.4(TTN):c.48024G>A (p.Pro16008=)	TTN	Likely benign	727504598
+NM_133378.4(TTN):c.48096G>A (p.Trp16032Ter)	TTN	Likely pathogenic	727503598
+NM_133378.4(TTN):c.48221T>A (p.Leu16074Gln)	TTN	Conflicting interpretations of pathogenicity	140714512
+NM_133378.4(TTN):c.48225A>G (p.Gln16075=)	TTN	Benign/Likely benign	151335428
+NM_133378.4(TTN):c.48397A>G (p.Asn16133Asp)	TTN	Benign/Likely benign	1001238
+NM_133378.4(TTN):c.48699A>G (p.Gln16233=)	TTN	Conflicting interpretations of pathogenicity	553313488
+NM_133378.4(TTN):c.48825G>A (p.Thr16275=)	TTN	Benign/Likely benign	72646827
+NM_133378.4(TTN):c.48975T>C (p.Val16325=)	TTN	Likely benign	397517625
+NM_133378.4(TTN):c.48982G>A (p.Val16328Met)	TTN	Conflicting interpretations of pathogenicity	370629962
+NM_133378.4(TTN):c.49369G>A (p.Val16457Ile)	TTN	Conflicting interpretations of pathogenicity	181957743
+NM_133378.4(TTN):c.49569C>T (p.Asp16523=)	TTN	Conflicting interpretations of pathogenicity	587780489
+NM_133378.4(TTN):c.49611T>C (p.His16537=)	TTN	Benign/Likely benign	35833641
+NM_133378.4(TTN):c.49774G>A (p.Val16592Ile)	TTN	Likely benign	200778464
+NM_133378.4(TTN):c.50104G>C (p.Val16702Leu)	TTN	Conflicting interpretations of pathogenicity	369440319
+NM_133378.4(TTN):c.50370T>C (p.Arg16790=)	TTN	Likely benign	397517632
+NM_133378.4(TTN):c.5047C>T (p.Arg1683Ter)	TTN	Pathogenic	587780490
+NM_133378.4(TTN):c.50522G>A (p.Arg16841His)	TTN	Conflicting interpretations of pathogenicity	201505306
+NM_133378.4(TTN):c.5052T>C (p.Tyr1684=)	TTN	Likely benign	727503694
+NM_133378.4(TTN):c.50715A>G (p.Gln16905=)	TTN	Conflicting interpretations of pathogenicity	186563991
+NM_133378.4(TTN):c.50732G>A (p.Arg16911His)	TTN	Benign/Likely benign	2288569
+NM_133378.4(TTN):c.50872G>A (p.Val16958Ile)	TTN	Conflicting interpretations of pathogenicity	377682563
+NM_133378.4(TTN):c.51024T>C (p.Arg17008=)	TTN	Likely benign	727504475
+NM_133378.4(TTN):c.51198T>C (p.His17066=)	TTN	Likely benign	397517639
+NM_133378.4(TTN):c.51229C>T (p.Leu17077=)	TTN	Benign/Likely benign	2303836
+NM_133378.4(TTN):c.51243G>A (p.Gln17081=)	TTN	Likely benign	886038922
+NM_133378.4(TTN):c.51461T>C (p.Val17154Ala)	TTN	Conflicting interpretations of pathogenicity	116592778
+NM_133378.4(TTN):c.51543C>T (p.Asp17181=)	TTN	Benign	587780491
+NM_133378.4(TTN):c.51544G>A (p.Gly17182Ser)	TTN	Conflicting interpretations of pathogenicity	200732032
+NM_133378.4(TTN):c.51614A>G (p.Glu17205Gly)	TTN	Conflicting interpretations of pathogenicity	371719028
+NM_133378.4(TTN):c.51615G>A (p.Glu17205=)	TTN	Conflicting interpretations of pathogenicity	367622770
+NM_133378.4(TTN):c.51618A>G (p.Pro17206=)	TTN	Conflicting interpretations of pathogenicity	188063446
+NM_133378.4(TTN):c.51880C>T (p.Pro17294Ser)	TTN	Benign	786205335
+NM_133378.4(TTN):c.51881C>T (p.Pro17294Leu)	TTN	Benign/Likely benign	16866406
+NM_133378.4(TTN):c.51981C>T (p.Tyr17327=)	TTN	Likely benign	397517644
+NM_133378.4(TTN):c.52131C>T (p.Asn17377=)	TTN	Conflicting interpretations of pathogenicity	72646842
+NM_133378.4(TTN):c.52233G>A (p.Gly17411=)	TTN	Likely benign	727505101
+NM_133378.4(TTN):c.52301A>G (p.Asp17434Gly)	TTN	Conflicting interpretations of pathogenicity	199512049
+NM_133378.4(TTN):c.52528G>A (p.Val17510Met)	TTN	Benign/Likely benign	77351975
+NM_133378.4(TTN):c.5268A>G (p.Glu1756=)	TTN	Likely benign	775999739
+NM_133378.4(TTN):c.52786G>C (p.Val17596Leu)	TTN	Benign	72646843
+NM_133378.4(TTN):c.53017G>C (p.Glu17673Gln)	TTN	Conflicting interpretations of pathogenicity	200212521
+NM_133378.4(TTN):c.53112G>A (p.Pro17704=)	TTN	Likely benign	727504529
+NM_133378.4(TTN):c.53116C>T (p.Pro17706Ser)	TTN	Likely benign	786205338
+NM_133378.4(TTN):c.53271C>T (p.Ile17757=)	TTN	Likely benign	727505195
+NM_133378.4(TTN):c.53396G>A (p.Arg17799Gln)	TTN	Benign/Likely benign	141973925
+NM_133378.4(TTN):c.53541A>G (p.Thr17847=)	TTN	Benign/Likely benign	2163009
+NM_133378.4(TTN):c.53618A>G (p.Asn17873Ser)	TTN	Conflicting interpretations of pathogenicity	147580753
+NM_133378.4(TTN):c.5373C>A (p.Thr1791=)	TTN	Conflicting interpretations of pathogenicity	727503693
+NM_133378.4(TTN):c.54057A>C (p.Thr18019=)	TTN	Likely benign	727505259
+NM_133378.4(TTN):c.54218G>A (p.Arg18073Gln)	TTN	Conflicting interpretations of pathogenicity	199895260
+NM_133378.4(TTN):c.542G>A (p.Ser181Asn)	TTN	Benign/Likely benign	72647843
+NM_133378.4(TTN):c.54354T>C (p.Tyr18118=)	TTN	Benign/Likely benign	1560221
+NM_133378.4(TTN):c.54576T>C (p.Val18192=)	TTN	Conflicting interpretations of pathogenicity	372065796
+NM_133378.4(TTN):c.54720C>T (p.Asp18240=)	TTN	Likely benign	374472044
+NM_133378.4(TTN):c.5479G>T (p.Ala1827Ser)	TTN	Conflicting interpretations of pathogenicity	141213991
+NM_133378.4(TTN):c.54843G>A (p.Thr18281=)	TTN	Conflicting interpretations of pathogenicity	368969893
+NM_133378.4(TTN):c.54868A>G (p.Thr18290Ala)	TTN	Conflicting interpretations of pathogenicity	200689750
+NM_133378.4(TTN):c.54975C>T (p.Gly18325=)	TTN	Likely benign	188059075
+NM_133378.4(TTN):c.55239T>C (p.Thr18413=)	TTN	Conflicting interpretations of pathogenicity	184863287
+NM_133378.4(TTN):c.55290C>T (p.Tyr18430=)	TTN	Conflicting interpretations of pathogenicity	375006117
+NM_133378.4(TTN):c.55319C>T (p.Thr18440Ile)	TTN	Conflicting interpretations of pathogenicity	72646850
+NM_133378.4(TTN):c.55322G>A (p.Arg18441Gln)	TTN	Benign/Likely benign	72646851
+NM_133378.4(TTN):c.55410C>A (p.Val18470=)	TTN	Likely benign	201642579
+NM_133378.4(TTN):c.55587T>C (p.Ile18529=)	TTN	Likely benign	397517653
+NM_133378.4(TTN):c.55626G>A (p.Ala18542=)	TTN	Likely benign	727504885
+NM_133378.4(TTN):c.55854G>A (p.Val18618=)	TTN	Likely benign	200261892
+NM_133378.4(TTN):c.55885A>G (p.Ile18629Val)	TTN	Conflicting interpretations of pathogenicity	72646855
+NM_133378.4(TTN):c.56172C>T (p.Asn18724=)	TTN	Benign/Likely benign	199598302
+NM_133378.4(TTN):c.56213G>A (p.Arg18738His)	TTN	Conflicting interpretations of pathogenicity	202240487
+NM_133378.4(TTN):c.56238G>A (p.Ser18746=)	TTN	Likely benign	201285872
+NM_133378.4(TTN):c.56256T>A (p.Val18752=)	TTN	Likely benign	397517655
+NM_133378.4(TTN):c.56277A>G (p.Val18759=)	TTN	Likely benign	397517656
+NM_133378.4(TTN):c.56328C>T (p.Asn18776=)	TTN	Benign/Likely benign	72646857
+NM_133378.4(TTN):c.56397G>A (p.Pro18799=)	TTN	Likely benign	397517657
+NM_133378.4(TTN):c.56470C>T (p.Arg18824Cys)	TTN	Conflicting interpretations of pathogenicity	72646859
+NM_133378.4(TTN):c.56504C>T (p.Thr18835Ile)	TTN	Benign/Likely benign	2042996
+NM_133378.4(TTN):c.5668C>T (p.Arg1890Cys)	TTN	Conflicting interpretations of pathogenicity	146496197
+NM_133378.4(TTN):c.57015C>T (p.Asp19005=)	TTN	Likely benign	727504967
+NM_133378.4(TTN):c.57085G>A (p.Val19029Met)	TTN	Conflicting interpretations of pathogenicity	150661999
+NM_133378.4(TTN):c.57156G>A (p.Arg19052=)	TTN	Likely benign	373713828
+NM_133378.4(TTN):c.57388C>T (p.Arg19130Cys)	TTN	Benign/Likely benign	72646861
+NM_133378.4(TTN):c.57443C>T (p.Ser19148Leu)	TTN	Benign/Likely benign	13021201
+NM_133378.4(TTN):c.57469G>A (p.Val19157Ile)	TTN	Conflicting interpretations of pathogenicity	368716894
+NM_133378.4(TTN):c.57483G>A (p.Glu19161=)	TTN	Conflicting interpretations of pathogenicity	397517660
+NM_133378.4(TTN):c.57755C>T (p.Thr19252Ile)	TTN	Conflicting interpretations of pathogenicity	56130023
+NM_133378.4(TTN):c.57812C>T (p.Ala19271Val)	TTN	Benign/Likely benign	55948748
+NM_133378.4(TTN):c.57978A>G (p.Thr19326=)	TTN	Benign/Likely benign	4894029
+NM_133378.4(TTN):c.58039C>A (p.Gln19347Lys)	TTN	Benign/Likely benign	62618736
+NM_133378.4(TTN):c.58350G>A (p.Glu19450=)	TTN	Likely benign	727503579
+NM_133378.4(TTN):c.58737C>T (p.Ala19579=)	TTN	Likely benign	727503578
+NM_133378.4(TTN):c.58746T>G (p.Ala19582=)	TTN	Likely benign	727504643
+NM_133378.4(TTN):c.58776G>A (p.Pro19592=)	TTN	Likely benign	372814670
+NM_133378.4(TTN):c.58777G>A (p.Ala19593Thr)	TTN	Likely benign	886038883
+NM_133378.4(TTN):c.58910G>A (p.Arg19637Lys)	TTN	Conflicting interpretations of pathogenicity	72646869
+NM_133378.4(TTN):c.58914C>A (p.Cys19638Ter)	TTN	Likely pathogenic	397517664
+NM_133378.4(TTN):c.58977A>G (p.Gln19659=)	TTN	Likely benign	397517665
+NM_133378.4(TTN):c.58998C>T (p.Ala19666=)	TTN	Conflicting interpretations of pathogenicity	371802557
+NM_133378.4(TTN):c.59194G>A (p.Val19732Ile)	TTN	Conflicting interpretations of pathogenicity	200343420
+NM_133378.4(TTN):c.59272A>G (p.Lys19758Glu)	TTN	Likely benign	786205383
+NM_133378.4(TTN):c.59292T>C (p.Tyr19764=)	TTN	Likely benign	397517668
+NM_133378.4(TTN):c.59349G>A (p.Val19783=)	TTN	Likely benign	886038717
+NM_133378.4(TTN):c.59371G>A (p.Val19791Ile)	TTN	Benign/Likely benign	2303838
+NM_133378.4(TTN):c.59395T>C (p.Ser19799Pro)	TTN	Conflicting interpretations of pathogenicity	72646873
+NM_133378.4(TTN):c.59542G>C (p.Ala19848Pro)	TTN	Benign/Likely benign	4145333
+NM_133378.4(TTN):c.59740C>T (p.Arg19914Trp)	TTN	Conflicting interpretations of pathogenicity	563233842
+NM_133378.4(TTN):c.597A>G (p.Val199=)	TTN	Likely benign	144214844
+NM_133378.4(TTN):c.59833T>C (p.Leu19945=)	TTN	Likely benign	727504507
+NM_133378.4(TTN):c.59931T>C (p.Val19977=)	TTN	Benign/Likely benign	2288570
+NM_133378.4(TTN):c.5993G>A (p.Arg1998His)	TTN	Conflicting interpretations of pathogenicity	144135510
+NM_133378.4(TTN):c.59977T>C (p.Leu19993=)	TTN	Likely benign	397517671
+NM_133378.4(TTN):c.60255T>C (p.Phe20085=)	TTN	Conflicting interpretations of pathogenicity	72646877
+NM_133378.4(TTN):c.60491C>A (p.Ser20164Ter)	TTN	Likely pathogenic	727505352
+NM_133378.4(TTN):c.60492G>A (p.Ser20164=)	TTN	Likely benign	397517674
+NM_133378.4(TTN):c.60504T>A (p.Val20168=)	TTN	Likely benign	727503575
+NM_133378.4(TTN):c.60513T>C (p.His20171=)	TTN	Benign/Likely benign	10497517
+NM_133378.4(TTN):c.60675T>C (p.Ala20225=)	TTN	Likely benign	727503574
+NM_133378.4(TTN):c.60733G>A (p.Glu20245Lys)	TTN	Conflicting interpretations of pathogenicity	200797552
+NM_133378.4(TTN):c.60753G>C (p.Met20251Ile)	TTN	Benign	786205339
+NM_133378.4(TTN):c.60777C>A (p.Gly20259=)	TTN	Likely benign	768624878
+NM_133378.4(TTN):c.61008T>C (p.Thr20336=)	TTN	Likely benign	397517678
+NM_133378.4(TTN):c.61425C>T (p.Pro20475=)	TTN	Benign	786205332
+NM_133378.4(TTN):c.61440A>G (p.Glu20480=)	TTN	Benign	786205342
+NM_133378.4(TTN):c.61441A>G (p.Ile20481Val)	TTN	Benign/Likely benign	72646881
+NM_133378.4(TTN):c.61527T>C (p.Leu20509=)	TTN	Conflicting interpretations of pathogenicity	12615797
+NM_133378.4(TTN):c.61689C>G (p.Val20563=)	TTN	Likely benign	727504692
+NM_133378.4(TTN):c.61881C>T (p.Ser20627=)	TTN	Benign/Likely benign	67041405
+NM_133378.4(TTN):c.61972A>G (p.Ser20658Gly)	TTN	Benign	72646885
+NM_133378.4(TTN):c.62035C>T (p.Pro20679Ser)	TTN	Benign	786205381
+NM_133378.4(TTN):c.62116G>A (p.Gly20706Ser)	TTN	Likely benign	786205331
+NM_133378.4(TTN):c.62332C>T (p.Leu20778=)	TTN	Likely benign	397517681
+NM_133378.4(TTN):c.62427A>G (p.Thr20809=)	TTN	Conflicting interpretations of pathogenicity	369503828
+NM_133378.4(TTN):c.62556G>A (p.Pro20852=)	TTN	Conflicting interpretations of pathogenicity	72646887
+NM_133378.4(TTN):c.62769A>G (p.Lys20923=)	TTN	Likely benign	397517685
+NM_133378.4(TTN):c.62940C>T (p.Thr20980=)	TTN	Likely benign	148210834
+NM_133378.4(TTN):c.62992G>C (p.Gly20998Arg)	TTN	Benign/Likely benign	55801134
+NM_133378.4(TTN):c.63126C>T (p.Ser21042=)	TTN	Benign/Likely benign	12464787
+NM_133378.4(TTN):c.63128C>T (p.Ala21043Val)	TTN	Conflicting interpretations of pathogenicity	72646891
+NM_133378.4(TTN):c.63203G>A (p.Arg21068His)	TTN	Conflicting interpretations of pathogenicity	56071233
+NM_133378.4(TTN):c.6321C>T (p.Pro2107=)	TTN	Likely benign	766245195
+NM_133378.4(TTN):c.63294A>G (p.Thr21098=)	TTN	Benign/Likely benign	767989384
+NM_133378.4(TTN):c.63332G>A (p.Arg21111Lys)	TTN	Conflicting interpretations of pathogenicity	200144345
+NM_133378.4(TTN):c.63665G>A (p.Arg21222His)	TTN	Benign/Likely benign	55677134
+NM_133378.4(TTN):c.63669T>G (p.Leu21223=)	TTN	Conflicting interpretations of pathogenicity	56245285
+NM_133378.4(TTN):c.64001T>C (p.Ile21334Thr)	TTN	Conflicting interpretations of pathogenicity	55837610
+NM_133378.4(TTN):c.64137G>C (p.Lys21379Asn)	TTN	Conflicting interpretations of pathogenicity	56019808
+NM_133378.4(TTN):c.64179T>C (p.Val21393=)	TTN	Conflicting interpretations of pathogenicity	368692510
+NM_133378.4(TTN):c.64248T>C (p.Phe21416=)	TTN	Likely benign	727504881
+NM_133378.4(TTN):c.64289G>A (p.Arg21430His)	TTN	Benign/Likely benign	10164753
+NM_133378.4(TTN):c.64409C>T (p.Thr21470Met)	TTN	Conflicting interpretations of pathogenicity	370375696
+NM_133378.4(TTN):c.64433C>T (p.Ala21478Val)	TTN	Conflicting interpretations of pathogenicity	146767076
+NM_133378.4(TTN):c.64442T>C (p.Leu21481Pro)	TTN	Conflicting interpretations of pathogenicity	56399205
+NM_133378.4(TTN):c.64467A>G (p.Pro21489=)	TTN	Likely benign	397517692
+NM_133378.4(TTN):c.64598C>A (p.Thr21533Asn)	TTN	Likely benign	192962624
+NM_133378.4(TTN):c.65078G>A (p.Arg21693Gln)	TTN	Conflicting interpretations of pathogenicity	142874389
+NM_133378.4(TTN):c.65099G>A (p.Arg21700His)	TTN	Conflicting interpretations of pathogenicity	140018785
+NM_133378.4(TTN):c.65227A>G (p.Thr21743Ala)	TTN	Conflicting interpretations of pathogenicity	56201325
+NM_133378.4(TTN):c.65464A>G (p.Thr21822Ala)	TTN	Conflicting interpretations of pathogenicity	182491843
+NM_133378.4(TTN):c.65520G>A (p.Gly21840=)	TTN	Conflicting interpretations of pathogenicity	371034493
+NM_133378.4(TTN):c.65900C>A (p.Ser21967Tyr)	TTN	Conflicting interpretations of pathogenicity	201804005
+NM_133378.4(TTN):c.66039C>A (p.Asp22013Glu)	TTN	Likely benign	727504603
+NM_133378.4(TTN):c.66408T>C (p.Ser22136=)	TTN	Likely benign	397517697
+NM_133378.4(TTN):c.66477A>G (p.Val22159=)	TTN	Likely benign	374889737
+NM_133378.4(TTN):c.66486T>G (p.Gly22162=)	TTN	Likely benign	201797603
+NM_133378.4(TTN):c.66627C>T (p.Asp22209=)	TTN	Conflicting interpretations of pathogenicity	368530092
+NM_133378.4(TTN):c.66800A>G (p.Tyr22267Cys)	TTN	Conflicting interpretations of pathogenicity	201724962
+NM_133378.4(TTN):c.66845A>G (p.Asp22282Gly)	TTN	Conflicting interpretations of pathogenicity	573415766
+NM_133378.4(TTN):c.67135C>T (p.Arg22379Cys)	TTN	Benign/Likely benign	744426
+NM_133378.4(TTN):c.6713C>T (p.Thr2238Met)	TTN	Conflicting interpretations of pathogenicity	201284459
+NM_133378.4(TTN):c.67190A>C (p.Gln22397Pro)	TTN	Likely benign	786205329
+NM_133378.4(TTN):c.67268T>C (p.Ile22423Thr)	TTN	Benign/Likely benign	744427
+NM_133378.4(TTN):c.6727G>T (p.Asp2243Tyr)	TTN	Benign/Likely benign	138787974
+NM_133378.4(TTN):c.67488T>C (p.Thr22496=)	TTN	Likely benign	370480927
+NM_133378.4(TTN):c.67818A>C (p.Ala22606=)	TTN	Benign/Likely benign	6732060
+NM_133378.4(TTN):c.68040C>T (p.Ser22680=)	TTN	Likely benign	786205379
+NM_133378.4(TTN):c.68041C>T (p.Arg22681Cys)	TTN	Conflicting interpretations of pathogenicity	397517702
+NM_133378.4(TTN):c.68265T>C (p.Val22755=)	TTN	Conflicting interpretations of pathogenicity	368759398
+NM_133378.4(TTN):c.68496T>C (p.Cys22832=)	TTN	Likely benign	397517705
+NM_133378.4(TTN):c.68639G>A (p.Ser22880Asn)	TTN	Benign/Likely benign	3813243
+NM_133378.4(TTN):c.68970T>C (p.Asp22990=)	TTN	Conflicting interpretations of pathogenicity	375553630
+NM_133378.4(TTN):c.69016T>C (p.Tyr23006His)	TTN	Benign/Likely benign	3813245
+NM_133378.4(TTN):c.69035C>A (p.Thr23012Lys)	TTN	Conflicting interpretations of pathogenicity	56372592
+NM_133378.4(TTN):c.69035C>T (p.Thr23012Met)	TTN	Conflicting interpretations of pathogenicity	56372592
+NM_133378.4(TTN):c.69283G>A (p.Asp23095Asn)	TTN	Conflicting interpretations of pathogenicity	143186270
+NM_133378.4(TTN):c.69309T>C (p.Tyr23103=)	TTN	Likely benign	397517707
+NM_133378.4(TTN):c.69512C>G (p.Ala23171Gly)	TTN	Conflicting interpretations of pathogenicity	56391938
+NM_133378.4(TTN):c.69574A>G (p.Asn23192Asp)	TTN	Benign	786205340
+NM_133378.4(TTN):c.69575A>G (p.Asn23192Ser)	TTN	Benign/Likely benign	3813246
+NM_133378.4(TTN):c.6981T>C (p.Asp2327=)	TTN	Likely benign	397517709
+NM_133378.4(TTN):c.69934A>G (p.Thr23312Ala)	TTN	Benign/Likely benign	56018860
+NM_133378.4(TTN):c.70012G>A (p.Glu23338Lys)	TTN	Conflicting interpretations of pathogenicity	56341835
+NM_133378.4(TTN):c.70068C>T (p.Thr23356=)	TTN	Likely benign	727505107
+NM_133378.4(TTN):c.70144C>T (p.Leu23382Phe)	TTN	Conflicting interpretations of pathogenicity	376814602
+NM_133378.4(TTN):c.70970T>C (p.Ile23657Thr)	TTN	Benign/Likely benign	12463674
+NM_133378.4(TTN):c.71007T>A (p.Ser23669=)	TTN	Likely benign	727504808
+NM_133378.4(TTN):c.71070A>G (p.Arg23690=)	TTN	Conflicting interpretations of pathogenicity	368270588
+NM_133378.4(TTN):c.71151T>C (p.Asp23717=)	TTN	Conflicting interpretations of pathogenicity	139953862
+NM_133378.4(TTN):c.71192T>A (p.Val23731Asp)	TTN	Conflicting interpretations of pathogenicity	73036377
+NM_133378.4(TTN):c.71358T>A (p.Gly23786=)	TTN	Benign/Likely benign	3731744
+NM_133378.4(TTN):c.71418A>G (p.Glu23806=)	TTN	Likely benign	727504497
+NM_133378.4(TTN):c.71451G>A (p.Val23817=)	TTN	Conflicting interpretations of pathogenicity	377618488
+NM_133378.4(TTN):c.71522G>A (p.Arg23841His)	TTN	Conflicting interpretations of pathogenicity	72648206
+NM_133378.4(TTN):c.71561T>C (p.Ile23854Thr)	TTN	Benign/Likely benign	3731745
+NM_133378.4(TTN):c.71613C>T (p.Arg23871=)	TTN	Benign	770029880
+NM_133378.4(TTN):c.71615G>A (p.Arg23872His)	TTN	Benign/Likely benign	56044609
+NM_133378.4(TTN):c.71706G>A (p.Gly23902=)	TTN	Conflicting interpretations of pathogenicity	140942979
+NM_133378.4(TTN):c.7174G>A (p.Gly2392Ser)	TTN	Benign/Likely benign	4894048
+NM_133378.4(TTN):c.71814T>C (p.Leu23938=)	TTN	Likely benign	367608273
+NM_133378.4(TTN):c.71908A>G (p.Thr23970Ala)	TTN	Benign/Likely benign	150682764
+NM_133378.4(TTN):c.71995A>G (p.Asn23999Asp)	TTN	Likely benign	786205324
+NM_133378.4(TTN):c.72079G>C (p.Asp24027His)	TTN	Benign	56307213
+NM_133378.4(TTN):c.72158C>A (p.Thr24053Lys)	TTN	Benign	3731746
+NM_133378.4(TTN):c.72158C>T (p.Thr24053Met)	TTN	Benign/Likely benign	3731746
+NM_133378.4(TTN):c.7242T>C (p.Ile2414=)	TTN	Likely benign	727503689
+NM_133378.4(TTN):c.72567C>T (p.Val24189=)	TTN	Conflicting interpretations of pathogenicity	199875474
+NM_133378.4(TTN):c.72618C>T (p.Ala24206=)	TTN	Benign/Likely benign	55892928
+NM_133378.4(TTN):c.72858G>A (p.Lys24286=)	TTN	Likely benign	397517717
+NM_133378.4(TTN):c.72882C>T (p.Ser24294=)	TTN	Conflicting interpretations of pathogenicity	748292845
+NM_133378.4(TTN):c.72931C>A (p.Gln24311Lys)	TTN	Benign/Likely benign	79926414
+NM_133378.4(TTN):c.72996A>G (p.Glu24332=)	TTN	Benign	751557221
+NM_133378.4(TTN):c.72997A>G (p.Ile24333Val)	TTN	Conflicting interpretations of pathogenicity	201562505
+NM_133378.4(TTN):c.72C>G (p.Thr24=)	TTN	Conflicting interpretations of pathogenicity	876657615
+NM_133378.4(TTN):c.73095C>A (p.Thr24365=)	TTN	Benign/Likely benign	3813247
+NM_133378.4(TTN):c.73201G>A (p.Val24401Ile)	TTN	Conflicting interpretations of pathogenicity	377667066
+NM_133378.4(TTN):c.73240T>C (p.Phe24414Leu)	TTN	Conflicting interpretations of pathogenicity	200406978
+NM_133378.4(TTN):c.73593T>C (p.Asp24531=)	TTN	Likely benign	727505134
+NM_133378.4(TTN):c.73617C>G (p.Tyr24539Ter)	TTN	Likely pathogenic	557312035
+NM_133378.4(TTN):c.73828G>T (p.Glu24610Ter)	TTN	Likely pathogenic	397517721
+NM_133378.4(TTN):c.73835T>C (p.Ile24612Thr)	TTN	Benign/Likely benign	182126530
+NM_133378.4(TTN):c.73908T>A (p.Gly24636=)	TTN	Likely benign	397517722
+NM_133378.4(TTN):c.74151C>T (p.Ile24717=)	TTN	Benign/Likely benign	56214710
+NM_133378.4(TTN):c.74154T>C (p.Val24718=)	TTN	Likely benign	727503558
+NM_133378.4(TTN):c.74188G>A (p.Asp24730Asn)	TTN	Conflicting interpretations of pathogenicity	200697681
+NM_133378.4(TTN):c.74377C>G (p.Pro24793Ala)	TTN	Benign/Likely benign	56137800
+NM_133378.4(TTN):c.74531C>A (p.Thr24844Lys)	TTN	Conflicting interpretations of pathogenicity	201489661
+NM_133378.4(TTN):c.74698A>C (p.Lys24900Gln)	TTN	Conflicting interpretations of pathogenicity	201958805
+NM_133378.4(TTN):c.74793C>T (p.Thr24931=)	TTN	Benign/Likely benign	199629314
+NM_133378.4(TTN):c.74856C>A (p.Asn24952Lys)	TTN	Conflicting interpretations of pathogenicity	56264840
+NM_133378.4(TTN):c.74984G>A (p.Arg24995His)	TTN	Conflicting interpretations of pathogenicity	118079537
+NM_133378.4(TTN):c.75036G>A (p.Thr25012=)	TTN	Conflicting interpretations of pathogenicity	56345408
+NM_133378.4(TTN):c.75069G>A (p.Trp25023Ter)	TTN	Likely pathogenic	727505288
+NM_133378.4(TTN):c.75094G>A (p.Ala25032Thr)	TTN	Benign/Likely benign	11896637
+NM_133378.4(TTN):c.75359G>A (p.Arg25120His)	TTN	Conflicting interpretations of pathogenicity	185002960
+NM_133378.4(TTN):c.7545C>T (p.Tyr2515=)	TTN	Benign/Likely benign	2291306
+NM_133378.4(TTN):c.75467T>G (p.Val25156Gly)	TTN	Conflicting interpretations of pathogenicity	201896662
+NM_133378.4(TTN):c.75619A>G (p.Ile25207Val)	TTN	Benign/Likely benign	3829746
+NM_133378.4(TTN):c.75969T>C (p.Gly25323=)	TTN	Benign/Likely benign	2366751
+NM_133378.4(TTN):c.76116C>T (p.Asn25372=)	TTN	Likely benign	727503555
+NM_133378.4(TTN):c.7619G>A (p.Arg2540His)	TTN	Conflicting interpretations of pathogenicity	397517725
+NM_133378.4(TTN):c.76444A>G (p.Ile25482Val)	TTN	Conflicting interpretations of pathogenicity	201348580
+NM_133378.4(TTN):c.76749A>G (p.Pro25583=)	TTN	Benign/Likely benign	73036373
+NM_133378.4(TTN):c.77688T>C (p.Thr25896=)	TTN	Likely benign	886038860
+NM_133378.4(TTN):c.77876G>A (p.Gly25959Asp)	TTN	Likely benign	886038882
+NM_133378.4(TTN):c.77947C>A (p.Pro25983Thr)	TTN	Likely benign	142478636
+NM_133378.4(TTN):c.78730A>G (p.Ile26244Val)	TTN	Likely benign	201918596
+NM_133378.4(TTN):c.78954G>A (p.Glu26318=)	TTN	Conflicting interpretations of pathogenicity	760858743
+NM_133378.4(TTN):c.78979G>A (p.Val26327Met)	TTN	Conflicting interpretations of pathogenicity	201290358
+NM_133378.4(TTN):c.78996C>T (p.Asn26332=)	TTN	Likely benign	727504793
+NM_133378.4(TTN):c.79107A>G (p.Val26369=)	TTN	Benign/Likely benign	55972010
+NM_133378.4(TTN):c.79206C>T (p.Gly26402=)	TTN	Likely benign	397517736
+NM_133378.4(TTN):c.79231G>A (p.Val26411Ile)	TTN	Conflicting interpretations of pathogenicity	201687390
+NM_133378.4(TTN):c.79383T>C (p.Leu26461=)	TTN	Benign/Likely benign	12621078
+NM_133378.4(TTN):c.79433T>G (p.Met26478Arg)	TTN	Conflicting interpretations of pathogenicity	143975327
+NM_133378.4(TTN):c.79641T>C (p.Tyr26547=)	TTN	Likely benign	369444690
+NM_133378.4(TTN):c.79708C>A (p.Pro26570Thr)	TTN	Conflicting interpretations of pathogenicity	72648227
+NM_133378.4(TTN):c.79959T>C (p.Ser26653=)	TTN	Likely benign	397517737
+NM_133378.4(TTN):c.80061T>C (p.Thr26687=)	TTN	Likely benign	397517738
+NM_133378.4(TTN):c.80104G>A (p.Val26702Ile)	TTN	Conflicting interpretations of pathogenicity	141624266
+NM_133378.4(TTN):c.80172C>T (p.Ile26724=)	TTN	Likely benign	786205372
+NM_133378.4(TTN):c.80173C>T (p.Arg26725Cys)	TTN	Benign/Likely benign	191482653
+NM_133378.4(TTN):c.80430A>G (p.Pro26810=)	TTN	Conflicting interpretations of pathogenicity	374612925
+NM_133378.4(TTN):c.8043C>T (p.Thr2681=)	TTN	Likely benign	776839697
+NM_133378.4(TTN):c.80483T>C (p.Ile26828Thr)	TTN	Benign/Likely benign	9808377
+NM_133378.4(TTN):c.80568G>A (p.Glu26856=)	TTN	Benign/Likely benign	9808036
+NM_133378.4(TTN):c.80690C>T (p.Ser26897Phe)	TTN	Conflicting interpretations of pathogenicity	146181116
+NM_133378.4(TTN):c.80703G>A (p.Ala26901=)	TTN	Likely benign	531445644
+NM_133378.4(TTN):c.80806G>A (p.Asp26936Asn)	TTN	Likely benign	376679796
+NM_133378.4(TTN):c.80868C>A (p.Ala26956=)	TTN	Likely benign	886038792
+NM_133378.4(TTN):c.80868C>T (p.Ala26956=)	TTN	Likely benign	886038792
+NM_133378.4(TTN):c.81029G>A (p.Arg27010His)	TTN	Conflicting interpretations of pathogenicity	374147064
+NM_133378.4(TTN):c.81154C>T (p.Leu27052=)	TTN	Conflicting interpretations of pathogenicity	115070904
+NM_133378.4(TTN):c.81267A>G (p.Pro27089=)	TTN	Likely benign	786205325
+NM_133378.4(TTN):c.81313C>T (p.Arg27105Ter)	TTN	Pathogenic/Likely pathogenic	886038916
+NM_133378.4(TTN):c.81432C>T (p.Asn27144=)	TTN	Likely benign	376289479
+NM_133378.4(TTN):c.81613A>T (p.Ile27205Leu)	TTN	Benign/Likely benign	77853750
+NM_133378.4(TTN):c.81682G>A (p.Val27228Met)	TTN	Conflicting interpretations of pathogenicity	72648237
+NM_133378.4(TTN):c.81722G>A (p.Arg27241Gln)	TTN	Conflicting interpretations of pathogenicity	72648238
+NM_133378.4(TTN):c.82135C>T (p.Arg27379Ter)	TTN	Likely pathogenic	727505224
+NM_133378.4(TTN):c.82425A>G (p.Thr27475=)	TTN	Likely benign	727504960
+NM_133378.4(TTN):c.82542A>G (p.Ile27514Met)	TTN	Likely benign	886038812
+NM_133378.4(TTN):c.82832G>A (p.Arg27611His)	TTN	Conflicting interpretations of pathogenicity	149567378
+NM_133378.4(TTN):c.8292G>A (p.Leu2764=)	TTN	Likely benign	727503687
+NM_133378.4(TTN):c.82934T>C (p.Ile27645Thr)	TTN	Conflicting interpretations of pathogenicity	114026724
+NM_133378.4(TTN):c.83038G>A (p.Val27680Ile)	TTN	Likely benign	727505024
+NM_133378.4(TTN):c.83122T>G (p.Cys27708Gly)	TTN	Conflicting interpretations of pathogenicity	150430592
+NM_133378.4(TTN):c.8314G>A (p.Val2772Met)	TTN	Benign/Likely benign	143035953
+NM_133378.4(TTN):c.83264G>A (p.Arg27755Lys)	TTN	Benign/Likely benign	11887722
+NM_133378.4(TTN):c.83367T>G (p.Thr27789=)	TTN	Benign/Likely benign	11897366
+NM_133378.4(TTN):c.83468A>C (p.Glu27823Ala)	TTN	Likely benign	786205369
+NM_133378.4(TTN):c.83635T>C (p.Leu27879=)	TTN	Likely benign	397517753
+NM_133378.4(TTN):c.83721C>T (p.Asp27907=)	TTN	Likely benign	145133144
+NM_133378.4(TTN):c.83772T>G (p.Tyr27924Ter)	TTN	Likely pathogenic	727504646
+NM_133378.4(TTN):c.83868A>G (p.Pro27956=)	TTN	Benign	786205334
+NM_133378.4(TTN):c.83869A>G (p.Ile27957Val)	TTN	Benign	72648244
+NM_133378.4(TTN):c.83917G>A (p.Gly27973Arg)	TTN	Conflicting interpretations of pathogenicity	200854704
+NM_133378.4(TTN):c.84027C>T (p.Asp28009=)	TTN	Likely benign	727505073
+NM_133378.4(TTN):c.84061G>A (p.Ala28021Thr)	TTN	Conflicting interpretations of pathogenicity	148617456
+NM_133378.4(TTN):c.84180A>T (p.Arg28060Ser)	TTN	Benign	144922355
+NM_133378.4(TTN):c.84232A>G (p.Asn28078Asp)	TTN	Benign	786205328
+NM_133378.4(TTN):c.84427G>A (p.Val28143Met)	TTN	Benign/Likely benign	747122
+NM_133378.4(TTN):c.84472C>T (p.Pro28158Ser)	TTN	Conflicting interpretations of pathogenicity	72648247
+NM_133378.4(TTN):c.84487A>G (p.Ile28163Val)	TTN	Benign/Likely benign	16866391
+NM_133378.4(TTN):c.8467G>T (p.Val2823Phe)	TTN	Benign/Likely benign	33917087
+NM_133378.4(TTN):c.84763G>A (p.Gly28255Ser)	TTN	Likely benign	727504934
+NM_133378.4(TTN):c.84789A>G (p.Thr28263=)	TTN	Likely benign	569803137
+NM_133378.4(TTN):c.84833T>C (p.Val28278Ala)	TTN	Benign/Likely benign	77968867
+NM_133378.4(TTN):c.85102G>A (p.Val28368Ile)	TTN	Conflicting interpretations of pathogenicity	200476500
+NM_133378.4(TTN):c.85197C>T (p.Ser28399=)	TTN	Conflicting interpretations of pathogenicity	11694623
+NM_133378.4(TTN):c.85301G>T (p.Ser28434Ile)	TTN	Conflicting interpretations of pathogenicity	180975448
+NM_133378.4(TTN):c.85539C>T (p.Ala28513=)	TTN	Benign/Likely benign	3731748
+NM_133378.4(TTN):c.85663G>A (p.Val28555Ile)	TTN	Likely benign	202096200
+NM_133378.4(TTN):c.85683C>T (p.Ser28561=)	TTN	Benign/Likely benign	35445420
+NM_133378.4(TTN):c.86197G>A (p.Val28733Ile)	TTN	Benign/Likely benign	67665715
+NM_133378.4(TTN):c.86277C>G (p.Val28759=)	TTN	Likely benign	370894846
+NM_133378.4(TTN):c.86312C>T (p.Thr28771Ile)	TTN	Conflicting interpretations of pathogenicity	184078016
+NM_133378.4(TTN):c.86316A>G (p.Glu28772=)	TTN	Likely benign	547439339
+NM_133378.4(TTN):c.86342G>A (p.Arg28781His)	TTN	Benign/Likely benign	181104321
+NM_133378.4(TTN):c.86820T>C (p.Asp28940=)	TTN	Likely benign	727505200
+NM_133378.4(TTN):c.87147T>A (p.Asp29049Glu)	TTN	Benign/Likely benign	72648256
+NM_133378.4(TTN):c.87343A>G (p.Ser29115Gly)	TTN	Benign/Likely benign	72648257
+NM_133378.4(TTN):c.87374C>A (p.Ala29125Asp)	TTN	Conflicting interpretations of pathogenicity	2288326
+NM_133378.4(TTN):c.87426C>A (p.Gly29142=)	TTN	Likely benign	727504857
+NM_133378.4(TTN):c.87538C>T (p.Arg29180Cys)	TTN	Conflicting interpretations of pathogenicity	142525903
+NM_133378.4(TTN):c.87555C>T (p.Leu29185=)	TTN	Conflicting interpretations of pathogenicity	72648258
+NM_133378.4(TTN):c.87593C>T (p.Ser29198Phe)	TTN	Conflicting interpretations of pathogenicity	191484894
+NM_133378.4(TTN):c.87705C>T (p.Asn29235=)	TTN	Likely benign	727505040
+NM_133378.4(TTN):c.87846G>A (p.Lys29282=)	TTN	Likely benign	775609788
+NM_133378.4(TTN):c.87849C>T (p.Ser29283=)	TTN	Benign/Likely benign	72648260
+NM_133378.4(TTN):c.87851T>C (p.Leu29284Pro)	TTN	Conflicting interpretations of pathogenicity	62621206
+NM_133378.4(TTN):c.87878A>G (p.Tyr29293Cys)	TTN	Likely benign	59148238
+NM_133378.4(TTN):c.8788G>A (p.Val2930Ile)	TTN	Conflicting interpretations of pathogenicity	56373393
+NM_133378.4(TTN):c.87948C>T (p.Thr29316=)	TTN	Likely benign	397517762
+NM_133378.4(TTN):c.87949G>A (p.Ala29317Thr)	TTN	Conflicting interpretations of pathogenicity	72648263
+NM_133378.4(TTN):c.88263C>T (p.Asn29421=)	TTN	Likely benign	775762346
+NM_133378.4(TTN):c.88454T>C (p.Ile29485Thr)	TTN	Benign/Likely benign	62621236
+NM_133378.4(TTN):c.88530C>T (p.Tyr29510=)	TTN	Conflicting interpretations of pathogenicity	376532382
+NM_133378.4(TTN):c.88548A>G (p.Thr29516=)	TTN	Conflicting interpretations of pathogenicity	369626133
+NM_133378.4(TTN):c.88611T>G (p.Thr29537=)	TTN	Likely benign	727503540
+NM_133378.4(TTN):c.8887A>C (p.Thr2963Pro)	TTN	Benign	200875815
+NM_133378.4(TTN):c.8919C>G (p.Ser2973=)	TTN	Benign/Likely benign	4894045
+NM_133378.4(TTN):c.89240C>T (p.Thr29747Ile)	TTN	Benign/Likely benign	56027402
+NM_133378.4(TTN):c.89274G>A (p.Leu29758=)	TTN	Likely benign	397517765
+NM_133378.4(TTN):c.8938G>A (p.Ala2980Thr)	TTN	Conflicting interpretations of pathogenicity	72647885
+NM_133378.4(TTN):c.89394C>T (p.Ile29798=)	TTN	Likely benign	786205323
+NM_133378.4(TTN):c.89487T>G (p.Leu29829=)	TTN	Likely benign	397517767
+NM_133378.4(TTN):c.89730C>A (p.Asn29910Lys)	TTN	Likely benign	786205295
+NM_133378.4(TTN):c.89784C>T (p.Ser29928=)	TTN	Likely benign	727504527
+NM_133378.4(TTN):c.89834G>A (p.Arg29945His)	TTN	Conflicting interpretations of pathogenicity	201080904
+NM_133378.4(TTN):c.89874C>T (p.Asp29958=)	TTN	Benign	142907833
+NM_133378.4(TTN):c.89909G>A (p.Arg29970His)	TTN	Benign/Likely benign	3731749
+NM_133378.4(TTN):c.90056G>A (p.Arg30019His)	TTN	Conflicting interpretations of pathogenicity	55704830
+NM_133378.4(TTN):c.90056G>C (p.Arg30019Pro)	TTN	Conflicting interpretations of pathogenicity	55704830
+NM_133378.4(TTN):c.90330T>C (p.Cys30110=)	TTN	Likely benign	727504928
+NM_133378.4(TTN):c.90430G>T (p.Glu30144Ter)	TTN	Likely pathogenic	727504679
+NM_133378.4(TTN):c.90460A>T (p.Ile30154Phe)	TTN	Benign/Likely benign	72648270
+NM_133378.4(TTN):c.90534T>C (p.Ser30178=)	TTN	Likely benign	879159807
+NM_133378.4(TTN):c.90538C>T (p.Arg30180Cys)	TTN	Conflicting interpretations of pathogenicity	72648272
+NM_133378.4(TTN):c.90563C>T (p.Thr30188Ile)	TTN	Conflicting interpretations of pathogenicity	199805060
+NM_133378.4(TTN):c.90590C>G (p.Ala30197Gly)	TTN	Conflicting interpretations of pathogenicity	72648273
+NM_133378.4(TTN):c.90685A>G (p.Asn30229Asp)	TTN	Benign	786205343
+NM_133378.4(TTN):c.90686A>G (p.Asn30229Ser)	TTN	Benign/Likely benign	149001703
+NM_133378.4(TTN):c.90796G>A (p.Glu30266Lys)	TTN	Likely benign	199761901
+NM_133378.4(TTN):c.90824G>A (p.Trp30275Ter)	TTN	Likely pathogenic	727504550
+NM_133378.4(TTN):c.90852T>C (p.Gly30284=)	TTN	Conflicting interpretations of pathogenicity	373853269
+NM_133378.4(TTN):c.90891A>G (p.Glu30297=)	TTN	Conflicting interpretations of pathogenicity	55977045
+NM_133378.4(TTN):c.90902G>C (p.Arg30301Pro)	TTN	Likely pathogenic	587780495
+NM_133378.4(TTN):c.90937C>T (p.Pro30313Ser)	TTN	Conflicting interpretations of pathogenicity	367979582
+NM_133378.4(TTN):c.91208G>A (p.Arg30403His)	TTN	Benign/Likely benign	4894028
+NM_133378.4(TTN):c.9129A>G (p.Gly3043=)	TTN	Likely benign	113275222
+NM_133378.4(TTN):c.91330A>T (p.Lys30444Ter)	TTN	Likely pathogenic	771511344
+NM_133378.4(TTN):c.91701C>T (p.Tyr30567=)	TTN	Likely benign	373722322
+NM_133378.4(TTN):c.91792G>T (p.Glu30598Ter)	TTN	Likely pathogenic	886038825
+NM_133378.4(TTN):c.91863C>G (p.Leu30621=)	TTN	Likely benign	745708104
+NM_133378.4(TTN):c.91863C>T (p.Leu30621=)	TTN	Conflicting interpretations of pathogenicity	745708104
+NM_133378.4(TTN):c.91877C>T (p.Pro30626Leu)	TTN	Likely benign	140025425
+NM_133378.4(TTN):c.91971A>C (p.Val30657=)	TTN	Likely benign	774836717
+NM_133378.4(TTN):c.92343A>C (p.Thr30781=)	TTN	Likely benign	727504698
+NM_133378.4(TTN):c.92391G>A (p.Arg30797=)	TTN	Benign	786205341
+NM_133378.4(TTN):c.92392G>A (p.Val30798Ile)	TTN	Benign/Likely benign	55675869
+NM_133378.4(TTN):c.92541A>C (p.Pro30847=)	TTN	Likely benign	777803018
+NM_133378.4(TTN):c.92577C>T (p.Tyr30859=)	TTN	Likely benign	373085562
+NM_133378.4(TTN):c.92755C>T (p.Pro30919Ser)	TTN	Benign/Likely benign	72629779
+NM_133378.4(TTN):c.92875G>A (p.Val30959Ile)	TTN	Benign/Likely benign	2278196
+NM_133378.4(TTN):c.92949C>A (p.Gly30983=)	TTN	Likely benign	727505326
+NM_133378.4(TTN):c.9338G>A (p.Arg3113His)	TTN	Conflicting interpretations of pathogenicity	141258018
+NM_133378.4(TTN):c.93507C>T (p.Leu31169=)	TTN	Benign	786205333
+NM_133378.4(TTN):c.93508C>T (p.Arg31170Cys)	TTN	Conflicting interpretations of pathogenicity	56273463
+NM_133378.4(TTN):c.9359G>A (p.Arg3120Gln)	TTN	Conflicting interpretations of pathogenicity	72647894
+NM_133378.4(TTN):c.93776G>A (p.Arg31259His)	TTN	Likely benign	376403708
+NM_133378.4(TTN):c.93961G>A (p.Val31321Ile)	TTN	Conflicting interpretations of pathogenicity	34924609
+NM_133378.4(TTN):c.94099A>G (p.Ile31367Val)	TTN	Benign/Likely benign	56376197
+NM_133378.4(TTN):c.94187G>A (p.Arg31396His)	TTN	Conflicting interpretations of pathogenicity	55669553
+NM_133378.4(TTN):c.94320A>G (p.Leu31440=)	TTN	Conflicting interpretations of pathogenicity	727504677
+NM_133378.4(TTN):c.94399G>A (p.Asp31467Asn)	TTN	Benign/Likely benign	144963736
+NM_133378.4(TTN):c.94452G>T (p.Arg31484=)	TTN	Conflicting interpretations of pathogenicity	376894729
+NM_133378.4(TTN):c.94479C>T (p.Arg31493=)	TTN	Likely benign	727504536
+NM_133378.4(TTN):c.94486G>A (p.Ala31496Thr)	TTN	Conflicting interpretations of pathogenicity	200237973
+NM_133378.4(TTN):c.94566C>T (p.His31522=)	TTN	Likely benign	786205330
+NM_133378.4(TTN):c.9461A>G (p.Lys3154Arg)	TTN	Benign/Likely benign	4893853
+NM_133378.4(TTN):c.94815C>T (p.Gly31605=)	TTN	Benign/Likely benign	2857265
+NM_133378.4(TTN):c.94816G>A (p.Val31606Ile)	TTN	Conflicting interpretations of pathogenicity	200430493
+NM_133378.4(TTN):c.9485A>G (p.Gln3162Arg)	TTN	Likely benign	727503681
+NM_133378.4(TTN):c.9488G>A (p.Arg3163His)	TTN	Conflicting interpretations of pathogenicity	149755500
+NM_133378.4(TTN):c.94891A>G (p.Ile31631Val)	TTN	Conflicting interpretations of pathogenicity	56347248
+NM_133378.4(TTN):c.95007C>T (p.Cys31669=)	TTN	Likely benign	568801205
+NM_133378.4(TTN):c.95046A>G (p.Thr31682=)	TTN	Likely benign	786205322
+NM_133378.4(TTN):c.95128G>T (p.Gly31710Ter)	TTN	Benign	786205337
+NM_133378.4(TTN):c.95129G>T (p.Gly31710Val)	TTN	Benign/Likely benign	3731752
+NM_133378.4(TTN):c.95173A>G (p.Lys31725Glu)	TTN	Conflicting interpretations of pathogenicity	72629783
+NM_133378.4(TTN):c.9519C>T (p.Asp3173=)	TTN	Benign/Likely benign	151129843
+NM_133378.4(TTN):c.95245C>T (p.Gln31749Ter)	TTN	Likely pathogenic	397517787
+NM_133378.4(TTN):c.95259C>T (p.Asn31753=)	TTN	Conflicting interpretations of pathogenicity	528502993
+NM_133378.4(TTN):c.95262T>C (p.Ser31754=)	TTN	Likely benign	200172231
+NM_133378.4(TTN):c.95349C>T (p.Thr31783=)	TTN	Conflicting interpretations of pathogenicity	3731753
+NM_133378.4(TTN):c.95443G>C (p.Glu31815Gln)	TTN	Conflicting interpretations of pathogenicity	148525155
+NM_133378.4(TTN):c.95503C>T (p.Leu31835=)	TTN	Conflicting interpretations of pathogenicity	773892755
+NM_133378.4(TTN):c.95659C>T (p.Arg31887Cys)	TTN	Benign	72629785
+NM_133378.4(TTN):c.95708G>A (p.Arg31903Gln)	TTN	Conflicting interpretations of pathogenicity	149391616
+NM_133378.4(TTN):c.95876T>C (p.Ile31959Thr)	TTN	Conflicting interpretations of pathogenicity	370618537
+NM_133378.4(TTN):c.96077G>A (p.Arg32026His)	TTN	Benign/Likely benign	3829747
+NM_133378.4(TTN):c.96547G>C (p.Ala32183Pro)	TTN	Conflicting interpretations of pathogenicity	185683410
+NM_133378.4(TTN):c.965G>A (p.Arg322Lys)	TTN	Likely benign	144557211
+NM_133378.4(TTN):c.96660C>T (p.Ser32220=)	TTN	Conflicting interpretations of pathogenicity	181679744
+NM_133378.4(TTN):c.96673A>C (p.Met32225Leu)	TTN	Benign/Likely benign	72629787
+NM_133378.4(TTN):c.96681G>A (p.Lys32227=)	TTN	Likely benign	397517790
+NM_133378.4(TTN):c.9669A>G (p.Gly3223=)	TTN	Likely benign	771162834
+NM_133378.4(TTN):c.96837T>C (p.Tyr32279=)	TTN	Likely benign	750079478
+NM_133378.4(TTN):c.96856G>C (p.Val32286Leu)	TTN	Conflicting interpretations of pathogenicity	55866005
+NM_133378.4(TTN):c.96872G>A (p.Arg32291Gln)	TTN	Benign/Likely benign	68080670
+NM_133378.4(TTN):c.97070A>C (p.Glu32357Ala)	TTN	Conflicting interpretations of pathogenicity	201218828
+NM_133378.4(TTN):c.970C>T (p.Pro324Ser)	TTN	Benign/Likely benign	72647845
+NM_133378.4(TTN):c.97239A>G (p.Glu32413=)	TTN	Conflicting interpretations of pathogenicity	372312805
+NM_133378.4(TTN):c.97281A>G (p.Gly32427=)	TTN	Likely benign	397517793
+NM_133378.4(TTN):c.97284C>T (p.Val32428=)	TTN	Benign/Likely benign	3829748
+NM_133378.4(TTN):c.97291C>T (p.Leu32431=)	TTN	Likely benign	727503532
+NM_133378.4(TTN):c.97479G>A (p.Ala32493=)	TTN	Conflicting interpretations of pathogenicity	371075036
+NM_133378.4(TTN):c.97635A>G (p.Ser32545=)	TTN	Likely benign	886038721
+NM_133378.4(TTN):c.97680A>G (p.Ala32560=)	TTN	Benign/Likely benign	3813250
+NM_133378.4(TTN):c.9781G>A (p.Val3261Met)	TTN	Benign/Likely benign	2291311
+NM_133378.4(TTN):c.97825G>A (p.Val32609Met)	TTN	Benign/Likely benign	55865284
+NM_133378.4(TTN):c.97827G>A (p.Val32609=)	TTN	Likely benign	727505323
+NM_133378.4(TTN):c.97878C>T (p.Ser32626=)	TTN	Benign/Likely benign	3829749
+NM_133378.4(TTN):c.98033C>G (p.Ala32678Gly)	TTN	Likely benign	370476812
+NM_133378.4(TTN):c.98065G>A (p.Glu32689Lys)	TTN	Benign/Likely benign	56324595
+NM_133378.4(TTN):c.98077C>T (p.Pro32693Ser)	TTN	Benign	786205336
+NM_133378.4(TTN):c.98078C>T (p.Pro32693Leu)	TTN	Benign/Likely benign	16866380
+NM_133378.4(TTN):c.98083G>T (p.Ala32695Ser)	TTN	Benign/Likely benign	67254537
+NM_133378.4(TTN):c.98084C>T (p.Ala32695Val)	TTN	Benign/Likely benign	66961115
+NM_133378.4(TTN):c.9811T>G (p.Ser3271Ala)	TTN	Likely benign	556720151
+NM_133378.4(TTN):c.982C>T (p.Arg328Cys)	TTN	Benign/Likely benign	16866538
+NM_133378.4(TTN):c.98416T>A (p.Phe32806Ile)	TTN	Likely benign	786205291
+NM_133378.4(TTN):c.98511C>T (p.Thr32837=)	TTN	Likely benign	886038793
+NM_133378.4(TTN):c.98571G>C (p.Gly32857=)	TTN	Benign/Likely benign	56207956
+NM_133378.4(TTN):c.9870T>C (p.Asp3290=)	TTN	Likely benign	727503680
+NM_133378.4(TTN):c.9879A>G (p.Glu3293=)	TTN	Benign/Likely benign	4894043
+NM_133378.4(TTN):c.98876A>T (p.Glu32959Val)	TTN	Conflicting interpretations of pathogenicity	55725279
+NM_133378.4(TTN):c.98915T>C (p.Ile32972Thr)	TTN	Conflicting interpretations of pathogenicity	55880440
+NM_133378.4(TTN):c.98971G>C (p.Glu32991Gln)	TTN	Conflicting interpretations of pathogenicity	199632397
+NM_133378.4(TTN):c.99083C>T (p.Thr33028Ile)	TTN	Benign/Likely benign	55842557
+NM_133378.4(TTN):c.99250C>T (p.Arg33084Ter)	TTN	-	565675340
+NM_133378.4(TTN):c.99357G>A (p.Lys33119=)	TTN	Likely benign	113190638
+NM_133378.4(TTN):c.99378G>A (p.Leu33126=)	TTN	Likely benign	727505278
+NM_133378.4(TTN):c.99385G>C (p.Glu33129Gln)	TTN	Conflicting interpretations of pathogenicity	199531140
+NM_133378.4(TTN):c.99563T>C (p.Val33188Ala)	TTN	Benign/Likely benign	16866378
+NM_133378.4(TTN):c.99689C>T (p.Pro33230Leu)	TTN	Likely benign	886038722
+NM_133378.4(TTN):c.99872T>C (p.Met33291Thr)	TTN	Conflicting interpretations of pathogenicity	72629793
+NM_133378.4(TTN):c.99953A>G (p.Lys33318Arg)	TTN	Likely benign	727504465
+NM_133379.4(TTN):c.10410C>T (p.Asp3470=)	TTN	Likely benign	727505183
+NM_133379.4(TTN):c.10411G>A (p.Ala3471Thr)	TTN	Likely benign	149878929
+NM_133379.4(TTN):c.10646G>A (p.Arg3549His)	TTN	Conflicting interpretations of pathogenicity	148115514
+NM_133379.4(TTN):c.11064T>C (p.Asn3688=)	TTN	Likely benign	727503672
+NM_133379.4(TTN):c.11075G>C (p.Ser3692Thr)	TTN	Conflicting interpretations of pathogenicity	147314430
+NM_133379.4(TTN):c.11253A>G (p.Arg3751=)	TTN	Likely benign	374616494
+NM_133379.4(TTN):c.11741C>G (p.Thr3914Arg)	TTN	Benign	116593093
+NM_133379.4(TTN):c.11849T>C (p.Ile3950Thr)	TTN	Likely benign	72647897
+NM_133379.4(TTN):c.12007C>T (p.Leu4003Phe)	TTN	Likely benign	200550488
+NM_133379.4(TTN):c.12067G>A (p.Gly4023Arg)	TTN	Benign	143253411
+NM_133379.4(TTN):c.12129A>G (p.Ala4043=)	TTN	Likely benign	727503669
+NM_133379.4(TTN):c.12153C>T (p.Asp4051=)	TTN	Likely benign	200304872
+NM_133379.4(TTN):c.12226G>A (p.Glu4076Lys)	TTN	Conflicting interpretations of pathogenicity	144690298
+NM_133379.4(TTN):c.12387G>A (p.Leu4129=)	TTN	Likely benign	142887857
+NM_133379.4(TTN):c.12716C>T (p.Ala4239Val)	TTN	Conflicting interpretations of pathogenicity	72647901
+NM_133379.4(TTN):c.13123G>T (p.Ala4375Ser)	TTN	Conflicting interpretations of pathogenicity	72647902
+NM_133379.4(TTN):c.13165G>A (p.Val4389Ile)	TTN	Benign	72648903
+NM_133379.4(TTN):c.13221G>A (p.Lys4407=)	TTN	Likely benign	529300203
+NM_133379.4(TTN):c.13347A>G (p.Ile4449Met)	TTN	Likely benign	144539321
+NM_133379.4(TTN):c.13374T>C (p.His4458=)	TTN	Likely benign	397517809
+NM_133379.4(TTN):c.13478A>C (p.Lys4493Thr)	TTN	Benign	78457662
+NM_133379.4(TTN):c.13614A>C (p.Gln4538His)	TTN	Likely benign	139344272
+NM_133379.4(TTN):c.13633G>A (p.Ala4545Thr)	TTN	Benign	147884688
+NM_133379.4(TTN):c.13746A>G (p.Gln4582=)	TTN	Likely benign	201945197
+NM_133379.4(TTN):c.13859A>C (p.Gln4620Pro)	TTN	Benign/Likely benign	139172299
+NM_133379.4(TTN):c.13936A>G (p.Lys4646Glu)	TTN	Benign	140909116
+NM_133379.4(TTN):c.13948C>T (p.Pro4650Ser)	TTN	Likely benign	149748934
+NM_133379.4(TTN):c.13980C>G (p.His4660Gln)	TTN	Benign	75785339
+NM_133379.4(TTN):c.14327T>C (p.Leu4776Ser)	TTN	Conflicting interpretations of pathogenicity	142132973
+NM_133379.4(TTN):c.14331G>C (p.Gly4777=)	TTN	Likely benign	397517813
+NM_133379.4(TTN):c.14399G>A (p.Gly4800Glu)	TTN	Likely benign	565140436
+NM_133379.4(TTN):c.14489A>G (p.Gln4830Arg)	TTN	Likely benign	144905085
+NM_133379.4(TTN):c.14492G>A (p.Cys4831Tyr)	TTN	Benign/Likely benign	150615457
+NM_133379.4(TTN):c.14493C>T (p.Cys4831=)	TTN	Likely benign	876657620
+NM_133379.4(TTN):c.14526T>A (p.Asn4842Lys)	TTN	Conflicting interpretations of pathogenicity	776361113
+NM_133379.4(TTN):c.14688T>C (p.Thr4896=)	TTN	Likely benign	727503666
+NM_133379.4(TTN):c.14744G>A (p.Arg4915His)	TTN	Benign	72648907
+NM_133379.4(TTN):c.14790C>G (p.Val4930=)	TTN	Likely benign	370038956
+NM_133379.4(TTN):c.14812A>G (p.Met4938Val)	TTN	Conflicting interpretations of pathogenicity	145581345
+NM_133379.4(TTN):c.15585T>C (p.Tyr5195=)	TTN	Likely benign	149543721
+NM_133379.4(TTN):c.15606C>T (p.Phe5202=)	TTN	Likely benign	138122578
+NM_133379.4(TTN):c.15660A>G (p.Lys5220=)	TTN	Likely benign	876657621
+NM_133379.4(TTN):c.16001C>T (p.Pro5334Leu)	TTN	Conflicting interpretations of pathogenicity	151253841
+NM_133379.4(TTN):c.16020T>C (p.His5340=)	TTN	Likely benign	200378944
+NM_133379.4(TTN):c.16160G>A (p.Cys5387Tyr)	TTN	Conflicting interpretations of pathogenicity	72648913
+NM_133379.4(TTN):c.16221G>A (p.Pro5407=)	TTN	Likely benign	397517819
+NM_133379.4(TTN):c.16432G>A (p.Val5478Met)	TTN	Benign	72648915
+NM_133379.4(TTN):c.16584T>C (p.Gly5528=)	TTN	Likely benign	876657622
+NM_133379.4(TTN):c.3002T>C (p.Met1001Thr)	TTN	Likely benign	148269839
+NM_133432.3(TTN):c.10620T>C (p.Ser3540=)	TTN	Likely benign	397517824
+NM_133432.3(TTN):c.10726G>A (p.Glu3576Lys)	TTN	Likely benign	375103237
+NM_133432.3(TTN):c.11196A>T (p.Thr3732=)	TTN	Likely benign	727503660
+NM_133432.3(TTN):c.11494G>T (p.Glu3832Ter)	TTN	Likely pathogenic	397517830
+NM_133432.3(TTN):c.11521A>G (p.Ile3841Val)	TTN	Benign	34070843
+NM_133432.3(TTN):c.11844A>G (p.Pro3948=)	TTN	Likely benign	72648921
+NM_133432.3(TTN):c.11866A>T (p.Ile3956Phe)	TTN	Benign/Likely benign	34618570
+NM_133432.3(TTN):c.12034G>A (p.Val4012Met)	TTN	Conflicting interpretations of pathogenicity	201437752
+NM_133432.3(TTN):c.12376G>A (p.Val4126Met)	TTN	Conflicting interpretations of pathogenicity	201506104
+NM_133432.3(TTN):c.12885A>G (p.Glu4295=)	TTN	Likely benign	727503654
+NM_133432.3(TTN):c.13068G>A (p.Gln4356=)	TTN	Likely benign	188071134
+NM_133432.3(TTN):c.13145G>A (p.Gly4382Asp)	TTN	Benign/Likely benign	55857742
+NM_133432.3(TTN):c.13170C>T (p.Ser4390=)	TTN	Likely benign	183328495
+NM_133432.3(TTN):c.13255A>C (p.Asn4419His)	TTN	Conflicting interpretations of pathogenicity	200204761
+NM_133432.3(TTN):c.13262A>G (p.Tyr4421Cys)	TTN	Conflicting interpretations of pathogenicity	34706803
+NM_133432.3(TTN):c.37252G>A (p.Val12418Met)	TTN	Likely benign	371725212
+TTN:c.100094G>A (p.Arg33365Gln)	TTN	Benign/Likely benign	55742743
+TTN:c.1003G>A (p.Val335Met)	TTN	Benign/Likely benign	72647846
+TTN:c.10100G>A (p.Arg3367Gln)	TTN	Benign	34819099
+TTN:c.101766G>C (p.Gln33922His)	TTN	Conflicting interpretations of pathogenicity	55886356
+TTN:c.105180G>C (p.Glu35060Asp)	TTN	Benign/Likely benign	56308529
+TTN:c.15792T>C (p.Ile5264=)	TTN	Benign/Likely benign	12993099
+TTN:c.18903C>T (p.Thr6301=)	TTN	Benign/Likely benign	72648950
+TTN:c.19204A>G (p.Met6402Val)	TTN	Benign/Likely benign	72648954
+TTN:c.22384G>C (p.Asp7462His)	TTN	Benign/Likely benign	12693166
+TTN:c.2244G>A (p.Glu748=)	TTN	Benign/Likely benign	6715406
+TTN:c.2270C>T (p.Pro757Leu)	TTN	Conflicting interpretations of pathogenicity	116307796
+TTN:c.24160A>T (p.Ile8054Leu)	TTN	Benign	72648976
+TTN:c.24431A>C (p.Glu8144Ala)	TTN	Benign/Likely benign	16866465
+TTN:c.25064C>A (p.Ala8355Glu)	TTN	Benign/Likely benign	2627043
+TTN:c.25274G>A (p.Ser8425Asn)	TTN	Benign/Likely benign	13390491
+TTN:c.25398T>A (p.Asp8466Glu)	TTN	Benign/Likely benign	72648986
+TTN:c.2781A>C (p.Thr927=)	TTN	Benign/Likely benign	55892860
+TTN:c.28313G>A (p.Arg9438Gln)	TTN	Benign/Likely benign	72648998
+TTN:c.2949C>T (p.Ile983=)	TTN	Benign/Likely benign	56310516
+TTN:c.3087T>C (p.Tyr1029=)	TTN	Benign/Likely benign	55863869
+TTN:c.32254G>A (p.Val10752Ile)	TTN	Benign/Likely benign	72650028
+TTN:c.3668C>T (p.Ala1223Val)	TTN	Conflicting interpretations of pathogenicity	78269740
+TTN:c.3759A>G (p.Arg1253=)	TTN	Benign/Likely benign	2291308
+TTN:c.3993C>T (p.Ile1331=)	TTN	Benign/Likely benign	55757622
+TTN:c.4246C>T (p.Arg1416Cys)	TTN	Benign/Likely benign	72647875
+TTN:c.4347A>G (p.Ser1449=)	TTN	Benign/Likely benign	719202
+TTN:c.4715G>A (p.Arg1572Gln)	TTN	Benign/Likely benign	12476289
+TTN:c.57464G>A (p.Arg19155Lys)	TTN	Benign/Likely benign	72646833
+TTN:c.6353T>C (p.Ile2118Thr)	TTN	Conflicting interpretations of pathogenicity	56404770
+TTN:c.7740T>G (p.Ile2580Met)	TTN	Benign	146590898
+TTN:c.7830G>C (p.Met2610Ile)	TTN	Benign/Likely benign	56142888
+TTN:c.81958G>A (p.Ala27320Thr)	TTN	Benign/Likely benign	56365600
+TTN:c.82385C>A (p.Thr27462Lys)	TTN	Benign/Likely benign	55933739
+TTN:c.83056G>A (p.Val27686Ile)	TTN	Benign/Likely benign	56309296
+TTN:c.84352C>T (p.Arg28118Cys)	TTN	Benign/Likely benign	56057221
+TTN:c.8492G>A (p.Ser2831Asn)	TTN	Benign/Likely benign	2306636
+TTN:c.87669T>C (p.His29223=)	TTN	Benign/Likely benign	72648229
+TTN:c.95035G>A (p.Asp31679Asn)	TTN	Conflicting interpretations of pathogenicity	116567963
+TTN:c.9597A>G (p.Glu3199=)	TTN	Benign/Likely benign	2291312
