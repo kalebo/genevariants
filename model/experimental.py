@@ -108,6 +108,7 @@ def train_and_evaluate_model(model, train, train_label, test, test_label):
     report = classification_report(np.argmax(test_label, axis=1), np.argmax(predictions, axis=1), target_names=ordered_labels_reduced)
     # Ugly hack to get precsion, recall, f1, support
     pr_scores = np.array(list(map(float, report.strip().split('\n')[-1].split()[3:])))
+    print(report)
 
     return loss_and_metrics_train, loss_and_metrics_test, auc_score, pr_scores
 
