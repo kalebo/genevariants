@@ -3,7 +3,17 @@ import re
 
 
 class FindProteinFamilies:
+    """
+    Use this script to identify the different protein families in the ClinVar data,
+    and then send the family data to a separate file.
+    """
     def create_variant_file_by_family(self, data, family):
+        """
+        Writes all inputs from the given protein family to a separate file.
+        :param data: Data from the ClinVar database containing SNPs
+        :param family: The family name to extract out
+        :return:
+        """
         outfile = open("data/" + family + "_variants.txt", "w")
         for line in data:
             features = re.split(r'\t+', line.rstrip('\t'))
@@ -55,8 +65,8 @@ class FindProteinFamilies:
         #
         # large_families = self.find_large_families(protein_families)
         # self.write_families_to_file(large_families)
-        self.create_variant_file_by_family(data, "COL") #change the gene name to create a new family file
-        self.create_variant_file_by_family(data, "TTN") #change the gene name to create a new family file
+        self.create_variant_file_by_family(data, "BRCA1") #change the gene name to create a new family file
+        self.create_variant_file_by_family(data, "BRCA2") #change the gene name to create a new family file
         print("break point")
 
     def main(self):
