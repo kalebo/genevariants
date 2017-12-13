@@ -125,10 +125,10 @@ if __name__ == '__main__':
         aaindex.init_from_file("data/aaindex1")
         feature_list = get_feature_list("data/features.txt")
 
-        pr = Preprocessor(aaindex, "data/TTN_variants.txt")
-        pr.add_conservation_data("data/conservation_data_TTN.txt")
+        pr = Preprocessor(aaindex, "data/BRC_variants.txt")
+        pr.add_conservation_data("data/conservation_data_BRC_family.txt")
         pr.preprocess(feature_list)
-        pr.data.to_csv("data/TTN_full.csv")
+        pr.data.to_csv("data/BRC_full.csv")
 
 
 

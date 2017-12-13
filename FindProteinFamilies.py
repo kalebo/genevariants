@@ -65,8 +65,7 @@ class FindProteinFamilies:
         #
         # large_families = self.find_large_families(protein_families)
         # self.write_families_to_file(large_families)
-        self.create_variant_file_by_family(data, "BRCA1") #change the gene name to create a new family file
-        self.create_variant_file_by_family(data, "BRCA2") #change the gene name to create a new family file
+        self.create_variant_file_by_family(data, "BRC") #change the gene name to create a new family file
         print("break point")
 
     def main(self):
